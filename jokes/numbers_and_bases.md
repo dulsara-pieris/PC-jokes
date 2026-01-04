@@ -652,3 +652,6 @@ It could turn anything into nothing.
 
 284. Why did hexadecimal feel fancy?  
 It always brought letters to the party.
+
+285. Why did the number zero feel invisible?  
+Nothing depended on it.
