@@ -6182,5 +6182,149 @@
   {
     "category": "Advanced Nerdy",
     "joke": "Why did the deadlock feel awkward?  \nEveryone was waiting."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did base 3 feel awkward?  \nIt was always caught between binary and decimal."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the number refuse to divide?  \nIt didn’t trust fractions."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did binary laugh at decimal?  \nIt only needed two jokes."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was base 16 artistic?  \nIt had more colors to choose from."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did zero never argue?  \nIt had no point."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the number go out of bounds?  \nIt crossed the array."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the integer feel strong?  \nIt stood on solid ground."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the float feel insecure?  \nIt kept rounding itself."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did IF feel important?  \nEverything depended on it."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did ELSE feel ignored?  \nIt was only there when things failed."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was XOR dramatic?  \nIt only worked when things were different."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did NOT get blamed?  \nIt flipped the situation."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did TRUE relax?  \nAll checks passed."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did FALSE panic?  \nNothing matched expectations."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the condition exhausted?  \nIt was evaluated too often."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the loop feel trapped?  \nIt had no exit."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the variable feel famous?  \nIt was globally known."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the array feel complete?  \nEvery index was filled."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the function feel lonely?  \nNo one ever called it."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the code crash?  \nReality disagreed with assumptions."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did Git feel dangerous?  \nIt could reset everything."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the branch feel hopeful?  \nMaybe it would get merged."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the commit lie again?  \nThe message said ‘temporary fix’."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the code feel clean?  \nIt passed the linter."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Debugging is like time travel:  \nYou fix the future by changing the past."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the CPU feel dizzy?  \nToo many context switches."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the cache proud?  \nIt was hit constantly."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the stack feel pressured?  \nToo many calls."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the heap nervous?  \nMemory leaks everywhere."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the scheduler panic?  \nEverything wanted attention."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the thread argue?  \nRace conditions."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was Big-O ignored?  \nConstants looked smaller."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the compiler sigh?  \nAnother warning ignored."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the kernel stay calm?  \nUser problems weren’t its concern."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the deadlock feel eternal?  \nEveryone waited forever."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the algorithm feel superior?  \nIt ran in linear time."
   }
 ]

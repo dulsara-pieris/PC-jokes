@@ -1096,3 +1096,39 @@ Too many arguments at once.
 
 522. Why did the deadlock feel awkward?  
 Everyone was waiting.
+
+523. Debugging is like time travel:  
+You fix the future by changing the past.
+
+524. Why did the CPU feel dizzy?  
+Too many context switches.
+
+525. Why was the cache proud?  
+It was hit constantly.
+
+526. Why did the stack feel pressured?  
+Too many calls.
+
+527. Why was the heap nervous?  
+Memory leaks everywhere.
+
+528. Why did the scheduler panic?  
+Everything wanted attention.
+
+529. Why did the thread argue?  
+Race conditions.
+
+530. Why was Big-O ignored?  
+Constants looked smaller.
+
+531. Why did the compiler sigh?  
+Another warning ignored.
+
+532. Why did the kernel stay calm?  
+User problems weren’t its concern.
+
+533. Why did the deadlock feel eternal?  
+Everyone waited forever.
+
+534. Why did the algorithm feel superior?  
+It ran in linear time.

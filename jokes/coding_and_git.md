@@ -946,3 +946,30 @@ No one merged it.
 
 455. Why did the code review hurt?  
 Too many comments.
+
+456. Why did the loop feel trapped?  
+It had no exit.
+
+457. Why did the variable feel famous?  
+It was globally known.
+
+458. Why did the array feel complete?  
+Every index was filled.
+
+459. Why did the function feel lonely?  
+No one ever called it.
+
+460. Why did the code crash?  
+Reality disagreed with assumptions.
+
+461. Why did Git feel dangerous?  
+It could reset everything.
+
+462. Why did the branch feel hopeful?  
+Maybe it would get merged.
+
+463. Why did the commit lie again?  
+The message said ‘temporary fix’.
+
+464. Why did the code feel clean?  
+It passed the linter.

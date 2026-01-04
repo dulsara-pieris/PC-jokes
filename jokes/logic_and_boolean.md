@@ -712,3 +712,24 @@ Too many failed conditions.
 
 337. Why was Boolean logic relaxing?  
 Only two choices.
+
+338. Why did IF feel important?  
+Everything depended on it.
+
+339. Why did ELSE feel ignored?  
+It was only there when things failed.
+
+340. Why was XOR dramatic?  
+It only worked when things were different.
+
+341. Why did NOT get blamed?  
+It flipped the situation.
+
+342. Why did TRUE relax?  
+All checks passed.
+
+343. Why did FALSE panic?  
+Nothing matched expectations.
+
+344. Why was the condition exhausted?  
+It was evaluated too often.

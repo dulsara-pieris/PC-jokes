@@ -496,3 +496,27 @@ They’re always relative.
 
 232. Why did binary break up with decimal?  
 They couldn’t agree on a point.
+
+233. Why did base 3 feel awkward?  
+It was always caught between binary and decimal.
+
+234. Why did the number refuse to divide?  
+It didn’t trust fractions.
+
+235. Why did binary laugh at decimal?  
+It only needed two jokes.
+
+236. Why was base 16 artistic?  
+It had more colors to choose from.
+
+237. Why did zero never argue?  
+It had no point.
+
+238. Why did the number go out of bounds?  
+It crossed the array.
+
+239. Why did the integer feel strong?  
+It stood on solid ground.
+
+240. Why did the float feel insecure?  
+It kept rounding itself.
