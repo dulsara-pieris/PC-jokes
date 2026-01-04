@@ -778,3 +778,12 @@ It always passed.
 
 359. Why did FALSE feel ashamed?  
 Nothing ever worked out.
+
+360. Why did AND feel stressed?  
+All conditions depended on it.
+
+361. Why did XOR feel dramatic?  
+It only worked when inputs differed.
+
+362. Why did TRUE feel confident?  
+It always passed tests.

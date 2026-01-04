@@ -1003,3 +1003,12 @@ No one called it.
 
 474. Why did Git feel rebellious?  
 It could reset history.
+
+475. Why did the loop feel trapped?  
+It forgot to break.
+
+476. Why did the variable feel shy?  
+It was declared private.
+
+477. Why did Git feel rebellious?  
+It could rewrite history.

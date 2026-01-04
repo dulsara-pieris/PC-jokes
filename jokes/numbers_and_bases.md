@@ -568,3 +568,15 @@ Nothing depended on it.
 
 256. Why did the number line feel stretched?  
 Too many points to cover.
+
+257. Why did the decimal feel insecure?  
+It was never whole.
+
+258. Why did base 2 feel lonely?  
+It had only one friend: 1.
+
+259. Why did the number zero feel powerful?  
+It could multiply anything to nothing.
+
+260. Why did base 16 feel superior?  
+It had more digits to play with.

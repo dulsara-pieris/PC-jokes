@@ -1159,3 +1159,12 @@ You’re guilty until proven innocent.
 
 543. Why was Big-O terrifying?  
 Growth spiraled out of control.
+
+544. Debugging is like archaeology:  
+You dig through layers of past mistakes.
+
+545. Why did the CPU feel tired?  
+Too many cycles.
+
+546. Why did Big-O look scary?  
+Growth got out of control.
