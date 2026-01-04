@@ -326,90 +326,284 @@
 
 163. Why was the eventual consistency so zen? It accepted uncertainty.
 
-164. There are 3 kinds of people: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+164. A UDP packet walks into a bar. The bartender doesn't acknowledge him.
 
-165. Why do programmers prefer dark mode? Because light attracts bugs.
+165. There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.
 
-166. Why did the Python programmer go hungry? Because he didn’t import food.
+166. What's the object-oriented way to get rich? Inheritance.
 
-167. Why did the developer go to therapy? Too many unresolved exceptions.
+167. I would tell you a UDP joke, but you might not get it.
 
-168. Why do Java developers wear glasses? Because they can't C#.
+168. What's the difference between Java and JavaScript? One is essentially a toy, designed for writing small pieces of code, and historically used for annoying things like scrolling text. The other is a scripting language for web browsers.
 
-169. Why was the developer afraid of elevators? Because he couldn’t handle the stack trace.
+169. What do you call a programmer who doesn't comment their code? An optimist.
 
-170. A programmer’s wife asks him to take out the trash; he gives her a Boolean answer.
+170. How many programmers does it take to screw in a lightbulb? None, that's a hardware problem. Wait, why is it dark?
 
-171. Why did the coder get lost? He couldn’t find the main() function.
+171. Why did the programmer quit his job? He didn't get arrays. His boss didn't get objects. And HR didn't get exceptions.
 
-172. Why did the coder go broke? He ran out of cache.
+172. In theory, there's no difference between theory and practice. In practice, there is.
 
-173. Why did the programmer quit his job? He didn’t get arrays.
+173. A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 99999999999 beers. Orders a lizard. Orders -1 beers. Orders a ueicbksjdhd.
 
-174. Why did the programmer cross the road? Because he needed to get to the other IDE.
+174. Why do programmers prefer dark mode? Because light attracts bugs, and they already have enough of those.
 
-175. Why did the coder get kicked out of school? Because he kept breaking class rules.
+175. Programmer: A machine that turns coffee into code.
 
-176. Why do programmers hate nature? It has too many bugs.
+176. What's the most used function in a programmer's life? The sleep function... which they never call.
 
-177. There are 3 kinds of people in the world: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+177. Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.
 
-178. Why do programmers love keyboards?  
+178. The best thing about a Boolean is that even if you're wrong, you're only off by a bit.
+
+179. What's the difference between a programmer and a user? The programmer thinks the system works. The user knows better.
+
+180. Why did the developer stay calm during the outage? They had try-catch blocks around their anxiety.
+
+181. A programmer is told to 'go to hell.' They find the worst thing is that it's a Java shop.
+
+182. What do you call someone who writes perfect code on the first try? A liar.
+
+183. A programmer's spouse says: 'While you're out, get some milk.' They never returned.
+
+184. Documentation is like sex: when it's good, it's very, very good; and when it's bad, it's better than nothing.
+
+185. How do you tell HTML from HTML5? Try it out in Internet Explorer. Did it work? No? It's HTML5.
+
+186. AI will never replace programmers. Because who else will AI blame when something goes wrong?
+
+187. The cloud is just someone else's computer, and now their problem.
+
+188. In Soviet Russia, code debugs YOU.
+
+189. Premature optimization is the root of all evil. But so is late optimization. So basically, just feel guilty.
+
+190. What's a programmer's favorite hangout? The Foo Bar, obviously.
+
+191. In a world without walls and fences, who needs Windows and Gates?
+
+192. What do you get when you cross a developer with a magician? Code that works, but nobody knows why.
+
+193. Why did the startup fail? Too much disruption, not enough code.
+
+194. What's the hardest part about being a programmer? Explaining to family that you don't fix printers.
+
+195. Why did the database administrator leave their spouse? Too many foreign key constraints.
+
+196. Why do backend developers break up with frontend developers? They couldn't agree on REST.
+
+197. Why did the Agile team cross the road? To deliver value incrementally.
+
+198. What's the difference between a junior and senior developer? A senior developer knows which Stack Overflow answer to copy.
+
+199. What did the router say to the doctor? It hurts when IP. The doctor replied: 'Stop pinging yourself.'
+
+200. Why do programmers always mix up Christmas and Halloween? Because DEC 25 equals OCT 31. And yes, this is the third time we're telling this joke. That's not a bug, it's recursion.
+
+201. How many programmers does it take to change a light bulb? None. 'It's a hardware issue. Have you tried turning the room off and on again?'
+
+202. Why did the developer go to therapy? Because they had too many unresolved promises.
+
+203. What's a programmer's favorite exercise? A git pull-up.
+
+204. Artificial Intelligence will never replace programmers. Someone has to write 'Hello World' in the new framework that comes out every week.
+
+205. What do you call 8 hobbits? A hobbyte. What do you call 1024 hobbits? A hobbikilobyte.
+
+206. The best comment in code: // I'm not sure why this works, but it does. Don't touch it.
+
+207. What's a programmer's favorite type of music? Heavy metal. Because light modes attract bugs.
+
+208. Why don't programmers like to go outside? The graphics aren't good, there's no quest markers, and you can't save your progress.
+
+209. How to motivate a programmer: 'This will only take 5 minutes.' How to demotivate a programmer: 'This will only take 5 minutes.'
+
+210. A SQL query goes to a restaurant. It walks up to two tables and asks: 'Mind if I JOIN you?' They ignore it. It tries a LEFT JOIN. Still ignored. Finally it tries CROSS JOIN. Now everyone's uncomfortable.
+
+211. What's the best thing about UDP jokes? I don't care if you get them.
+
+212. What do you call a group of 8 bits? A byte. What do you call a group of 8 programmers? A burnout.
+
+213. Why did the NoSQL database go to therapy? It had trouble with relationships.
+
+214. What did the Java developer say to the C++ developer? 'You have no class.' C++ developer: 'At least I have friends... err... pointers.'
+
+215. Why was the database so emotional? Too many relationships and foreign attachments.
+
+216. Why did the machine learning model break up with its trainer? It found a better fit elsewhere.
+
+217. What's a programmer's biggest fear? Not bugs. Not deadlines. It's 'This code was last modified 5 years ago by someone who left the company.'
+
+218. Why did the programmer start a garden? They heard about branches and thought it sounded relaxing. They were wrong.
+
+219. What do you call a developer who gets out of the shower to check if their code is still running? Committed.
+
+220. Why did the developer cry? They just found out semicolons are optional in JavaScript. All those years... wasted.
+
+221. What do you call someone who used to code but doesn't anymore? A has-bean. Get it? Java? Beans? No? Tough crowd.
+
+222. What's the programmer's version of 'the dog ate my homework'? 'It worked on my local environment.'
+
+223. What's the difference between a programmer and a software engineer? About $20k and a superiority complex.
+
+224. What do you call a programmer who doesn't drink coffee? Asleep.
+
+225. A programmer's dinner: 1) Order pizza 2) Code while waiting 3) Pizza arrives 4) Keep coding 5) Find cold pizza at 3 AM 6) Victory
+
+226. Why did the programmer die in the shower? The instructions on the shampoo said 'Lather, Rinse, Repeat' and they were stuck in an infinite loop.
+
+227. What's a full-stack developer? Someone who's halfway decent at everything and an expert at nothing. Also: exhausted.
+
+228. A programmer's partner asks: 'Do you want to go out for dinner?' Programmer: 'Yes.' Partner: 'Where should we go?' Programmer: 'Yes.'
+
+229. Why did the programmer get fired from the fruit stand? They kept trying to compare apples to oranges using ===.
+
+230. What's the difference between a virus and Windows? Viruses are well-documented.
+
+231. Why don't programmers play hide and seek? Because good luck hiding from git blame.
+
+232. Why did the developer get arrested? They committed to master without a pull request.
+
+233. What do you call a programmer who's afraid of commitment? Someone who refuses to use Git.
+
+234. Why did the JavaScript developer wear glasses? Because they couldn't C#. And they refused to learn Java because it wasn't cool.
+
+235. What's the difference between a junior dev and a senior dev? Junior: 'It doesn't work and I don't know why.' Senior: 'It works and I don't know why.'
+
+236. Why did the programmer stay up all night? They found a semicolon in their Python code.
+
+237. Why did the Docker container feel boxed in? Because it was containerized.
+
+238. What's the most dangerous animal for a programmer? A bugbear.
+
+239. What do you call a programmer who only codes in one language? A specialist. What do you call a programmer who codes in many languages? Unemployed, because they're too busy learning.
+
+240. What's a programmer's worst nightmare? 'Works on my machine' becoming 'Worked on my machine.'
+
+241. What do you call a room full of programmers? A stackoverflow.
+
+242. Why was the CSS file feeling down? It had no class and lost all its style.
+
+243. What's the difference between a programmer and a software engineer? About three years and a degree they never use.
+
+244. What's a programmer's favorite type of tree? A binary tree, because it's the only thing in their life that's balanced.
+
+245. Why did the AI go to school? To improve its learning rate. It dropped out because it overfit.
+
+246. What's the difference between Windows and a virus? You can remove a virus.
+
+247. What do you call a developer who doesn't know Git? Lost in version hell.
+
+248. Why was the REST API so tired? Too many GET requests and not enough sleep endpoints.
+
+249. What's the first rule of optimization? Don't. What's the second rule? Don't... yet.
+
+250. What's the difference between a programmer and a hacker? A programmer builds locks. A hacker picks them. Both blame Microsoft.
+
+251. Why did the microservice go to therapy? It felt too small and insignificant in the larger system.
+
+252. What do you call a developer who writes perfect code? A mythical creature, like a unicorn or a reasonable deadline.
+
+253. What's a programmer's favorite martial art? Kung Fu. Specifically, Kung Foo Bar.
+
+254. What's the hardest part about being a programmer? Explaining to your family that you can't fix their iPhone.
+
+255. Why did the blockchain developer break up? They couldn't trust anyone after so many 51% attacks.
+
+256. Why was the machine learning model so expensive to train? It had expensive taste in GPUs.
+
+257. Why did the programmer always carry a screwdriver? In case they needed to debug hardware.
+
+258. What's a DevOps engineer? A sysadmin who can't say no to developers.
+
+259. What do you call a programmer who only tests in production? Brave. Or unemployed. Usually unemployed.
+
+260. Why did the cybersecurity expert break up with their partner? Too many trust issues and not enough encryption.
+
+261. There are 3 kinds of people: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+
+262. Why do programmers prefer dark mode? Because light attracts bugs.
+
+263. Why did the Python programmer go hungry? Because he didn’t import food.
+
+264. Why did the developer go to therapy? Too many unresolved exceptions.
+
+265. Why do Java developers wear glasses? Because they can't C#.
+
+266. Why was the developer afraid of elevators? Because he couldn’t handle the stack trace.
+
+267. A programmer’s wife asks him to take out the trash; he gives her a Boolean answer.
+
+268. Why did the coder get lost? He couldn’t find the main() function.
+
+269. Why did the coder go broke? He ran out of cache.
+
+270. Why did the programmer quit his job? He didn’t get arrays.
+
+271. Why did the programmer cross the road? Because he needed to get to the other IDE.
+
+272. Why did the coder get kicked out of school? Because he kept breaking class rules.
+
+273. Why do programmers hate nature? It has too many bugs.
+
+274. There are 3 kinds of people in the world: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+
+275. Why do programmers love keyboards?  
    Because they have all the keys to success.
 
-179. Why did the coder go to the beach?  
+276. Why did the coder go to the beach?  
    To surf the web.
 
-180. Why did the database admin go broke?  
+277. Why did the database admin go broke?  
    Too many bad relationships.
 
-181. Why did the programmer stay calm during a fire?  
+278. Why did the programmer stay calm during a fire?  
    He used try…catch.
 
-182. Why did the coder break up with JavaScript?  
+279. Why did the coder break up with JavaScript?  
    Too many callbacks.
 
-183. Why do programmers love pizza?  
+280. Why do programmers love pizza?  
    Because it has all the right slices.
 
-184. Why did the developer get lost?  
+281. Why did the developer get lost?  
    He couldn’t find the main() function.
 
-185. Why was the coder stressed?  
+282. Why was the coder stressed?  
    Too many threads to manage.
 
-186. How do programmers cheer each other up?  
+283. How do programmers cheer each other up?  
    They console.log their feelings.
 
-187. Why did the programmer cross the road?  
+284. Why did the programmer cross the road?  
     To get to the other IDE.
 
-188. Why did the Python programmer go hungry?  
+285. Why did the Python programmer go hungry?  
     Because he didn’t import food.
 
-189. Why did the coder love Linux?  
+286. Why did the coder love Linux?  
     Because he loved the terminal.
 
-190. Why was the database sad?  
+287. Why was the database sad?  
     Too many tables with bad relationships.
 
-191. Why do programmers hate bugs?  
+288. Why do programmers hate bugs?  
     They always crash the party.
 
-192. Why did the programmer bring a ladder to work?  
+289. Why did the programmer bring a ladder to work?  
     To reach the top of the stack.
 
-193. Why did the developer always carry a notebook?  
+290. Why did the developer always carry a notebook?  
     To keep track of his stack.
 
-194. Why did the computer go to art school?  
+291. Why did the computer go to art school?  
     To improve its graphics.
 
-195. Why did the coder get kicked out of school?  
+292. Why did the coder get kicked out of school?  
     He kept breaking class rules.
 
-196. What do you call 8 hobbits?  
+293. What do you call 8 hobbits?  
     A hobbyte.
 
-197. There are 3 kinds of people:  
+294. There are 3 kinds of people:  
     Those who can count in ternary, those who can’t, and those who didn’t expect ternary.

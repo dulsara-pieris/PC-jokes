@@ -236,44 +236,242 @@
 
 118. Why did the programmer love puzzles? Debugging was just harder puzzles.
 
-119. Why do Java developers wear glasses? Because they don’t C#.
+119. A programmer's wife tells him: 'Go to the store and buy a loaf of bread. If they have eggs, buy a dozen.' He comes back with 12 loaves of bread.
 
-120. I would tell you a joke about Git… But you might not `merge` it well.
+120. Why do programmers always mix up Halloween and Christmas? Because Oct 31 == Dec 25.
 
-121. Why did the programmer go broke? Because he used up all his cache.
+121. Debugging: Being the detective in a crime movie where you're also the murderer.
 
-122. A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'
+122. git commit -m 'Fixed a bug' // Narrator: They did not fix the bug.
 
-123. Why was the function sad after a breakup? It lost its closure.
+123. Programming is 10% writing code and 90% understanding why it doesn't work.
 
-124. A SQL query walks into a bar, walks up to two tables, and asks: "Can I join you?"
+124. Why did the developer go broke? Because he used up all his cache and his inheritance was deprecated.
 
-125. Why did the programmer bring a ladder?  
+125. My code doesn't work and I don't know why. My code works and I don't know why.
+
+126. It's not a bug, it's an undocumented feature.
+
+127. Real programmers count from 0.
+
+128. Copy-paste is a design pattern.
+
+129. There are only two types of programming languages: those people complain about and those nobody uses.
+
+130. When I wrote this code, only God and I understood it. Now only God knows.
+
+131. 99 little bugs in the code, 99 little bugs. Take one down, patch it around, 117 little bugs in the code.
+
+132. GitHub: Where you can fork someone's repo but not their life decisions.
+
+133. My code is compiling. *Stares at screen for 10 minutes doing nothing*
+
+134. Why do programmers prefer dark chocolate? Because it's bitter, like their code reviews.
+
+135. I don't always test my code, but when I do, I do it in production.
+
+136. Code never lies. Comments sometimes do.
+
+137. git push --force // Also known as 'Not my problem anymore.'
+
+138. Why don't keyboards sleep? Because they have two shifts.
+
+139. There's no place like 127.0.0.1.
+
+140. Why do programmers hate meetings? Because they're functions with no return value.
+
+141. What's the best way to generate a random string? Put a new programmer in front of vim and tell them to exit.
+
+142. Walking on water and developing software from a specification are easy if both are frozen.
+
+143. Roses are red, violets are blue, unexpected '}' on line 32.
+
+144. Why did the programmer use PHP? Because they enjoyed pain.
+
+145. git blame - For when you need to know who to blame for that bug. Spoiler: It's always you.
+
+146. The best code is no code at all.
+
+147. Why do programmers love their keyboards? It's the only thing that listens to them without talking back.
+
+148. The code that works is temporary. The code that doesn't work is permanent.
+
+149. Legacy code: Code that makes money.
+
+150. Programmer: 'I've got a problem.' Friend: 'Have you tried turning it off and on again?' Programmer: 'I AM the problem.'
+
+151. 404: Joke not found. Wait, that IS the joke.
+
+152. What's the programmer's favorite pickup line? 'Are you a compiler? Because you make my heart race with errors.'
+
+153. Every programmer has two lives. The second one starts when they realize they have only one life and can't respawn.
+
+154. A programmer puts two glasses on the bedside table before going to sleep: one full of water in case they get thirsty, and one empty in case they don't.
+
+155. How to fix a bug: 1) Google the error message 2) Copy code from Stack Overflow 3) It doesn't work 4) Google another error message 5) Repeat
+
+156. Programming is like writing a book... except if you miss a single comma on page 203, the whole thing makes no sense.
+
+157. What's the difference between 'Undefined' and 'Null'? About $50k in salary between the one who knows and the one who doesn't.
+
+158. Programmer (noun): An organism capable of converting caffeine into code.
+
+159. Real programmers don't comment their code. If it was hard to write, it should be hard to understand.
+
+160. How do you comfort a JavaScript developer? You console them.
+
+161. What's the most dangerous phrase in software development? 'It works on my machine.'
+
+162. Why did the programmer get stuck in the shower? The shampoo bottle said: Lather, Rinse, Repeat. No exit condition.
+
+163. git commit -m 'Fixed stuff' git push --force // Narrator: Nothing was fixed. Everything is worse now.
+
+164. Programming: Where the only thing that works on Friday is the 'deploy to production' button.
+
+165. Why do programmers hate nature? Bugs everywhere, no documentation, and zero Stack Overflow answers.
+
+166. What's a programmer's least favorite place? Outside. No WiFi, no Stack Overflow, just bugs and sunlight.
+
+167. The six stages of debugging: 1) That can't happen 2) That doesn't happen on my machine 3) That shouldn't happen 4) Why does that happen? 5) Oh, that's why 6) How did that ever work?
+
+168. Why do programmers prefer dark mode? Light attracts bugs. Also, they're basically vampires at this point.
+
+169. Code review comments: 'Why?' 'How does this work?' 'This is genius!' 'This is terrible!' All referring to the same line.
+
+170. What's the programmer's favorite game? Hide and seek. Because good luck finding that bug.
+
+171. Programming is 10% science, 20% math, and 70% trying to figure out what you did last time that made it work.
+
+172. What's the difference between a good programmer and a great programmer? About 2 hours of Stack Overflow browsing.
+
+173. How many programmers does it take to screw in a lightbulb? None. We just document it as a known issue and move on.
+
+174. The three virtues of a programmer: Laziness, Impatience, and Hubris. Mostly laziness.
+
+175. Programmer's life cycle: Coffee → Code → Debug → More Coffee → Question Life Choices → More Code → Success! → Update breaks everything → Repeat
+
+176. What's the best way to learn programming? Start a project. Get stuck. Google. Copy code from Stack Overflow. Feel guilty. Understand nothing. Ship it anyway. Repeat.
+
+177. Programming is easy: 1% writing code, 99% Googling how to write code.
+
+178. The only 'intuitive' interface is the nipple. Everything else is learned. So stop complaining about the UI.
+
+179. If debugging is the process of removing bugs, then programming must be the process of putting them in.
+
+180. My code is self-documenting. That's what I tell myself before crying in the shower.
+
+181. Why do programmers hate the outdoors? Too many dependencies on sunlight.dll.
+
+182. How to name variables: name, name2, nameTemp, nameTemporary, actualName, finalName, finalNameForReal, nameThisTime, okayThisIsTheFinalName
+
+183. Programming taught me one thing: I can stare at a screen for 8 hours and accomplish absolutely nothing.
+
+184. Why do programmers prefer dark mode? Because their soul matches their IDE theme.
+
+185. How do you know a programmer is an extrovert? They look at YOUR shoes when talking to you.
+
+186. Real programmers count from 0. Real users count from 1. Real arguments start from there.
+
+187. Programming is the art of telling another human what one wants the computer to do. And then crying when it doesn't work.
+
+188. What's a programmer's favorite breakfast? A cup of Java and a side of C.
+
+189. The best thing about a Boolean is even if you're wrong, you're only off by a bit. The worst thing is you're completely wrong.
+
+190. How to become a senior developer: Step 1: Survive junior developer phase. Step 2: That's it. Survival is the key.
+
+191. Why do programmers make terrible comedians? Their jokes always have too many nested parentheses (((like this))).
+
+192. What's a programmer's favorite exercise? Running... their code. Definitely not actual running.
+
+193. What do you call a snake that's 3.14159 meters long? A π-thon.
+
+194. How do you generate a random string? Ask a Windows user to exit vim.
+
+195. Why do Java developers wear glasses? Because they can't C# clearly enough to realize Java is verbose.
+
+196. How many Microsoft engineers does it take to screw in a lightbulb? None. They just declare darkness as the new standard.
+
+197. What's the difference between a bug and a feature? Documentation.
+
+198. How to center a div: Step 1: Google 'how to center a div' Step 2-99: Try different solutions Step 100: Give up and use Flexbox
+
+199. Why do programmers hate mornings? Because they're still debugging last night's code.
+
+200. Why did the programmer quit their job? They didn't get arrays. Actually, they got arrays, but they were out of bounds.
+
+201. How do you know you're dating a programmer? They refer to your relationship as 'our codebase.'
+
+202. Why do programmers love keyboards? Because they're the only thing that listens without judgement. Until you press the wrong key.
+
+203. Programming is easy: You just need to know 1000 things and remember to never do 999 of them.
+
+204. How many programmers does it take to kill a process? kill -9. Always kill -9.
+
+205. Why do programmers always mix up Christmas and Halloween? Because DEC 25 = OCT 31. This joke is now deprecated but still in production.
+
+206. What's a programmer's favorite place to vacation? The cloud. It's always available and infinitely scalable.
+
+207. How do you comfort a JavaScript developer having an existential crisis? Tell them they're not undefined, just asynchronous.
+
+208. Why do programmers hate the beach? Sand. It's coarse, rough, and it gets everywhere. Also, no WiFi.
+
+209. How to explain programming to a non-programmer: 'I write recipes for a very stupid chef who follows them exactly.'
+
+210. Why do programmers prefer pets over children? Pets have fewer dependencies and are easier to debug.
+
+211. What's a programmer's favorite pickup line at a bar? 'Are you a keyboard? Because you're my type.'
+
+212. Why do programmers hate laundry? Because they have too many loads to balance and the sorting algorithm is terrible.
+
+213. What do you call a programmer who doesn't use Stack Overflow? A liar.
+
+214. Why do programmers shower at night? Because they fix bugs in their sleep and wake up dirty.
+
+215. What's the difference between a good commit message and a bad one? A good one tells you what changed. A bad one says 'stuff.'
+
+216. How do you know if someone uses Arch Linux? Don't worry, they'll tell you. Repeatedly.
+
+217. Why do programmers love coffee? Because Java was already taken as a language name.
+
+218. Why do Java developers wear glasses? Because they don’t C#.
+
+219. I would tell you a joke about Git… But you might not `merge` it well.
+
+220. Why did the programmer go broke? Because he used up all his cache.
+
+221. A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'
+
+222. Why was the function sad after a breakup? It lost its closure.
+
+223. A SQL query walks into a bar, walks up to two tables, and asks: "Can I join you?"
+
+224. Why did the programmer bring a ladder?  
    To reach the top of the stack.
 
-126. Why did Git break up with GitHub?  
+225. Why did Git break up with GitHub?  
    Too many conflicts.
 
-127. Why do programmers love version control?  
+226. Why do programmers love version control?  
    Because it keeps their mistakes documented.
 
-128. Why did the coder go broke at the restaurant?  
+227. Why did the coder go broke at the restaurant?  
    He forgot to close his table.
 
-129. Why was the programmer afraid of the stairs?  
+228. Why was the programmer afraid of the stairs?  
    He couldn’t handle recursion.
 
-130. How do you comfort a JavaScript bug?  
+229. How do you comfort a JavaScript bug?  
    Console it.
 
-131. Why do Python developers wear glasses?  
+230. Why do Python developers wear glasses?  
    They can’t C without them.
 
-132. Why did the function refuse to work?  
+231. Why did the function refuse to work?  
    It had too many dependencies.
 
-133. How do developers fix a broken website?  
+232. How do developers fix a broken website?  
    They Ctrl+Z their mistakes.
 
-134. Why was the code cold?  
+233. Why was the code cold?  
     Because it left its Windows open.

@@ -196,48 +196,102 @@
 
 98. What's a computer's favorite exercise? Bit-crunches.
 
-99. There are only 10 kinds of people: those who understand hexadecimal and those who don’t.
+99. Why do Java programmers have to wear glasses? Because they don't C#.
 
-100. Why do programmers prefer dark mode? Because light attracts bugs.
+100. Why was the JavaScript developer sad? Because he didn't Node how to Express himself, and he had no Backbone, so he couldn't React.
 
-101. Why was the function worried about its type? It didn’t want to lose its class.
+101. There are 10 types of people in this world: Those who understand binary, those who don't, and those who didn't expect a base 3 joke.
 
-102. Why are assembly programmers always soaking wet? They work below C-level.
+102. I have a joke about UDP, but I'm not sure if you'll get it.
 
-103. Why did the programmer write binary jokes? Because he wanted to be funny in ones and zeros.
+103. Why do programmers prefer hexadecimal? Because decimal is too mainstream and binary is too basic.
 
-104. There are 10 types of people in the world: Those who understand binary, and those who don’t.
+104. Why was the float always approximate? Because precision is expensive.
 
-105. Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25.
+105. Base 8 is just like base 10, really... if you're missing two fingers.
 
-106. Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!
+106. I'd tell you a Fibonacci joke, but it's probably as bad as the last two combined.
 
-107. Why did the computer take a nap?  
+107. There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors.
+
+108. I tried to write a joke in binary, but nobody got it. That's because 01110100 01101000 01100101 01111001 is too long.
+
+109. Why was the computer cold? It forgot to close its Windows. And yes, that's three 'computer cold' jokes now. We're feature complete.
+
+110. I have a great joke about UDP, but I'm afraid you won't get it. Unlike TCP, which will keep telling you the joke until you acknowledge it.
+
+111. Why do programmers get Halloween and Christmas mixed up? Because OCT 31 = DEC 25. This is now officially a running gag.
+
+112. What's a programmer's favorite operating system? Windows... said no programmer ever.
+
+113. Why is 6 afraid of 7? Because 7 is a prime number and prime numbers can be intimidating. Also, 7 8 9.
+
+114. There are only 10 types of people: those who understand binary, those who don't, those who expected a ternary joke, and those who realize this is actually base 4.
+
+115. What's a programmer's favorite type of party? A LAN party. No social interaction required.
+
+116. How many bits are in a byte? Eight. How many regrets are in a programmer? Infinite.
+
+117. Why was the equal sign so humble in math class? Because it knew it wasn't < or >.
+
+118. There are 10 types of people: those who understand hexadecimal, and F the rest.
+
+119. Why do programmers prefer dark chocolate? Because it's less likely to contain bugs than white chocolate.
+
+120. I tried to write a joke in base 13, but it was D.
+
+121. Why did the number 8 break up with 7? Because 7 ate 9, and 8 didn't want to be next.
+
+122. Why is 0 jealous of 8? Because 8 has a belt and 0 has nothing.
+
+123. Why did the bit go to the doctor? It was feeling a little off. The doctor said: 'You're just not aligned.'
+
+124. How do you make 7 even? Remove the 's'. How do you make it odd? Add 'ly' to make it oddly.
+
+125. Why is 6 afraid of 7? Because 7 is a registered six offender.
+
+126. There are only 10 kinds of people: those who understand hexadecimal and those who don’t.
+
+127. Why do programmers prefer dark mode? Because light attracts bugs.
+
+128. Why was the function worried about its type? It didn’t want to lose its class.
+
+129. Why are assembly programmers always soaking wet? They work below C-level.
+
+130. Why did the programmer write binary jokes? Because he wanted to be funny in ones and zeros.
+
+131. There are 10 types of people in the world: Those who understand binary, and those who don’t.
+
+132. Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25.
+
+133. Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!
+
+134. Why did the computer take a nap?  
    It had too many bytes.
 
-108. Why was the computer tired when it got home?  
+135. Why was the computer tired when it got home?  
    It had a hard drive.
 
-109. Why do programmers love binary?  
+136. Why do programmers love binary?  
    It’s as simple as 1, 0.
 
-110. Why did the integer break up with the float?  
+137. Why did the integer break up with the float?  
    Too many decimals.
 
-111. Why did the programmer go broke?  
+138. Why did the programmer go broke?  
    Because he lost his cache.
 
-112. Why are octal numbers afraid of decimal?  
+139. Why are octal numbers afraid of decimal?  
    They don’t want to be divided.
 
-113. Why was the array so sad?  
+140. Why was the array so sad?  
    Its indexes were all over the place.
 
-114. Why was 6 afraid of 7?  
+141. Why was 6 afraid of 7?  
    Because 7 8 9… in binary.
 
-115. Why do computers make terrible comedians?  
+142. Why do computers make terrible comedians?  
    They can’t handle negative feedback.
 
-116. Why did the coder get stuck in base 2?  
+143. Why did the coder get stuck in base 2?  
     He couldn’t find the decimal point.

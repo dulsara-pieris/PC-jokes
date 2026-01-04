@@ -210,56 +210,168 @@
 
 105. What do you call an operator with no operands? Lonely.
 
-106. If at first you don’t succeed; call it version 1.0.
+106. Two threads walk into a bar. The bartender yells, 'Hey, I want don't any conditions race like time last!'
 
-107. Why did the programmer go broke? He lost all his cache.
+107. Why do programmers prefer iOS over Android? Because on iOS, there's only one way to do things. On Android, there are too many. On Linux, there are infinite ways and none of them work.
 
-108. Programmers don’t die; they just get garbage collected.
+108. A programmer had a problem. He thought, 'I'll use regular expressions.' Now he has two problems.
 
-109. Why do programmers always mix up Christmas and Halloween? Because Oct 31 = Dec 25.
+109. Why do programmers get confused between Halloween and Christmas? Because Oct 31 = Dec 25. Oh wait, we already said that. Classic off-by-one error.
 
-110. Why did the programmer bring a ladder? Because he wanted to reach the top of the stack.
+110. What's a pirate's favorite programming language? You'd think it's R, but it's actually the C.
 
-111. How many programmers does it take to change a light bulb? None. That’s a hardware problem.
+111. Why do programmers hate nature? It has too many bugs and no debugger.
 
-112. To understand recursion, you must first understand recursion. 2. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
+112. A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?' They reply: 'Sure, but you'll have to wait. We're still trying to relate.'
+
+113. Why did the boolean go to therapy? It had trouble distinguishing true from false feelings.
+
+114. Software is like entropy: It's difficult to grasp, weighs nothing, and obeys the second law of thermodynamics - it always increases.
+
+115. The generation of random numbers is too important to be left to chance.
+
+116. Schrödinger's Backup: The condition of any backup is unknown until a restore is attempted.
+
+117. Why do programmers always confuse Christmas with Halloween? Because DEC 25 = OCT 31. Still funny every time.
+
+118. Why did the asynchronous function feel lonely? Because it had no one to await.
+
+119. Why did the functional programmer get lost? They couldn't find their way without side effects.
+
+120. Why did null and undefined go to couples therapy? They had identity issues.
+
+121. Why did the algorithm go to the gym? To improve its runtime.
+
+122. Why did the programmer prefer cats over dogs? Because cats are more independent and don't require constant attention, just like good code.
+
+123. What's the difference between a developer and a terrorist? You can negotiate with a terrorist.
+
+124. Why do programmers think Halloween and Christmas are the same? Because 31 OCT = 25 DEC. Yes, we're telling this joke again because it's that good.
+
+125. A programmer's wife asks: 'Could you go to the store and get a gallon of milk, and if they have eggs, get six.' The programmer returns with six gallons of milk. 'Why did you buy six gallons of milk?' 'They had eggs.'
+
+126. What's the second hardest thing in computer science after naming things? Explaining to non-programmers that you can't fix their printer.
+
+127. Why did the developer get kicked out of school? They kept trying to explain that 'undefined' is not the same as 'not defined.'
+
+128. A programmer's partner: 'Can you run to the store?' Programmer: 'sudo run to the store' Partner: 'What?' Programmer: 'What?'
+
+129. Why did the asynchronous function go to therapy? It had abandonment issues and couldn't await commitment.
+
+130. What's the difference between Java and JavaScript? About the same as the difference between car and carpet.
+
+131. Why do Python programmers wear glasses? Because they can't C. Why do C programmers wear glasses? Because they can't see sharp. C# programmers just cry.
+
+132. A programmer's spouse texts: 'Honey, while you're out can you pick up some bread? And if they have eggs, get a dozen.' Programmer returns with 12 loaves. Spouse: 'WHY?!' Programmer: 'They had eggs.'
+
+133. Why did the programmer refuse to eat the seafood? It smelled fishy and had no proper documentation.
+
+134. A programmer walks into a bar. Orders a beer. Orders NULL. Orders 99999999 beers. Orders -1 beers. Orders a '; DROP TABLE drinks;--
+
+135. Why don't programmers like to be in relationships? Too many dependencies and potential for circular references.
+
+136. Why did the Boolean get a divorce? Because their relationship was either True or False, no in between.
+
+137. Why do programmers always carry a ladder? In case they need to reach high-level abstractions.
+
+138. Why did the programmer get lost in the mall? They were looking for the Exception handler.
+
+139. What's the most romantic thing a programmer can say? 'You're not undefined to me.'
+
+140. What's the difference between a developer and a magician? A magician makes bugs disappear. A developer makes features disappear.
+
+141. Why did the programmer bring a ladder to work? To reach the cloud.
+
+142. A byte walks into a bar. The bartender asks: 'What'll it be?' Byte: 'Just a bit, thanks.'
+
+143. Why do programmers hate meetings? It's a function call with no return value and unpredictable side effects.
+
+144. What's faster than the speed of light? A programmer closing tabs when the boss walks by.
+
+145. A programmer goes to the grocery store with a list: 'Buy milk.' At the store, they never return. They're stuck in an infinite loop at 'Buy milk.'
+
+146. Why did the programmer get kicked out of the library? They kept trying to rebase history.
+
+147. Why don't programmers like to exercise? The only running they do is running code.
+
+148. Why did the programmer fail the driving test? They kept trying to shift bits instead of gears.
+
+149. What's a programmer's favorite fairy tale? Hansel and Gretel, because of the breadcrumb navigation.
+
+150. A SQL statement walks into a NoSQL bar. Leaves immediately because it couldn't find a table.
+
+151. What's a programmer's favorite type of meditation? Transcendental Recursion.
+
+152. Why don't programmers like revolving doors? Too many loops, no clear exit condition.
+
+153. What's a programmer's love language? Comments. Clear, concise comments.
+
+154. Why did the boolean refuse therapy? It was in denial. Which is neither true nor false.
+
+155. What's a programmer's favorite time of day? 3 AM, when the bugs finally make sense.
+
+156. Why did the programmer get stuck at the crosswalk? They were waiting for someone to call the walk() function.
+
+157. Why did the functional programmer refuse to date? They were afraid of mutable relationships.
+
+158. What's a programmer's idea of multitasking? Reading Stack Overflow while code compiles while coffee brews.
+
+159. What's the difference between a programmer and a user? A programmer sees a bug and fixes it. A user sees a bug and breaks everything trying to reproduce it.
+
+160. Why did the programmer wear headphones? To avoid while(1) conversations.
+
+161. What's a programmer's favorite sport? Sprint planning.
+
+162. If at first you don’t succeed; call it version 1.0.
+
+163. Why did the programmer go broke? He lost all his cache.
+
+164. Programmers don’t die; they just get garbage collected.
+
+165. Why do programmers always mix up Christmas and Halloween? Because Oct 31 = Dec 25.
+
+166. Why did the programmer bring a ladder? Because he wanted to reach the top of the stack.
+
+167. How many programmers does it take to change a light bulb? None. That’s a hardware problem.
+
+168. To understand recursion, you must first understand recursion. 2. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
    The Boolean replies, "True."
 
-113. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
+169. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
    The Boolean replies, "True."
 
-114. How many programmers does it take to change a light bulb?  
+170. How many programmers does it take to change a light bulb?  
    None. That’s a hardware problem.
 
-115. Why did the programmer get stuck in the shower?  
+171. Why did the programmer get stuck in the shower?  
    The instructions said: Lather, Rinse, Repeat.
 
-116. Why do programmers prefer dark mode?  
+172. Why do programmers prefer dark mode?  
    Because light attracts bugs.
 
-117. Why was the Boolean unhappy?  
+173. Why was the Boolean unhappy?  
    Because it always had to choose True or False.
 
-118. How many programmers does it take to change a light bulb?  
+174. How many programmers does it take to change a light bulb?  
    None, that’s a hardware problem.
 
-119. Why did the programmer quit his job?  
+175. Why did the programmer quit his job?  
    Because he didn’t get arrays.
 
-120. Why was the function always sad?  
+176. Why was the function always sad?  
    It had too many arguments.
 
-121. How do programmers celebrate success?  
+177. How do programmers celebrate success?  
    With a logical high-five.
 
-122. Why did the coder go to therapy?  
+178. Why did the coder go to therapy?  
    Too many unresolved exceptions.
 
-123. Why do programmers hate meetings?  
+179. Why do programmers hate meetings?  
    They prefer conditions without side effects.
 
-124. Why did the developer keep repeating himself?  
+180. Why did the developer keep repeating himself?  
    Recursion, of course.
 
-125. Why do programmers always mix up Christmas and Halloween?  
+181. Why do programmers always mix up Christmas and Halloween?  
     Because Oct 31 = Dec 25.
