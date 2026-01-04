@@ -592,3 +592,12 @@ People only saw zeros and ones.
 
 264. Why did base 10 get tired?  
 Too many digits to keep track of.
+
+265. Why did base 3 feel odd?  
+It was always caught between 2 and 4.
+
+266. Why did zero feel powerful?  
+It could multiply anything to nothing.
+
+267. Why did hexadecimal feel superior?  
+It had more digits to play with.
