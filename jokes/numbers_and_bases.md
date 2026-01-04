@@ -643,3 +643,12 @@ Nothing counted on it.
 
 281. Why did the integer feel strong?  
 It had no fractions to worry about.
+
+282. Why did base 8 feel awkward?  
+It was always between 7 and 9.
+
+283. Why did zero feel powerful?  
+It could turn anything into nothing.
+
+284. Why did hexadecimal feel fancy?  
+It always brought letters to the party.

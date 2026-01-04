@@ -826,3 +826,6 @@ It passed every check.
 
 375. Why did FALSE feel embarrassed?  
 Nothing ever worked out.
+
+376. Why did TRUE feel confident?  
+It always passed.

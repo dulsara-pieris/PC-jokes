@@ -6734,5 +6734,21 @@
   {
     "category": "Logic & Boolean",
     "joke": "Why did FALSE feel embarrassed?  \nNothing ever worked out."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did base 8 feel awkward?  \nIt was always between 7 and 9."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did zero feel powerful?  \nIt could turn anything into nothing."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did hexadecimal feel fancy?  \nIt always brought letters to the party."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did TRUE feel confident?  \nIt always passed."
   }
 ]
