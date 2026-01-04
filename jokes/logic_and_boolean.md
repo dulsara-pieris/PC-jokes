@@ -1,6 +1,6 @@
 # Logic & Boolean Jokes
 
-1. If at first you don’t succeed; call it version 1.0.
+1. If at first you don't succeed; call it version 1.0.
 
 2. Why do programmers hate spaces? Because they prefer tabs.
 
@@ -8,64 +8,166 @@
 
 4. Why do programmers love logic gates? Because they know how to 'and' and 'or'.
 
-5. Why did the programmer go broke? He lost all his cache.
+5. Recursion is when a function calls itself, but only after reading the documentation.
 
-6. Recursion is when a function calls itself, but only after reading the documentation.
+6. Why was the Boolean sad? Because it was always false.
 
-7. Why was the Boolean sad? Because it was always false.
+7. Programmers don't die; they just get garbage collected.
 
-8. Programmers don’t die; they just get garbage collected.
+8. To understand recursion, you must first understand recursion.
 
-9. Why do programmers always mix up Christmas and Halloween? Because Oct 31 = Dec 25.
+9. A Boolean walks into a bar. The bartender asks, 'Do you want a drink?' The Boolean replies, 'True.'
 
-10. Why did the programmer bring a ladder? Because he wanted to reach the top of the stack.
+10. How many programmers does it take to change a light bulb? None. That's a hardware problem.
 
-11. To understand recursion, you must first understand recursion.
+11. Why did the programmer get stuck in the shower? The instructions said: Lather, Rinse, Repeat.
 
-12. A Boolean walks into a bar. The bartender asks, 'Do you want a drink?' The Boolean replies, 'True.'
+12. Why do programmers prefer dark mode? Because light attracts bugs.
 
-13. How many programmers does it take to change a light bulb? None. That’s a hardware problem.
+13. Why was the Boolean unhappy? Because it always had to choose True or False.
 
-14. Why did the programmer get stuck in the shower? The instructions said: Lather, Rinse, Repeat.
+14. Why was the function always sad? It had too many arguments.
 
-15. To understand recursion, you must first understand recursion. 2. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
+15. How do programmers celebrate success? With a logical high-five.
+
+16. Why did the coder go to therapy? Too many unresolved exceptions.
+
+17. Why do programmers hate meetings? They prefer conditions without side effects.
+
+18. Why did the developer keep repeating himself? Recursion, of course.
+
+19. What's the object-oriented way to become wealthy? Inheritance.
+
+20. Why did the Boolean go to the doctor? It wasn't feeling true to itself.
+
+21. What's a programmer's favorite hangout spot? The Foo Bar.
+
+22. Why don't programmers like nature documentaries? Too many race conditions.
+
+23. What do you call a programmer from Finland? Nerdic.
+
+24. Why did the function break up with the variable? It had commitment issues and kept changing.
+
+25. Why did the programmer's wife leave him? He kept saying 'It works on my machine.'
+
+26. What's a programmer's favorite game? Hide and seek exception.
+
+27. Why do programmers hate the outdoors? Too many processes running in the background.
+
+28. What did the Java code say to the C code? You've got no class.
+
+29. Why was the developer always calm? He knew how to handle exceptions gracefully.
+
+30. What's a programmer's favorite type of party? A Boolean bash - you're either in or out.
+
+31. Why did the programmer get stuck at the airport? The security kept saying 'Access Denied.'
+
+32. What do you call a programmer who doesn't comment code? Self-documenting... supposedly.
+
+33. Why don't programmers like to argue? They prefer to return null.
+
+34. What's a programmer's favorite horror movie? The NullPointerException.
+
+35. Why did the Boolean go to art class? To learn about true colors.
+
+36. What do you call a function that won't stop talking? Verbose.
+
+37. Why did the loop go to the doctor? It was feeling a bit iteration.
+
+38. What's the best thing about a Boolean? It's straightforward - no gray areas.
+
+39. Why did the programmer fail at meditation? Couldn't empty his cache.
+
+40. Why did the if statement go to the gym? To work on its condition.
+
+41. What's a programmer's favorite exercise? Boolean jumps - true or false.
+
+42. Why was the else statement feeling left out? It only got called when things went wrong.
+
+43. What do you call a logical operator that can't make up its mind? XOR-dinary.
+
+44. Why did the switch statement throw a party? It had so many cases to celebrate.
+
+45. What's a programmer's favorite type of logic? Boolean algebra - it's either right or wrong.
+
+46. Why was the while loop so patient? It knew how to wait for the right condition.
+
+47. What do you call a recursive joke? See: recursive joke.
+
+48. Why did the for loop get dizzy? It went around too many times.
+
+49. What's a programmer's favorite magic trick? Making bugs disappear with try-catch.
+
+50. Why was the exception handler so popular? Everyone needed it when things broke.
+
+51. What do you call a condition that's always true? An optimist's dream.
+
+52. Why did the null value feel empty inside? Because it literally was.
+
+53. What's a programmer's favorite weather? Cloudy with a chance of exceptions.
+
+54. Why was the return statement so final? It never looked back.
+
+55. What do you call a program that never stops? An infinite optimist.
+
+56. Why did the break statement leave early? It couldn't handle the loop anymore.
+
+57. What's a programmer's favorite philosophy? If it compiles, it's true.
+
+58. Why was the continue statement so persistent? It never gave up on the loop.
+
+59. What do you call a logical error? A contradiction in code.
+
+60. If at first you don’t succeed; call it version 1.0.
+
+61. Why did the programmer go broke? He lost all his cache.
+
+62. Programmers don’t die; they just get garbage collected.
+
+63. Why do programmers always mix up Christmas and Halloween? Because Oct 31 = Dec 25.
+
+64. Why did the programmer bring a ladder? Because he wanted to reach the top of the stack.
+
+65. How many programmers does it take to change a light bulb? None. That’s a hardware problem.
+
+66. To understand recursion, you must first understand recursion. 2. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
    The Boolean replies, "True."
 
-16. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
+67. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
    The Boolean replies, "True."
 
-17. How many programmers does it take to change a light bulb?  
+68. How many programmers does it take to change a light bulb?  
    None. That’s a hardware problem.
 
-18. Why did the programmer get stuck in the shower?  
+69. Why did the programmer get stuck in the shower?  
    The instructions said: Lather, Rinse, Repeat.
 
-19. Why do programmers prefer dark mode?  
+70. Why do programmers prefer dark mode?  
    Because light attracts bugs.
 
-20. Why was the Boolean unhappy?  
+71. Why was the Boolean unhappy?  
    Because it always had to choose True or False.
 
-21. How many programmers does it take to change a light bulb?  
+72. How many programmers does it take to change a light bulb?  
    None, that’s a hardware problem.
 
-22. Why did the programmer quit his job?  
+73. Why did the programmer quit his job?  
    Because he didn’t get arrays.
 
-23. Why was the function always sad?  
+74. Why was the function always sad?  
    It had too many arguments.
 
-24. How do programmers celebrate success?  
+75. How do programmers celebrate success?  
    With a logical high-five.
 
-25. Why did the coder go to therapy?  
+76. Why did the coder go to therapy?  
    Too many unresolved exceptions.
 
-26. Why do programmers hate meetings?  
+77. Why do programmers hate meetings?  
    They prefer conditions without side effects.
 
-27. Why did the developer keep repeating himself?  
+78. Why did the developer keep repeating himself?  
    Recursion, of course.
 
-28. Why do programmers always mix up Christmas and Halloween?  
+79. Why do programmers always mix up Christmas and Halloween?  
     Because Oct 31 = Dec 25.

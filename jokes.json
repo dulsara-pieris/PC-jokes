@@ -9,27 +9,11 @@
   },
   {
     "category": "Numbers & Bases",
-    "joke": "There are only 10 kinds of people: those who understand hexadecimal and those who don’t."
+    "joke": "There are only 10 kinds of people: those who understand hexadecimal and those who don't."
   },
   {
     "category": "Numbers & Bases",
     "joke": "Why did the programmer confuse Christmas and Halloween? Because DEC 25 = OCT 31."
-  },
-  {
-    "category": "Numbers & Bases",
-    "joke": "Why do programmers prefer dark mode? Because light attracts bugs."
-  },
-  {
-    "category": "Numbers & Bases",
-    "joke": "Why was the function worried about its type? It didn’t want to lose its class."
-  },
-  {
-    "category": "Numbers & Bases",
-    "joke": "Why are assembly programmers always soaking wet? They work below C-level."
-  },
-  {
-    "category": "Numbers & Bases",
-    "joke": "Why did the programmer write binary jokes? Because he wanted to be funny in ones and zeros."
   },
   {
     "category": "Numbers & Bases",
@@ -40,8 +24,72 @@
     "joke": "There are 10 types of people: those who understand binary and those who don't."
   },
   {
+    "category": "Numbers & Bases",
+    "joke": "How do programmers count cows? 1, 10, 11… (binary counting)"
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do hexadecimal numbers make bad roommates? Because they're always high-fiving (0xF)!"
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the computer take a nap? It had too many bytes."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the computer tired when it got home? It had a hard drive."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do programmers love binary? It's as simple as 1, 0."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the integer break up with the float? Too many decimals."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why are octal numbers afraid of decimal? They don't want to be divided."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the array so sad? Its indexes were all over the place."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was 6 afraid of 7? Because 7 8 9… in binary."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do computers make terrible comedians? They can't handle negative feedback."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the coder get stuck in base 2? He couldn't find the decimal point."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the byte go to therapy? It had 8 bits of emotional baggage."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a programmer's favorite place to hang out? The Foo Bar."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the equal sign so humble? It knew it wasn't greater than or less than anyone else."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the number go to school? To improve its base education."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What do you call a number that can't keep still? A roamin' numeral."
+  },
+  {
     "category": "Logic & Boolean",
-    "joke": "If at first you don’t succeed; call it version 1.0."
+    "joke": "If at first you don't succeed; call it version 1.0."
   },
   {
     "category": "Logic & Boolean",
@@ -57,10 +105,6 @@
   },
   {
     "category": "Logic & Boolean",
-    "joke": "Why did the programmer go broke? He lost all his cache."
-  },
-  {
-    "category": "Logic & Boolean",
     "joke": "Recursion is when a function calls itself, but only after reading the documentation."
   },
   {
@@ -69,15 +113,75 @@
   },
   {
     "category": "Logic & Boolean",
-    "joke": "Programmers don’t die; they just get garbage collected."
+    "joke": "Programmers don't die; they just get garbage collected."
   },
   {
     "category": "Logic & Boolean",
-    "joke": "Why do programmers always mix up Christmas and Halloween? Because Oct 31 = Dec 25."
+    "joke": "To understand recursion, you must first understand recursion."
   },
   {
     "category": "Logic & Boolean",
-    "joke": "Why did the programmer bring a ladder? Because he wanted to reach the top of the stack."
+    "joke": "A Boolean walks into a bar. The bartender asks, 'Do you want a drink?' The Boolean replies, 'True.'"
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "How many programmers does it take to change a light bulb? None. That's a hardware problem."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer get stuck in the shower? The instructions said: Lather, Rinse, Repeat."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why do programmers prefer dark mode? Because light attracts bugs."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the Boolean unhappy? Because it always had to choose True or False."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the function always sad? It had too many arguments."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "How do programmers celebrate success? With a logical high-five."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the coder go to therapy? Too many unresolved exceptions."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why do programmers hate meetings? They prefer conditions without side effects."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the developer keep repeating himself? Recursion, of course."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's the object-oriented way to become wealthy? Inheritance."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the Boolean go to the doctor? It wasn't feeling true to itself."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite hangout spot? The Foo Bar."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why don't programmers like nature documentaries? Too many race conditions."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What do you call a programmer from Finland? Nerdic."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the function break up with the variable? It had commitment issues and kept changing."
   },
   {
     "category": "Coding & Git",
@@ -93,7 +197,7 @@
   },
   {
     "category": "Coding & Git",
-    "joke": "Why do Java developers wear glasses? Because they don’t C#."
+    "joke": "Why do Java developers wear glasses? Because they don't C#."
   },
   {
     "category": "Coding & Git",
@@ -120,6 +224,78 @@
     "joke": "Why did the developer go broke at the restaurant? He forgot to close his table."
   },
   {
+    "category": "Coding & Git",
+    "joke": "Why did Git break up with GitHub? Too many conflicts."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers love version control? Because it keeps their mistakes documented."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the programmer afraid of the stairs? He couldn't handle recursion."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "How do you comfort a JavaScript bug? Console it."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do Python developers wear glasses? They can't C without them."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the function refuse to work? It had too many dependencies."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "How do developers fix a broken website? They Ctrl+Z their mistakes."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the code cold? Because it left its Windows open."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite song? 'Hello World' by Adele."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer get arrested? He was caught in an illegal operation."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a programmer who doesn't comment their code? An enemy of the state."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the Ruby developer go broke? Too many gems to buy."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite type of music? Algorithm and blues."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the CSS file feel lonely? It had no class."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a snake that writes code? Python."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the developer get kicked out of the library? Because he kept breaking the silence with exceptions."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's the most used language in programming? Profanity."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers always mix up Thanksgiving and Christmas? Because Nov 25 = Dec 23."
+  },
+  {
     "category": "Advanced Nerdy",
     "joke": "Why do programmers hate nature? Too many bugs."
   },
@@ -130,6 +306,830 @@
   {
     "category": "Advanced Nerdy",
     "joke": "What do you call 8 hobbits? A hobbyte."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "There are 3 kinds of people: Those who can count in ternary, those who can't, and those who didn't expect ternary."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the Python programmer go hungry? Because he didn't import food."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the developer afraid of elevators? Because he couldn't handle the stack trace."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "A programmer's wife asks him to take out the trash; he gives her a Boolean answer."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the coder get lost? He couldn't find the main() function."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the programmer always carry a map? To avoid infinite loops."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "How do programmers cheer each other up? They console.log their feelings."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the coder stay calm during a fire? He used try…catch."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do developers love cookies? Because they always clear them."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the computer go to art school? To improve its graphics."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the programmer quit his job? He didn't get arrays."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the programmer like Linux? Because he loved the terminal."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers love keyboards? Because they have all the keys to success."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the coder stressed? He had too many threads to manage."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the programmer bring a ladder to work? To reach the top of the stack."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the programmer cross the road? To get to the other IDE."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the coder break up with JavaScript? Too many callbacks."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers hate bugs? Because they always crash the party."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the developer always carry a notebook? To keep track of his stack."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the database administrator sad? Too many relationships ended badly."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the coder go to the beach? To surf the web."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers love pizza? Because it has all the right slices."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers always carry a towel? In case they need to dry their code."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite dance? The algo-rhythm."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the AI go to school? To improve its neural networks."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a group of security experts? A cypher."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the machine learning model so confident? It had high self-esteem and low bias."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a hacker's favorite season? Phishing season."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why don't programmers like to go outside? The graphics aren't as good."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What did the router say to the doctor? It hurts when IP."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the computer tired? It had a hard drive and needed to crash."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a programmer who doesn't use spaces or tabs? An anarchist."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the agile team go to therapy? Too many sprint retrospectives."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's least favorite holiday? Syntax Error Day."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the blockchain developer get in trouble? They kept making immutable mistakes."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call an algorithm that sings? An auto-tune function."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the quantum computer so mysterious? It was in a superposition of working and broken."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite exercise? Running code."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the DevOps engineer break up with their partner? Too many deployment issues."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a function that always returns true? An optimist."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why don't programmers like jokes about UDP? Because you never know if they get them."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's the difference between a programmer and a user? The programmer knows it's a feature, not a bug."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do programmers get Halloween and Christmas confused? Because 31 OCT = 25 DEC."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a programmer's favorite snack? Microchips."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the math book sad? It had too many problems and couldn't compile."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What do you call a computer floating in the ocean? A Dell rolling in the deep."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did zero break up with eight? She felt like he was just two-faced."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a computer's favorite beat? An algorithm."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the JavaScript developer sad? Because he didn't Node how to Express himself."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What do you get when you cross a computer with a lifeguard? A screensaver."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why don't computers ever get tired? They just take power naps."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What did the spider do on the computer? Made a website."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the computer so good at music? It had great bandwidth."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What do you call a computer that sings? A-Dell."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the PowerPoint presentation cross the road? To get to the other slide."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a computer's least favorite food? Spam."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do programmers prefer hexadecimal? Because it's hex-cellent."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer's wife leave him? He kept saying 'It works on my machine.'"
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite game? Hide and seek exception."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why do programmers hate the outdoors? Too many processes running in the background."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What did the Java code say to the C code? You've got no class."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the developer always calm? He knew how to handle exceptions gracefully."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite type of party? A Boolean bash - you're either in or out."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer get stuck at the airport? The security kept saying 'Access Denied.'"
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What do you call a programmer who doesn't comment code? Self-documenting... supposedly."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why don't programmers like to argue? They prefer to return null."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite horror movie? The NullPointerException."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the Boolean go to art class? To learn about true colors."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What do you call a function that won't stop talking? Verbose."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the loop go to the doctor? It was feeling a bit iteration."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's the best thing about a Boolean? It's straightforward - no gray areas."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer fail at meditation? Couldn't empty his cache."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the developer get fired? He pushed to production on a Friday."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite breakfast? Java with some bytes."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the PHP developer get stuck in a maze? They kept using GoTo."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a programmer who loves poetry? A code bard."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the Git repository so messy? Too many branches and not enough cleanup."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite movie? The Matrix - best debugging scene ever."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why don't programmers trust stairs? They're always up to something in increments."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What did the HTML say to the CSS? I like your style."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the JavaScript function so emotional? It had too many callbacks to deal with."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite car? A Tesla - it has the best API."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer wear glasses to the code review? To C# better."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a programmer who works out? A buffer overflow."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the API so popular? It had great endpoints."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite drink? Java. Anything else would be grounds for dismissal."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the developer go to the bar? To get some REST."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a programmer from Helsinki? Nerdic by nature."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the Git commit so emotional? It had attachment issues."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite magic spell? sudo make me a sandwich."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer always carry a pencil? In case they needed to draw the interface."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a developer who doesn't use Git? Lost."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the neural network go to therapy? It had too many layers of issues."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a hacker's favorite breakfast? Spam and encrypted eggs."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the Docker container so lonely? It was isolated from the host."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a Kubernetes expert? A pod person."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the microservice break up with the monolith? It needed more independence."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite Shakespeare play? Much Ado About Null Thing."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the regex so confident? It could match anything."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a snake that's 3.14 meters long? A Python."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the compiler break up with the interpreter? It needed someone more committed."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite Star Wars character? R2-D2 - the ultimate debugging droid."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the hash table so organized? It knew where everything belonged."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a programmer who writes poetry? A code-et."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the blockchain developer become a philosopher? They were interested in distributed truth."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite constellation? The Cloud."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the assembly programmer always tired? They worked at such a low level."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a bug that's in production? A feature request waiting to happen."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the load balancer go to therapy? It couldn't handle the weight of its responsibilities."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite kind of tree? A binary search tree - perfectly balanced."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the encryption algorithm so secretive? It liked to keep things private."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a program that always tells the truth? Honest-ML."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the garbage collector feel unappreciated? Everyone just took it for granted."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite bedtime story? Goodnight Moon... and all the memory leaks."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the TCP connection so reliable? It always acknowledged its packets."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call an optimistic optimizer? Someone who thinks O(n²) is fine."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the cloud architect bring an umbrella? In case of data rain."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the binary code feel incomplete? It was missing a bit."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a programmer's favorite ice cream? Bit-terscotch."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the number system jealous of binary? Because binary got all the attention."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What do you call a computer that's been in the sun too long? A hot spot."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the bit go to school? To become a byte."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a computer's favorite game? Disc golf."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the CPU so hot? It was processing too many flames online."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What do you call a computer that tells dad jokes? A groan-up system."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the pixel go to therapy? It had resolution issues."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a computer's favorite animal? A RAM."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the hard drive always hungry? It had too many empty sectors."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What do you call a binary number that's always complaining? Bit-ter."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the octal number feel left out? Everyone was going decimal or hexadecimal."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a computer's favorite dessert? Apple pi."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the gigabyte so popular? It had a lot of presence."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What do you call a computer in a blizzard? A snow-flake server."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the bits throw a party? To celebrate their byte-day."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a programmer's favorite pizza topping? Pepperoni with extra bytes."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the memory chip so forgetful? It needed more cache."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the if statement go to the gym? To work on its condition."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite exercise? Boolean jumps - true or false."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the else statement feeling left out? It only got called when things went wrong."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What do you call a logical operator that can't make up its mind? XOR-dinary."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the switch statement throw a party? It had so many cases to celebrate."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite type of logic? Boolean algebra - it's either right or wrong."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the while loop so patient? It knew how to wait for the right condition."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What do you call a recursive joke? See: recursive joke."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the for loop get dizzy? It went around too many times."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite magic trick? Making bugs disappear with try-catch."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the exception handler so popular? Everyone needed it when things broke."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What do you call a condition that's always true? An optimist's dream."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the null value feel empty inside? Because it literally was."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite weather? Cloudy with a chance of exceptions."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the return statement so final? It never looked back."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What do you call a program that never stops? An infinite optimist."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the break statement leave early? It couldn't handle the loop anymore."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite philosophy? If it compiles, it's true."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the continue statement so persistent? It never gave up on the loop."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What do you call a logical error? A contradiction in code."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer bring a broom to work? To clean up the code."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a developer's favorite dessert? Cookies with cache-ew nuts."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the GitHub repository so popular? It had great commit-ment."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a programmer who loves the ocean? A deep-sea diver into code."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the merge fail? It had too many conflicts to resolve."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite sport? Debugging hurdles."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the pull request so nervous? It was afraid of rejection."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a Git branch that never merges? A loner."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer love gardening? They were good at cherry-picking commits."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a developer's favorite dance move? The Git push."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the code review so harsh? The reviewer had no filter."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a programmer who never makes mistakes? A liar."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the IDE go to the doctor? It had too many extensions."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite season? Fall, because of all the stack traces."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the syntax highlighter so colorful? It loved to paint the code."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a bug that survives code review? A feature in disguise."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer refuse to play cards? They didn't want to deal with the deck."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a developer's favorite board game? Debugging Monopoly - where you never pass Go."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the linter so critical? It couldn't help but point out flaws."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a programmer at a wedding? The one debugging the photo booth."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the distributed system feel scattered? It had nodes all over the place."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a hacker's favorite instrument? The key-board."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the virtual machine so confused? It didn't know if it was real or not."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a serverless function? A cloud nomad."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the AI feel existential? It questioned its own neural existence."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite philosophy book? Being and Nothingness - starring null."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the cache so fast? It remembered everything important."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a database that tells jokes? SQL-arious."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the NoSQL database rebel? It refused to follow the schema."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite workout? Lifting heavy queries."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the API gateway so busy? Everyone wanted to get through."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a machine learning model that's always wrong? Confidently incorrect."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the thread pool feel exhausted? Too many concurrent requests."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite superhero? Captain Async - always non-blocking."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the memory leak so sneaky? It slowly drained everything."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a pointer that doesn't point anywhere? Lost."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the packet get lost? Poor routing decisions."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite martial art? Kung-Foo Bar."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the firewall so protective? It had trust issues."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a graph that's all connected? A social butterfly."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the sorting algorithm feel pressured? It had to keep things in order."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite type of art? Abstract syntax trees."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the quantum bit so indecisive? It existed in multiple states."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a race condition? A photo finish you can't predict."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the mutex feel lonely? It only allowed one at a time."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite type of tree? B-tree - perfectly balanced, as all things should be."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the deadlock so stubborn? Nobody would give up their resources."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a buffer that's always full? Over-achiever overflow."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the compiler optimizer feel proud? It made everything run faster."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite magic spell? Abracadabra - turn coffee into code."
   },
   {
     "category": "Advanced Nerdy",
@@ -165,26 +1165,6 @@
   },
   {
     "category": "Advanced Nerdy",
-    "joke": "Why did the programmer always carry a map? To avoid infinite loops."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "How do programmers cheer each other up? They console.log their feelings."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "Why did the coder stay calm during a fire? He used try…catch."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "Why do developers love cookies? Because they always clear them."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "Why did the computer go to art school? To improve its graphics."
-  },
-  {
-    "category": "Advanced Nerdy",
     "joke": "Why did the coder go broke? He ran out of cache."
   },
   {
@@ -193,47 +1173,7 @@
   },
   {
     "category": "Advanced Nerdy",
-    "joke": "Why did the programmer like Linux? Because he loved the terminal."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "Why do programmers love keyboards? Because they have all the keys to success."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "Why was the coder stressed? He had too many threads to manage."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "Why did the programmer bring a ladder to work? To reach the top of the stack."
-  },
-  {
-    "category": "Advanced Nerdy",
     "joke": "Why did the programmer cross the road? Because he needed to get to the other IDE."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "Why did the coder break up with JavaScript? Too many callbacks."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "Why do programmers hate bugs? Because they always crash the party."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "Why did the developer always carry a notebook? To keep track of his stack."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "Why was the database administrator sad? Too many relationships ended badly."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "Why did the coder go to the beach? To surf the web."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "Why do programmers love pizza? Because it has all the right slices."
   },
   {
     "category": "Advanced Nerdy",
@@ -246,74 +1186,6 @@
   {
     "category": "Advanced Nerdy",
     "joke": "There are 3 kinds of people in the world: Those who can count in ternary, those who can’t, and those who didn’t expect ternary."
-  },
-  {
-    "category": "Coding & Git",
-    "joke": "I would tell you a joke about Git… But you might not `merge` it well."
-  },
-  {
-    "category": "Coding & Git",
-    "joke": "Why did the programmer go broke? Because he used up all his cache."
-  },
-  {
-    "category": "Coding & Git",
-    "joke": "A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'"
-  },
-  {
-    "category": "Coding & Git",
-    "joke": "Why was the function sad after a breakup? It lost its closure."
-  },
-  {
-    "category": "Coding & Git",
-    "joke": "A SQL query walks into a bar, walks up to two tables, and asks: \"Can I join you?\""
-  },
-  {
-    "category": "Logic & Boolean",
-    "joke": "To understand recursion, you must first understand recursion."
-  },
-  {
-    "category": "Logic & Boolean",
-    "joke": "A Boolean walks into a bar. The bartender asks, 'Do you want a drink?' The Boolean replies, 'True.'"
-  },
-  {
-    "category": "Logic & Boolean",
-    "joke": "How many programmers does it take to change a light bulb? None. That’s a hardware problem."
-  },
-  {
-    "category": "Logic & Boolean",
-    "joke": "Why did the programmer get stuck in the shower? The instructions said: Lather, Rinse, Repeat."
-  },
-  {
-    "category": "Logic & Boolean",
-    "joke": "To understand recursion, you must first understand recursion. 2. A Boolean walks into a bar. The bartender asks, \"Do you want a drink?\"  \n   The Boolean replies, \"True.\""
-  },
-  {
-    "category": "Logic & Boolean",
-    "joke": "A Boolean walks into a bar. The bartender asks, \"Do you want a drink?\"  \n   The Boolean replies, \"True.\""
-  },
-  {
-    "category": "Logic & Boolean",
-    "joke": "How many programmers does it take to change a light bulb?  \n   None. That’s a hardware problem."
-  },
-  {
-    "category": "Logic & Boolean",
-    "joke": "Why did the programmer get stuck in the shower?  \n   The instructions said: Lather, Rinse, Repeat."
-  },
-  {
-    "category": "Numbers & Bases",
-    "joke": "There are 10 types of people in the world: Those who understand binary, and those who don’t."
-  },
-  {
-    "category": "Numbers & Bases",
-    "joke": "Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25."
-  },
-  {
-    "category": "Numbers & Bases",
-    "joke": "How do programmers count cows? 1, 10, 11… (binary counting)"
-  },
-  {
-    "category": "Numbers & Bases",
-    "joke": "Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!"
   },
   {
     "category": "Advanced Nerdy",
@@ -397,6 +1269,30 @@
   },
   {
     "category": "Coding & Git",
+    "joke": "Why do Java developers wear glasses? Because they don’t C#."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "I would tell you a joke about Git… But you might not `merge` it well."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer go broke? Because he used up all his cache."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'"
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the function sad after a breakup? It lost its closure."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "A SQL query walks into a bar, walks up to two tables, and asks: \"Can I join you?\""
+  },
+  {
+    "category": "Coding & Git",
     "joke": "Why did the programmer bring a ladder?  \n   To reach the top of the stack."
   },
   {
@@ -437,6 +1333,46 @@
   },
   {
     "category": "Logic & Boolean",
+    "joke": "If at first you don’t succeed; call it version 1.0."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer go broke? He lost all his cache."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Programmers don’t die; they just get garbage collected."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why do programmers always mix up Christmas and Halloween? Because Oct 31 = Dec 25."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer bring a ladder? Because he wanted to reach the top of the stack."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "How many programmers does it take to change a light bulb? None. That’s a hardware problem."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "To understand recursion, you must first understand recursion. 2. A Boolean walks into a bar. The bartender asks, \"Do you want a drink?\"  \n   The Boolean replies, \"True.\""
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "A Boolean walks into a bar. The bartender asks, \"Do you want a drink?\"  \n   The Boolean replies, \"True.\""
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "How many programmers does it take to change a light bulb?  \n   None. That’s a hardware problem."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer get stuck in the shower?  \n   The instructions said: Lather, Rinse, Repeat."
+  },
+  {
+    "category": "Logic & Boolean",
     "joke": "Why do programmers prefer dark mode?  \n   Because light attracts bugs."
   },
   {
@@ -474,6 +1410,38 @@
   {
     "category": "Logic & Boolean",
     "joke": "Why do programmers always mix up Christmas and Halloween?  \n    Because Oct 31 = Dec 25."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "There are only 10 kinds of people: those who understand hexadecimal and those who don’t."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do programmers prefer dark mode? Because light attracts bugs."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the function worried about its type? It didn’t want to lose its class."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why are assembly programmers always soaking wet? They work below C-level."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the programmer write binary jokes? Because he wanted to be funny in ones and zeros."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "There are 10 types of people in the world: Those who understand binary, and those who don’t."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!"
   },
   {
     "category": "Numbers & Bases",
