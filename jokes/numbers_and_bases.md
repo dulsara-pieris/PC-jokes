@@ -616,3 +616,12 @@ It couldn’t be a whole number.
 
 272. Why did decimal feel insecure?  
 It always got rounded.
+
+273. Why did base 16 feel fancy?  
+It always brought letters to the party.
+
+274. Why did zero feel important?  
+It could multiply everything to nothing.
+
+275. Why did binary get confused?  
+Too many 1s and 0s to keep track of.

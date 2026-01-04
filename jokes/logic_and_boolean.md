@@ -805,3 +805,12 @@ It only worked when things were different.
 
 368. Why did TRUE feel confident?  
 It passed every test.
+
+369. Why did AND feel responsible?  
+All conditions depended on it.
+
+370. Why did OR feel hopeful?  
+At least one condition passed.
+
+371. Why did NOT stay calm?  
+It kept flipping truths.

@@ -1012,3 +1012,12 @@ It was declared private.
 
 477. Why did Git feel rebellious?  
 It could rewrite history.
+
+478. Why did the loop feel endless?  
+It had no break condition.
+
+479. Why did the variable blush?  
+It was globally exposed.
+
+480. Why did the function feel ignored?  
+No one ever called it.

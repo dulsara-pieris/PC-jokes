@@ -6658,5 +6658,41 @@
   {
     "category": "Logic & Boolean",
     "joke": "Why did TRUE feel confident?  \nIt passed every test."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did base 16 feel fancy?  \nIt always brought letters to the party."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did zero feel important?  \nIt could multiply everything to nothing."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did binary get confused?  \nToo many 1s and 0s to keep track of."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did AND feel responsible?  \nAll conditions depended on it."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did OR feel hopeful?  \nAt least one condition passed."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did NOT stay calm?  \nIt kept flipping truths."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the loop feel endless?  \nIt had no break condition."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the variable blush?  \nIt was globally exposed."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the function feel ignored?  \nNo one ever called it."
   }
 ]
