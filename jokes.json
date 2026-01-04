@@ -1,0 +1,10 @@
+[
+  {"category": "Numbers & Bases", "joke": "There are 10 types of people in the world: Those who understand binary, and those who don’t."},
+  {"category": "Numbers & Bases", "joke": "Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25."},
+  {"category": "Logic & Boolean", "joke": "To understand recursion, you must first understand recursion."},
+  {"category": "Logic & Boolean", "joke": "A Boolean walks into a bar. The bartender asks, 'Do you want a drink?' The Boolean replies, 'True.'"},
+  {"category": "Coding & Git", "joke": "I would tell you a joke about Git… But you might not `merge` it well."},
+  {"category": "Coding & Git", "joke": "Why do Java developers wear glasses? Because they don’t C#."},
+  {"category": "Advanced Nerdy", "joke": "Why did the coder get kicked out of school? Because he kept breaking class rules."},
+  {"category": "Advanced Nerdy", "joke": "What do you call 8 hobbits? A hobbyte."}
+]
