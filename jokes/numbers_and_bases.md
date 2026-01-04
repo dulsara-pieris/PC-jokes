@@ -316,63 +316,85 @@
 
 158. Why is 128 a nice number? Because it's 2^7 and fits in a signed byte. Sort of.
 
-159. There are only 10 kinds of people: those who understand hexadecimal and those who don’t.
+159. What's a programmer's favorite number? Infinity. Because their todo list never ends.
 
-160. Why do programmers prefer dark mode? Because light attracts bugs.
+160. Why is 255 a magic number? Because it's the maximum value for an unsigned byte. Perfectly balanced.
 
-161. Why was the function worried about its type? It didn’t want to lose its class.
+161. What's a programmer's least favorite number? Any number that causes an overflow.
 
-162. Why are assembly programmers always soaking wet? They work below C-level.
+162. Why is 69 a funny number? Because programmers are 12 years old at heart. Also, it's 0x45 in hex.
 
-163. Why did the programmer write binary jokes? Because he wanted to be funny in ones and zeros.
+163. What's a programmer's favorite binary number? 10. It could be 2, or it could be anything.
 
-164. There are 10 types of people in the world: Those who understand binary, and those who don’t.
+164. Why is 0xDEADBEEF a famous number? Because even hex numbers can die in style.
 
-165. Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25.
+165. What's a programmer's favorite irrational number? Pi. Because pie is delicious and irrational cravings happen.
 
-166. Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!
+166. Why is 1337 still relevant? Because programmers are leet. In their minds, at least.
 
-167. Why did the computer take a nap?  
+167. What's a programmer's favorite negative number? -1. Because it's the universal error code.
+
+168. Why is 420 funny to programmers? Because they're still 12. Also, it's 0x1A4 in hex.
+
+169. What's a programmer's favorite even number? 2. It's the oddest prime number.
+
+170. There are only 10 kinds of people: those who understand hexadecimal and those who don’t.
+
+171. Why do programmers prefer dark mode? Because light attracts bugs.
+
+172. Why was the function worried about its type? It didn’t want to lose its class.
+
+173. Why are assembly programmers always soaking wet? They work below C-level.
+
+174. Why did the programmer write binary jokes? Because he wanted to be funny in ones and zeros.
+
+175. There are 10 types of people in the world: Those who understand binary, and those who don’t.
+
+176. Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25.
+
+177. Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!
+
+178. Why did the computer take a nap?  
    It had too many bytes.
 
-168. Why was the computer tired when it got home?  
+179. Why was the computer tired when it got home?  
    It had a hard drive.
 
-169. Why do programmers love binary?  
+180. Why do programmers love binary?  
    It’s as simple as 1, 0.
 
-170. Why did the integer break up with the float?  
+181. Why did the integer break up with the float?  
    Too many decimals.
 
-171. Why did the programmer go broke?  
+182. Why did the programmer go broke?  
    Because he lost his cache.
 
-172. Why are octal numbers afraid of decimal?  
+183. Why are octal numbers afraid of decimal?  
    They don’t want to be divided.
 
-173. Why was the array so sad?  
+184. Why was the array so sad?  
    Its indexes were all over the place.
 
-174. Why was 6 afraid of 7?  
+185. Why was 6 afraid of 7?  
    Because 7 8 9… in binary.
 
-175. Why do computers make terrible comedians?  
+186. Why do computers make terrible comedians?  
    They can’t handle negative feedback.
 
-176. Why did the coder get stuck in base 2?  
+187. Why did the coder get stuck in base 2?  
     He couldn’t find the decimal point.
 
-177. Why do programmers prefer binary?  
+188. Why do programmers prefer binary?  
 Because there are only 10 kinds of people.
 
-178. Why did the coder get stuck in base 2?  
+189. Why did the coder get stuck in base 2?  
 He couldn’t find the decimal point.
 
-179. Why was the programmer confused at the bar?  
+190. Why was the programmer confused at the bar?  
 He ordered base 10 but got base 2.
 
-180. Why did the programmer hate base 8?  
+191. Why did the programmer hate base 8?  
 Because it doesn’t include 8 or 9.
 
-181. Why do hexadecimal numbers look cool?  
+192. Why do hexadecimal numbers look cool?  
 Because they start with 0x.

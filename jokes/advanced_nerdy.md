@@ -720,116 +720,180 @@
 
 360. What's a secrets manager's worst nightmare? Being stored in plain text in a Git repository.
 
-361. There are 3 kinds of people: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+361. Why did the container orchestrator feel powerful? Because it controlled an entire fleet with one command.
 
-362. Why do programmers prefer dark mode? Because light attracts bugs.
+362. Why was the database transaction so careful? One wrong move and everything rolls back.
 
-363. Why did the Python programmer go hungry? Because he didn’t import food.
+363. Why did the message bus feel overwhelmed? Too many messages and not enough bandwidth.
 
-364. Why did the developer go to therapy? Too many unresolved exceptions.
+364. What's the difference between cloud computing and traditional hosting? About 10x the cost and 10x the buzzwords.
 
-365. Why do Java developers wear glasses? Because they can't C#.
+365. What's a monitoring system's favorite phrase? 'Everything is on fire, but the metrics look good.'
 
-366. Why was the developer afraid of elevators? Because he couldn’t handle the stack trace.
+366. What's the difference between a bug and a feature request? About 2 weeks and a product manager's approval.
 
-367. A programmer’s wife asks him to take out the trash; he gives her a Boolean answer.
+367. Why was the event-driven architecture so reactive? Because it only did things when something happened.
 
-368. Why did the coder get lost? He couldn’t find the main() function.
+368. Why did the API versioning get complicated? Because v1 was too simple and v2 broke everything.
 
-369. Why did the coder go broke? He ran out of cache.
+369. Why was the CI/CD pipeline so confident? Because it failed fast and recovered quickly.
 
-370. Why did the programmer quit his job? He didn’t get arrays.
+370. What's a load balancer's favorite saying? 'Share the load.' - Samwise Gamgee, probably.
 
-371. Why did the programmer cross the road? Because he needed to get to the other IDE.
+371. What's the difference between a full-stack developer and a unicorn? Unicorns are more realistic.
 
-372. Why did the coder get kicked out of school? Because he kept breaking class rules.
+372. What's a container's favorite movie? The Matrix. Because it's all about virtual environments.
 
-373. Why do programmers hate nature? It has too many bugs.
+373. Why was the DNS lookup so slow? Because it was still trying to resolve family issues.
 
-374. There are 3 kinds of people in the world: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+374. Why did the service mesh feel complicated? Because networking wasn't hard enough already.
 
-375. Why do programmers love keyboards?  
+375. Why was the edge computing so trendy? Because everyone wants to be on the edge, apparently.
+
+376. What's the difference between a principal engineer and a staff engineer? About $50k and more meetings.
+
+377. What's a CDN's favorite hobby? Caching in on everyone's content.
+
+378. What's the difference between a tech lead and a team lead? Tech leads code. Team leads attend meetings about coding.
+
+379. Why was the message broker so popular? Everyone wanted to subscribe to its channels.
+
+380. Why did the cache feel guilty? It was storing things it shouldn't remember.
+
+381. Why was the webhook so reliable? Because it always delivered when called.
+
+382. What's the difference between a microservice and a nanoservice? About 50 lines of code and a lot of hubris.
+
+383. What's a distributed cache's worst fear? Network partitions. Split personality disorder for systems.
+
+384. What's the difference between observability and monitoring? About $100k in tools and a lot of dashboards.
+
+385. Why was the API rate limiter so mean? Because it had to say no 429 times a second.
+
+386. Why did the service discovery feel lost? Because it couldn't find itself in the registry.
+
+387. Why was the load shedding so brutal? Because when the system's drowning, someone has to go overboard.
+
+388. What's a circuit breaker's philosophy? Fail fast, recover faster, blame infrastructure.
+
+389. What's a serverless function's biggest complaint? 'I'm not really serverless, I'm just someone else's problem.'
+
+390. What's the difference between a data engineer and a data scientist? Engineers build pipelines. Scientists blame the pipelines.
+
+391. Why was the event sourcing so nostalgic? Because it remembered every single thing that happened.
+
+392. Why did the distributed transaction fail? Because 2PC is hard and 3PC is harder.
+
+393. There are 3 kinds of people: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+
+394. Why do programmers prefer dark mode? Because light attracts bugs.
+
+395. Why did the Python programmer go hungry? Because he didn’t import food.
+
+396. Why did the developer go to therapy? Too many unresolved exceptions.
+
+397. Why do Java developers wear glasses? Because they can't C#.
+
+398. Why was the developer afraid of elevators? Because he couldn’t handle the stack trace.
+
+399. A programmer’s wife asks him to take out the trash; he gives her a Boolean answer.
+
+400. Why did the coder get lost? He couldn’t find the main() function.
+
+401. Why did the coder go broke? He ran out of cache.
+
+402. Why did the programmer quit his job? He didn’t get arrays.
+
+403. Why did the programmer cross the road? Because he needed to get to the other IDE.
+
+404. Why did the coder get kicked out of school? Because he kept breaking class rules.
+
+405. Why do programmers hate nature? It has too many bugs.
+
+406. There are 3 kinds of people in the world: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+
+407. Why do programmers love keyboards?  
    Because they have all the keys to success.
 
-376. Why did the coder go to the beach?  
+408. Why did the coder go to the beach?  
    To surf the web.
 
-377. Why did the database admin go broke?  
+409. Why did the database admin go broke?  
    Too many bad relationships.
 
-378. Why did the programmer stay calm during a fire?  
+410. Why did the programmer stay calm during a fire?  
    He used try…catch.
 
-379. Why did the coder break up with JavaScript?  
+411. Why did the coder break up with JavaScript?  
    Too many callbacks.
 
-380. Why do programmers love pizza?  
+412. Why do programmers love pizza?  
    Because it has all the right slices.
 
-381. Why did the developer get lost?  
+413. Why did the developer get lost?  
    He couldn’t find the main() function.
 
-382. Why was the coder stressed?  
+414. Why was the coder stressed?  
    Too many threads to manage.
 
-383. How do programmers cheer each other up?  
+415. How do programmers cheer each other up?  
    They console.log their feelings.
 
-384. Why did the programmer cross the road?  
+416. Why did the programmer cross the road?  
     To get to the other IDE.
 
-385. Why did the Python programmer go hungry?  
+417. Why did the Python programmer go hungry?  
     Because he didn’t import food.
 
-386. Why did the coder love Linux?  
+418. Why did the coder love Linux?  
     Because he loved the terminal.
 
-387. Why was the database sad?  
+419. Why was the database sad?  
     Too many tables with bad relationships.
 
-388. Why do programmers hate bugs?  
+420. Why do programmers hate bugs?  
     They always crash the party.
 
-389. Why did the programmer bring a ladder to work?  
+421. Why did the programmer bring a ladder to work?  
     To reach the top of the stack.
 
-390. Why did the developer always carry a notebook?  
+422. Why did the developer always carry a notebook?  
     To keep track of his stack.
 
-391. Why did the computer go to art school?  
+423. Why did the computer go to art school?  
     To improve its graphics.
 
-392. Why did the coder get kicked out of school?  
+424. Why did the coder get kicked out of school?  
     He kept breaking class rules.
 
-393. What do you call 8 hobbits?  
+425. What do you call 8 hobbits?  
     A hobbyte.
 
-394. There are 3 kinds of people:  
+426. There are 3 kinds of people:  
     Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
 
-395. There are 3 kinds of people:  
+427. There are 3 kinds of people:  
 Those who understand recursion, and those who don’t.
 
-396. A programmer’s wife says:  
+428. A programmer’s wife says:  
 “Go to the store and buy bread. If they have eggs, buy a dozen.”  
 He comes back with 12 breads.
 
-397. Why do programmers hate nature?  
+429. Why do programmers hate nature?  
 Too many bugs.
 
-398. A programmer’s wife says:  
+430. A programmer’s wife says:  
 “Buy bread. If they have eggs, buy a dozen.”  
 He returns with 12 breads.
 
-399. Why do Java developers wear glasses?  
+431. Why do Java developers wear glasses?  
 Because they don’t C#.
 
-400. Schrödinger’s bug:  
+432. Schrödinger’s bug:  
 The code both works and doesn’t until you run it.
 
-401. Why was the AI calm?  
+433. Why was the AI calm?  
 It had no emotional dependencies.
 
-402. A SQL query walks into a bar and asks:  
+434. A SQL query walks into a bar and asks:  
 “Can I join you?”
