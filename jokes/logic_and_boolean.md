@@ -814,3 +814,15 @@ At least one condition passed.
 
 371. Why did NOT stay calm?  
 It kept flipping truths.
+
+372. Why did IF feel stressed?  
+Everything depended on its decision.
+
+373. Why did ELSE feel ignored?  
+It only appeared when things failed.
+
+374. Why did TRUE feel proud?  
+It passed every check.
+
+375. Why did FALSE feel embarrassed?  
+Nothing ever worked out.

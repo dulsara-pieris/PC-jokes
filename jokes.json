@@ -6702,5 +6702,37 @@
   {
     "category": "Numbers & Bases",
     "joke": "Why did zero feel invisible?  \nNothing depended on it."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did binary feel nervous?  \nIt didn’t know if it was a 0 or 1."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did base 10 feel ordinary?  \nEveryone uses it."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the number zero feel lonely?  \nNothing counted on it."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the integer feel strong?  \nIt had no fractions to worry about."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did IF feel stressed?  \nEverything depended on its decision."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did ELSE feel ignored?  \nIt only appeared when things failed."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did TRUE feel proud?  \nIt passed every check."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did FALSE feel embarrassed?  \nNothing ever worked out."
   }
 ]

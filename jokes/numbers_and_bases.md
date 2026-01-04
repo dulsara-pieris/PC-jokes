@@ -631,3 +631,15 @@ It had only two friends: 0 and 1.
 
 277. Why did zero feel invisible?  
 Nothing depended on it.
+
+278. Why did binary feel nervous?  
+It didn’t know if it was a 0 or 1.
+
+279. Why did base 10 feel ordinary?  
+Everyone uses it.
+
+280. Why did the number zero feel lonely?  
+Nothing counted on it.
+
+281. Why did the integer feel strong?  
+It had no fractions to worry about.
