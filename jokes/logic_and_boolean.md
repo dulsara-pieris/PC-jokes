@@ -542,83 +542,125 @@
 
 271. What's a programmer's favorite type of salad? Word salad. From bad documentation.
 
-272. If at first you don’t succeed; call it version 1.0.
+272. Why did the programmer hate riddles? Because ambiguity causes compilation errors in life.
 
-273. Why did the programmer go broke? He lost all his cache.
+273. What's a programmer's favorite type of logic gate? NAND. Because it can build anything. Literally.
 
-274. Programmers don’t die; they just get garbage collected.
+274. What's a programmer's favorite type of comedy? Deadpan. Like their code reviews.
 
-275. Why do programmers always mix up Christmas and Halloween? Because Oct 31 = Dec 25.
+275. Why did the programmer refuse to skydive? No rollback mechanism if things go wrong.
 
-276. Why did the programmer bring a ladder? Because he wanted to reach the top of the stack.
+276. Why did the boolean go to law school? To master the art of true or false statements.
 
-277. How many programmers does it take to change a light bulb? None. That’s a hardware problem.
+277. What's a programmer's favorite type of weather? Overcast. Perfect screen visibility, no glare.
 
-278. To understand recursion, you must first understand recursion. 2. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
+278. What's a programmer's favorite type of joke? One with proper syntax and a clear return value.
+
+279. Why did the programmer hate philosophy? Too many undefined behaviors and no compiler to catch them.
+
+280. Why did the boolean refuse marriage? Commitment was either true or false, no in-between.
+
+281. What's a programmer's favorite type of story? One with proper closure and no memory leaks.
+
+282. What's a programmer's favorite type of tree? A red-black tree. Self-balancing, like they wish they were.
+
+283. Why did the programmer hate poetry? Too much metaphor, not enough type safety.
+
+284. Why did the programmer become a minimalist? Too many dependencies ruined their codebase and life.
+
+285. What's a programmer's favorite type of logic? Whatever compiles. That's the only logic that matters.
+
+286. What's a programmer's favorite type of pet? A debug duck. Silent, supportive, always listening.
+
+287. Why did the programmer hate surprises? Because unexpected behavior is never good in code or life.
+
+288. Why did the boolean go to therapy? It had binary thinking and needed to see shades of gray.
+
+289. What's a programmer's favorite type of logic puzzle? Sudoku. It's deterministic and satisfying.
+
+290. What's a programmer's favorite philosophical question? 'Does it compile?' That's the only truth.
+
+291. Why did the programmer hate art? Too subjective. Code is either right or wrong.
+
+292. Why did the boolean refuse to compromise? Because there's no such thing as 'maybe' in boolean logic.
+
+293. If at first you don’t succeed; call it version 1.0.
+
+294. Why did the programmer go broke? He lost all his cache.
+
+295. Programmers don’t die; they just get garbage collected.
+
+296. Why do programmers always mix up Christmas and Halloween? Because Oct 31 = Dec 25.
+
+297. Why did the programmer bring a ladder? Because he wanted to reach the top of the stack.
+
+298. How many programmers does it take to change a light bulb? None. That’s a hardware problem.
+
+299. To understand recursion, you must first understand recursion. 2. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
    The Boolean replies, "True."
 
-279. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
+300. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
    The Boolean replies, "True."
 
-280. How many programmers does it take to change a light bulb?  
+301. How many programmers does it take to change a light bulb?  
    None. That’s a hardware problem.
 
-281. Why did the programmer get stuck in the shower?  
+302. Why did the programmer get stuck in the shower?  
    The instructions said: Lather, Rinse, Repeat.
 
-282. Why do programmers prefer dark mode?  
+303. Why do programmers prefer dark mode?  
    Because light attracts bugs.
 
-283. Why was the Boolean unhappy?  
+304. Why was the Boolean unhappy?  
    Because it always had to choose True or False.
 
-284. How many programmers does it take to change a light bulb?  
+305. How many programmers does it take to change a light bulb?  
    None, that’s a hardware problem.
 
-285. Why did the programmer quit his job?  
+306. Why did the programmer quit his job?  
    Because he didn’t get arrays.
 
-286. Why was the function always sad?  
+307. Why was the function always sad?  
    It had too many arguments.
 
-287. How do programmers celebrate success?  
+308. How do programmers celebrate success?  
    With a logical high-five.
 
-288. Why did the coder go to therapy?  
+309. Why did the coder go to therapy?  
    Too many unresolved exceptions.
 
-289. Why do programmers hate meetings?  
+310. Why do programmers hate meetings?  
    They prefer conditions without side effects.
 
-290. Why did the developer keep repeating himself?  
+311. Why did the developer keep repeating himself?  
    Recursion, of course.
 
-291. Why do programmers always mix up Christmas and Halloween?  
+312. Why do programmers always mix up Christmas and Halloween?  
     Because Oct 31 = Dec 25.
 
-292. Why did the boolean break up with the integer?  
+313. Why did the boolean break up with the integer?  
 It needed space: true or false.
 
-293. Why was the logic gate depressed?  
+314. Why was the logic gate depressed?  
 Too many false inputs.
 
-294. Why did the AND gate fail the test?  
+315. Why did the AND gate fail the test?  
 It couldn’t think independently.
 
-295. Why did the AND gate fail the exam?  
+316. Why did the AND gate fail the exam?  
 It couldn’t think independently.
 
-296. Why do programmers love Boolean logic?  
+317. Why do programmers love Boolean logic?  
 Because everything is either right or wrong.
 
-297. A programmer’s favorite exercise?  
+318. A programmer’s favorite exercise?  
 Boolean squats.
 
-298. Why do programmers love Boolean logic?  
+319. Why do programmers love Boolean logic?  
 Because everything is black or white.
 
-299. Why was the IF statement stressed?  
+320. Why was the IF statement stressed?  
 It had too many conditions.
 
-300. Boolean logic is like life:  
+321. Boolean logic is like life:  
 Sometimes true, mostly false.

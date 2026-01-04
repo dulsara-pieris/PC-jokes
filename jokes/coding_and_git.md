@@ -760,74 +760,138 @@
 
 380. Why do programmers love blankets? Because they're wrapped in comfort, like error handling.
 
-381. Why do Java developers wear glasses? Because they don’t C#.
+381. Why do programmers prefer dark mode? Because their code is already dark enough.
 
-382. I would tell you a joke about Git… But you might not `merge` it well.
+382. What's a programmer's favorite holiday? System Maintenance Day. Everything's expected to be down.
 
-383. Why did the programmer go broke? Because he used up all his cache.
+383. Why do programmers hate autocorrect? Because it changes 'null' to 'bill' and breaks everything.
 
-384. A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'
+384. What's the programmer's guide to fashion? Black everything. Minimizes decision fatigue.
 
-385. Why was the function sad after a breakup? It lost its closure.
+385. Why do programmers love compression? Because they can fit more procrastination into less time.
 
-386. A SQL query walks into a bar, walks up to two tables, and asks: "Can I join you?"
+386. What's a programmer's favorite type of drink? Anything with caffeine. Even Red Bull counts as breakfast.
 
-387. Why did the programmer bring a ladder?  
+387. Why do programmers love hoodies? Because they can disappear into the hood during meetings.
+
+388. What's a programmer's favorite type of pasta? Spaghetti code. Unfortunately.
+
+389. Why do programmers hate mornings? Because their body runs on async and mornings are blocking.
+
+390. What's the programmer's guide to cooking? Order delivery. Call it 'importing external dependencies.'
+
+391. Why do programmers love mechanical keyboards? The loud clicks announce they're working. Even when they're not.
+
+392. What's a programmer's favorite type of sandwich? One that doesn't require two hands. Coding efficiency.
+
+393. Why do programmers love pets? Because pets have better uptime than their services.
+
+394. What's a programmer's favorite type of music for coding? Anything without lyrics. Words are distracting.
+
+395. Why do programmers hate shopping malls? Too many dependencies and circular references.
+
+396. What's the programmer's guide to socializing? Arrive late, leave early, avoid eye contact.
+
+397. Why do programmers love winter sports? Because they can crash without breaking production.
+
+398. What's a programmer's favorite type of exercise? Running away from production issues.
+
+399. Why do programmers love coffee shops? Free WiFi and acceptable social isolation.
+
+400. What's a programmer's favorite type of chair? One with good lumbar support for 12-hour sessions.
+
+401. Why do programmers hate phone calls? Because they interrupt the flow state.
+
+402. What's the programmer's guide to fitness? Walk to the bathroom. It's between you and the chair.
+
+403. Why do programmers love hoodies? Built-in 'do not disturb' mode.
+
+404. What's a programmer's favorite type of joke? One that doesn't need explanation. Like this one. Wait.
+
+405. Why do programmers love dark chocolate? It's bitter, like code reviews and production incidents.
+
+406. What's a programmer's favorite type of weather forecast? Cloudy. Because cloud computing.
+
+407. Why do programmers hate meetings? Because they're synchronous in an async world.
+
+408. What's the programmer's guide to happiness? Write code. Ship code. Delete code. Repeat.
+
+409. Why do programmers love coffee? Because it's the only dependency that actually helps.
+
+410. What's a programmer's favorite type of book? Technical documentation. Just kidding, nobody reads that.
+
+411. Why do programmers love winter? Less sunlight means more acceptable to stay inside coding.
+
+412. What's a programmer's favorite type of vacation? A digital detox. That never actually happens.
+
+413. Why do Java developers wear glasses? Because they don’t C#.
+
+414. I would tell you a joke about Git… But you might not `merge` it well.
+
+415. Why did the programmer go broke? Because he used up all his cache.
+
+416. A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'
+
+417. Why was the function sad after a breakup? It lost its closure.
+
+418. A SQL query walks into a bar, walks up to two tables, and asks: "Can I join you?"
+
+419. Why did the programmer bring a ladder?  
    To reach the top of the stack.
 
-388. Why did Git break up with GitHub?  
+420. Why did Git break up with GitHub?  
    Too many conflicts.
 
-389. Why do programmers love version control?  
+421. Why do programmers love version control?  
    Because it keeps their mistakes documented.
 
-390. Why did the coder go broke at the restaurant?  
+422. Why did the coder go broke at the restaurant?  
    He forgot to close his table.
 
-391. Why was the programmer afraid of the stairs?  
+423. Why was the programmer afraid of the stairs?  
    He couldn’t handle recursion.
 
-392. How do you comfort a JavaScript bug?  
+424. How do you comfort a JavaScript bug?  
    Console it.
 
-393. Why do Python developers wear glasses?  
+425. Why do Python developers wear glasses?  
    They can’t C without them.
 
-394. Why did the function refuse to work?  
+426. Why did the function refuse to work?  
    It had too many dependencies.
 
-395. How do developers fix a broken website?  
+427. How do developers fix a broken website?  
    They Ctrl+Z their mistakes.
 
-396. Why was the code cold?  
+428. Why was the code cold?  
     Because it left its Windows open.
 
-397. Why did the developer go broke?  
+429. Why did the developer go broke?  
 Because he used up all his cache.
 
-398. Why do programmers hate merge conflicts?  
+430. Why do programmers hate merge conflicts?  
 Because they always bring up old issues.
 
-399. Why did Git break up with SVN?  
+431. Why did Git break up with SVN?  
 It wanted more commitment.
 
-400. Why did the programmer quit his job?  
+432. Why did the programmer quit his job?  
 He didn’t get arrays.
 
-401. Why do programmers prefer dark mode?  
+433. Why do programmers prefer dark mode?  
 Because light attracts bugs.
 
-402. Why was the commit afraid?  
+434. Why was the commit afraid?  
 It had no message.
 
-403. Why did the bug cross the road?  
+435. Why did the bug cross the road?  
 To reproduce on the other side.
 
-404. Why do programmers hate merge conflicts?  
+436. Why do programmers hate merge conflicts?  
 Because they bring up old issues.
 
-405. Why was the commit scared?  
+437. Why was the commit scared?  
 It had no message.
 
-406. Why was the code always calm?  
+438. Why was the code always calm?  
 It was well-indented.
