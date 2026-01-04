@@ -318,5 +318,205 @@
   {
     "category": "Numbers & Bases",
     "joke": "Why do hexadecimal numbers make bad roommates? Because they\u2019re always high-fiving (0xF)!"
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers love keyboards?  \n   Because they have all the keys to success."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the coder go to the beach?  \n   To surf the web."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the database admin go broke?  \n   Too many bad relationships."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the programmer stay calm during a fire?  \n   He used try\u2026catch."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the coder break up with JavaScript?  \n   Too many callbacks."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers love pizza?  \n   Because it has all the right slices."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the developer get lost?  \n   He couldn\u2019t find the main() function."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the coder stressed?  \n   Too many threads to manage."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "How do programmers cheer each other up?  \n   They console.log their feelings."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the programmer cross the road?  \n    To get to the other IDE."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the Python programmer go hungry?  \n    Because he didn\u2019t import food."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the coder love Linux?  \n    Because he loved the terminal."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the database sad?  \n    Too many tables with bad relationships."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers hate bugs?  \n    They always crash the party."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the programmer bring a ladder to work?  \n    To reach the top of the stack."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the developer always carry a notebook?  \n    To keep track of his stack."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the computer go to art school?  \n    To improve its graphics."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the coder get kicked out of school?  \n    He kept breaking class rules."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call 8 hobbits?  \n    A hobbyte."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "There are 3 kinds of people:  \n    Those who can count in ternary, those who can\u2019t, and those who didn\u2019t expect ternary."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer bring a ladder?  \n   To reach the top of the stack."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did Git break up with GitHub?  \n   Too many conflicts."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers love version control?  \n   Because it keeps their mistakes documented."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the coder go broke at the restaurant?  \n   He forgot to close his table."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the programmer afraid of the stairs?  \n   He couldn\u2019t handle recursion."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "How do you comfort a JavaScript bug?  \n   Console it."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do Python developers wear glasses?  \n   They can\u2019t C without them."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the function refuse to work?  \n   It had too many dependencies."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "How do developers fix a broken website?  \n   They Ctrl+Z their mistakes."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the code cold?  \n    Because it left its Windows open."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why do programmers prefer dark mode?  \n   Because light attracts bugs."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the Boolean unhappy?  \n   Because it always had to choose True or False."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "How many programmers does it take to change a light bulb?  \n   None, that\u2019s a hardware problem."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer quit his job?  \n   Because he didn\u2019t get arrays."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the function always sad?  \n   It had too many arguments."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "How do programmers celebrate success?  \n   With a logical high-five."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the coder go to therapy?  \n   Too many unresolved exceptions."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why do programmers hate meetings?  \n   They prefer conditions without side effects."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the developer keep repeating himself?  \n   Recursion, of course."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why do programmers always mix up Christmas and Halloween?  \n    Because Oct 31 = Dec 25."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the computer take a nap?  \n   It had too many bytes."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the computer tired when it got home?  \n   It had a hard drive."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do programmers love binary?  \n   It\u2019s as simple as 1, 0."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the integer break up with the float?  \n   Too many decimals."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the programmer go broke?  \n   Because he lost his cache."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why are octal numbers afraid of decimal?  \n   They don\u2019t want to be divided."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the array so sad?  \n   Its indexes were all over the place."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was 6 afraid of 7?  \n   Because 7 8 9\u2026 in binary."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do computers make terrible comedians?  \n   They can\u2019t handle negative feedback."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the coder get stuck in base 2?  \n    He couldn\u2019t find the decimal point."
   }
 ]

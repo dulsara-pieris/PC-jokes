@@ -39,3 +39,33 @@
 
 18. Why did the programmer get stuck in the shower?  
    The instructions said: Lather, Rinse, Repeat.
+
+19. Why do programmers prefer dark mode?  
+   Because light attracts bugs.
+
+20. Why was the Boolean unhappy?  
+   Because it always had to choose True or False.
+
+21. How many programmers does it take to change a light bulb?  
+   None, that’s a hardware problem.
+
+22. Why did the programmer quit his job?  
+   Because he didn’t get arrays.
+
+23. Why was the function always sad?  
+   It had too many arguments.
+
+24. How do programmers celebrate success?  
+   With a logical high-five.
+
+25. Why did the coder go to therapy?  
+   Too many unresolved exceptions.
+
+26. Why do programmers hate meetings?  
+   They prefer conditions without side effects.
+
+27. Why did the developer keep repeating himself?  
+   Recursion, of course.
+
+28. Why do programmers always mix up Christmas and Halloween?  
+    Because Oct 31 = Dec 25.

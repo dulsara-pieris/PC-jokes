@@ -27,3 +27,33 @@
 13. How do programmers count cows? 1, 10, 11… (binary counting)
 
 14. Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!
+
+15. Why did the computer take a nap?  
+   It had too many bytes.
+
+16. Why was the computer tired when it got home?  
+   It had a hard drive.
+
+17. Why do programmers love binary?  
+   It’s as simple as 1, 0.
+
+18. Why did the integer break up with the float?  
+   Too many decimals.
+
+19. Why did the programmer go broke?  
+   Because he lost his cache.
+
+20. Why are octal numbers afraid of decimal?  
+   They don’t want to be divided.
+
+21. Why was the array so sad?  
+   Its indexes were all over the place.
+
+22. Why was 6 afraid of 7?  
+   Because 7 8 9… in binary.
+
+23. Why do computers make terrible comedians?  
+   They can’t handle negative feedback.
+
+24. Why did the coder get stuck in base 2?  
+    He couldn’t find the decimal point.
