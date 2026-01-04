@@ -520,90 +520,224 @@
 
 260. Why did the cybersecurity expert break up with their partner? Too many trust issues and not enough encryption.
 
-261. There are 3 kinds of people: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+261. What's the programmer's version of a midlife crisis? Switching from tabs to spaces. Or vice versa.
 
-262. Why do programmers prefer dark mode? Because light attracts bugs.
+262. Why did the blockchain developer become a philosopher? They were obsessed with decentralized truth.
 
-263. Why did the Python programmer go hungry? Because he didn’t import food.
+263. What's a programmer's favorite Shakespeare quote? 'To code or not to code.' Actually, there is no 'not to code.'
 
-264. Why did the developer go to therapy? Too many unresolved exceptions.
+264. What do you call a programmer who actually reads the documentation? A unicorn. Or new.
 
-265. Why do Java developers wear glasses? Because they can't C#.
+265. What's the difference between a junior and senior developer? A junior breaks production. A senior knows how to hide it.
 
-266. Why was the developer afraid of elevators? Because he couldn’t handle the stack trace.
+266. What's the most optimistic thing a programmer can say? 'This should work.' Narrator: It did not work.
 
-267. A programmer’s wife asks him to take out the trash; he gives her a Boolean answer.
+267. What's a programmer's favorite constellation? The Array. Wait, that's not a real constellation. Neither is their work-life balance.
 
-268. Why did the coder get lost? He couldn’t find the main() function.
+268. Why did the DevOps engineer bring an umbrella? In case of a storm in the cloud.
 
-269. Why did the coder go broke? He ran out of cache.
+269. Why was the algorithm so confident? It had O(1) self-esteem.
 
-270. Why did the programmer quit his job? He didn’t get arrays.
+270. What's a programmer's favorite type of investment? Tech stocks, because they understand the crashes.
 
-271. Why did the programmer cross the road? Because he needed to get to the other IDE.
+271. Why did the machine learning engineer become a therapist? They were good at pattern recognition and bad at human interaction.
 
-272. Why did the coder get kicked out of school? Because he kept breaking class rules.
+272. Why did the API feel rejected? Too many 401 responses and not enough authentication.
 
-273. Why do programmers hate nature? It has too many bugs.
+273. What's a programmer's favorite gym exercise? Pushing to production. Cardio happens when it breaks.
 
-274. There are 3 kinds of people in the world: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+274. Why did the programmer become a gardener? They heard about branches, forks, and cherry-picking. Reality was disappointing.
 
-275. Why do programmers love keyboards?  
+275. Why was the cache always so popular? Everyone wanted to get with them quickly.
+
+276. What's the difference between a tech lead and a developer? A tech lead knows which meetings to skip.
+
+277. Why did the startup fail? They focused on the MVP instead of the actual product. And they ran out of runway.
+
+278. Why was the garbage collector so underappreciated? Because everyone takes memory management for granted.
+
+279. Why did the distributed system feel lonely? All its friends were in different data centers.
+
+280. What's the difference between AI and ML? About $50k in salary and a lot of buzzwords.
+
+281. What's a cloud architect's worst nightmare? The cloud provider going down. Or the bill.
+
+282. What do you call a programmer who works out? A buffer. They're trying to avoid overflow.
+
+283. Why did the Kubernetes engineer feel overwhelmed? Too many pods to manage and not enough coffee.
+
+284. Why was the load balancer stressed? It couldn't handle the pressure of distributing requests evenly.
+
+285. Why did the penetration tester break up with their partner? They found too many vulnerabilities.
+
+286. What's the difference between a bug and an Easter egg? Documentation and intent.
+
+287. What's a Site Reliability Engineer? A firefighter who started the fire.
+
+288. What's the difference between frontend and backend developers? Frontend makes it look good. Backend makes it actually work. Both blame each other.
+
+289. Why was the continuous integration pipeline so successful? Because it failed fast and often.
+
+290. Why did the Bitcoin miner go broke? High electricity bills and low cryptocurrency prices.
+
+291. Why was the neural network so deep? It had a lot of layers. And issues.
+
+292. What's the difference between a data scientist and a statistician? About $30k and a Python certification.
+
+293. What's a programmer's favorite dinosaur? The Veloci-debugger.
+
+294. What's the difference between Agile and Waterfall? Agile is chaos with standups. Waterfall is chaos with Gantt charts.
+
+295. What's a programmer's favorite exercise? Jumping to conclusions.
+
+296. Why did the regex developer go insane? They tried to parse HTML. Never parse HTML with regex.
+
+297. Why was the packet sniffer so nosy? It literally captured everyone's conversations.
+
+298. Why did the encryption algorithm feel secure? Because nobody understood it, including the developer.
+
+299. What's the difference between a hacker and a programmer? A hacker breaks into your house. A programmer builds the house so poorly you can walk in.
+
+300. What's a quantum programmer's favorite state? Superposition. They're simultaneously working and not working.
+
+301. What's the difference between a junior dev's code and a senior dev's code? About 500 lines and the same result.
+
+302. Why was the CDN so reliable? It had trust issues and kept multiple copies of everything.
+
+303. Why did the load balancer go to therapy? It couldn't handle the weight of everyone's requests.
+
+304. Why was the DNS so forgetful? It kept flushing its cache.
+
+305. What's the difference between a bug and a feature? The bug is documented.
+
+306. What's a reverse proxy's job? To stand between you and the truth.
+
+307. What's the difference between a data lake and a data swamp? About 6 months and no documentation.
+
+308. Why was the message broker so popular? Everyone wanted to subscribe to its topics.
+
+309. Why did the API rate limiter feel mean? It kept telling people 'Too Many Requests.'
+
+310. Why was the service worker so helpful? It worked in the background without being asked.
+
+311. What's a chaos engineer's motto? 'Break things in production before they break themselves.'
+
+312. What's the difference between monitoring and observability? About $100k in vendor costs.
+
+313. What's a container's biggest fear? Being orphaned with no parent process.
+
+314. Why was the event loop so busy? It never stopped checking if something needed to be done.
+
+315. Why did the WebSocket feel connected? Because it maintained a persistent relationship.
+
+316. Why was the static site generator so fast? No backend, no problems.
+
+317. What's the difference between horizontal and vertical scaling? Horizontal: Buy more servers. Vertical: Buy bigger servers. Both: Expensive.
+
+318. What's a serverless function's favorite song? 'Don't Stop Believing' by Journey. Because it keeps getting invoked.
+
+319. What's the difference between a tech startup and a dumpster fire? The dumpster fire is self-sustaining.
+
+320. Why was the cron job so punctual? Because it had a schedule and stuck to it, unlike developers.
+
+321. Why did the cache miss feel disappointed? It expected something but found nothing.
+
+322. Why was the database index so organized? It knew where everything was. Unlike the developer.
+
+323. What's a programmer's favorite type of pizza? Deep dish. Like their call stacks.
+
+324. What's a DevSecOps engineer? Someone who says 'security' three times and hopes it sticks.
+
+325. What's the difference between a junior and senior architect? Juniors draw boxes. Seniors draw boxes with arrows.
+
+326. Why was the API gateway so tired? It stood between clients and services all day long.
+
+327. Why did the edge function feel anxious? It was always on the edge.
+
+328. There are 3 kinds of people: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+
+329. Why do programmers prefer dark mode? Because light attracts bugs.
+
+330. Why did the Python programmer go hungry? Because he didn’t import food.
+
+331. Why did the developer go to therapy? Too many unresolved exceptions.
+
+332. Why do Java developers wear glasses? Because they can't C#.
+
+333. Why was the developer afraid of elevators? Because he couldn’t handle the stack trace.
+
+334. A programmer’s wife asks him to take out the trash; he gives her a Boolean answer.
+
+335. Why did the coder get lost? He couldn’t find the main() function.
+
+336. Why did the coder go broke? He ran out of cache.
+
+337. Why did the programmer quit his job? He didn’t get arrays.
+
+338. Why did the programmer cross the road? Because he needed to get to the other IDE.
+
+339. Why did the coder get kicked out of school? Because he kept breaking class rules.
+
+340. Why do programmers hate nature? It has too many bugs.
+
+341. There are 3 kinds of people in the world: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+
+342. Why do programmers love keyboards?  
    Because they have all the keys to success.
 
-276. Why did the coder go to the beach?  
+343. Why did the coder go to the beach?  
    To surf the web.
 
-277. Why did the database admin go broke?  
+344. Why did the database admin go broke?  
    Too many bad relationships.
 
-278. Why did the programmer stay calm during a fire?  
+345. Why did the programmer stay calm during a fire?  
    He used try…catch.
 
-279. Why did the coder break up with JavaScript?  
+346. Why did the coder break up with JavaScript?  
    Too many callbacks.
 
-280. Why do programmers love pizza?  
+347. Why do programmers love pizza?  
    Because it has all the right slices.
 
-281. Why did the developer get lost?  
+348. Why did the developer get lost?  
    He couldn’t find the main() function.
 
-282. Why was the coder stressed?  
+349. Why was the coder stressed?  
    Too many threads to manage.
 
-283. How do programmers cheer each other up?  
+350. How do programmers cheer each other up?  
    They console.log their feelings.
 
-284. Why did the programmer cross the road?  
+351. Why did the programmer cross the road?  
     To get to the other IDE.
 
-285. Why did the Python programmer go hungry?  
+352. Why did the Python programmer go hungry?  
     Because he didn’t import food.
 
-286. Why did the coder love Linux?  
+353. Why did the coder love Linux?  
     Because he loved the terminal.
 
-287. Why was the database sad?  
+354. Why was the database sad?  
     Too many tables with bad relationships.
 
-288. Why do programmers hate bugs?  
+355. Why do programmers hate bugs?  
     They always crash the party.
 
-289. Why did the programmer bring a ladder to work?  
+356. Why did the programmer bring a ladder to work?  
     To reach the top of the stack.
 
-290. Why did the developer always carry a notebook?  
+357. Why did the developer always carry a notebook?  
     To keep track of his stack.
 
-291. Why did the computer go to art school?  
+358. Why did the computer go to art school?  
     To improve its graphics.
 
-292. Why did the coder get kicked out of school?  
+359. Why did the coder get kicked out of school?  
     He kept breaking class rules.
 
-293. What do you call 8 hobbits?  
+360. What do you call 8 hobbits?  
     A hobbyte.
 
-294. There are 3 kinds of people:  
+361. There are 3 kinds of people:  
     Those who can count in ternary, those who can’t, and those who didn’t expect ternary.

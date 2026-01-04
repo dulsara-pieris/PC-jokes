@@ -250,48 +250,92 @@
 
 125. Why is 6 afraid of 7? Because 7 is a registered six offender.
 
-126. There are only 10 kinds of people: those who understand hexadecimal and those who don’t.
+126. What's the difference between 1 and 1.0? About 4 bytes and a lot of confusion.
 
-127. Why do programmers prefer dark mode? Because light attracts bugs.
+127. Why did the programmer start counting at zero? Because they wanted to get ahead in life.
 
-128. Why was the function worried about its type? It didn’t want to lose its class.
+128. What do you call a group of programmers? A merge conflict waiting to happen.
 
-129. Why are assembly programmers always soaking wet? They work below C-level.
+129. What's a programmer's favorite number? 42. But they don't know why.
 
-130. Why did the programmer write binary jokes? Because he wanted to be funny in ones and zeros.
+130. What's a programmer's least favorite number? NaN. It's literally not even a number.
 
-131. There are 10 types of people in the world: Those who understand binary, and those who don’t.
+131. What's infinity + 1 in JavaScript? Still infinity. Also, JavaScript doesn't care about your math.
 
-132. Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25.
+132. Why is 10 afraid of 7? Because 7 8 9. In binary, that's actually 111 1000 1001. Still scary.
 
-133. Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!
+133. What's a programmer's favorite mathematical constant? Pi. Because pie is delicious during late-night coding.
 
-134. Why did the computer take a nap?  
+134. Why did the programmer hate Roman numerals? No zero, and they couldn't count backwards.
+
+135. What's the programmer's favorite prime number? 31. Because OCT 31 = DEC 25. We're never letting this joke go.
+
+136. Why did the programmer get confused at the restaurant? The menu was base 10, but they were thinking base 2.
+
+137. What's a programmer's favorite element? Silicon. It's in all their chips.
+
+138. Why is 0 the loneliest number? Because it's literally nothing.
+
+139. What do you call a programmer who can count to 1024 on their fingers? Normal. They use binary.
+
+140. Why did the programmer prefer base 64? Because it looked cooler in URLs.
+
+141. What's a programmer's favorite temperature? 0 Kelvin. Absolute zero bugs.
+
+142. Why did the programmer love the number 256? Because it's 2^8 and perfectly byte-sized.
+
+143. What's a programmer's least favorite number? 404. Not found. Story of their life.
+
+144. Why is 7 the luckiest number for programmers? Because 7 8 9 and got away with it.
+
+145. What's a programmer's favorite state of matter? Solid State Drives.
+
+146. Why did the programmer love the number 1337? Because they're leet. Or were, in 2005.
+
+147. What's a programmer's favorite number system? Whatever system has the fewest bugs.
+
+148. There are only 10 kinds of people: those who understand hexadecimal and those who don’t.
+
+149. Why do programmers prefer dark mode? Because light attracts bugs.
+
+150. Why was the function worried about its type? It didn’t want to lose its class.
+
+151. Why are assembly programmers always soaking wet? They work below C-level.
+
+152. Why did the programmer write binary jokes? Because he wanted to be funny in ones and zeros.
+
+153. There are 10 types of people in the world: Those who understand binary, and those who don’t.
+
+154. Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25.
+
+155. Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!
+
+156. Why did the computer take a nap?  
    It had too many bytes.
 
-135. Why was the computer tired when it got home?  
+157. Why was the computer tired when it got home?  
    It had a hard drive.
 
-136. Why do programmers love binary?  
+158. Why do programmers love binary?  
    It’s as simple as 1, 0.
 
-137. Why did the integer break up with the float?  
+159. Why did the integer break up with the float?  
    Too many decimals.
 
-138. Why did the programmer go broke?  
+160. Why did the programmer go broke?  
    Because he lost his cache.
 
-139. Why are octal numbers afraid of decimal?  
+161. Why are octal numbers afraid of decimal?  
    They don’t want to be divided.
 
-140. Why was the array so sad?  
+162. Why was the array so sad?  
    Its indexes were all over the place.
 
-141. Why was 6 afraid of 7?  
+163. Why was 6 afraid of 7?  
    Because 7 8 9… in binary.
 
-142. Why do computers make terrible comedians?  
+164. Why do computers make terrible comedians?  
    They can’t handle negative feedback.
 
-143. Why did the coder get stuck in base 2?  
+165. Why did the coder get stuck in base 2?  
     He couldn’t find the decimal point.

@@ -434,44 +434,178 @@
 
 217. Why do programmers love coffee? Because Java was already taken as a language name.
 
-218. Why do Java developers wear glasses? Because they don’t C#.
+218. What's a programmer's favorite movie? The Matrix. Because it's the only movie where the hero is a programmer who actually saves the world.
 
-219. I would tell you a joke about Git… But you might not `merge` it well.
+219. How do you know someone just learned React? They'll rewrite their entire app using it. Twice.
 
-220. Why did the programmer go broke? Because he used up all his cache.
+220. Why do programmers hate small talk? Because 'How are you?' doesn't return a proper status code.
 
-221. A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'
+221. How many programmers does it take to change a light bulb? Just one, but the light bulb has to want to change.
 
-222. Why was the function sad after a breakup? It lost its closure.
+222. What's a programmer's favorite weather? Cloudy, but not too cloudy. Just enough for cloud computing.
 
-223. A SQL query walks into a bar, walks up to two tables, and asks: "Can I join you?"
+223. Why did the programmer get kicked out of the orchestra? They couldn't C sharp and refused to B flat.
 
-224. Why did the programmer bring a ladder?  
+224. What's the best way to learn a new programming language? Start a project with a deadline. Panic is a great motivator.
+
+225. Why do programmers hate Valentine's Day? Because undefined loves you is not very romantic.
+
+226. How do you annoy a programmer? Tell them their code is 'almost working.'
+
+227. What's the difference between 'undefined' and 'null'? One is JavaScript's way of saying 'I don't know.' The other is JavaScript's way of saying 'I know it's nothing.'
+
+228. Why do programmers always look tired? Because they spend all night chasing bugs that only appear in production.
+
+229. How do you know you're working with legacy code? The original author is either retired or in witness protection.
+
+230. What's the most terrifying phrase in software development? 'Hey, do you have a minute?'
+
+231. Why do programmers hate phone calls? Because they can't Google the conversation in real-time.
+
+232. How to become a 10x developer: Write code so bad that it takes 10 developers to fix it.
+
+233. What's a programmer's favorite type of music? Algorithm and blues. Heavy metal for debugging.
+
+234. Why do programmers prefer working from home? Because 'home' is where the WiFi connects automatically.
+
+235. What's the first rule of coding? Don't talk about the spaghetti code you wrote last year.
+
+236. Why do programmers love mechanical keyboards? The clicking sound makes them feel productive.
+
+237. What's a programmer's favorite type of vacation? A staycation with no Slack notifications.
+
+238. Why do programmers hate surprises? Because unexpected behavior should only happen in code, not in life.
+
+239. What's the programmer's motto? 'If it ain't broke, add more features until it is.'
+
+240. Why do programmers make bad dancers? They have two left feet and both are statically typed.
+
+241. What's the difference between a programmer and a psychic? A psychic can predict the future. A programmer can't even predict their code.
+
+242. Why do programmers love acronyms? Because TLDR: Typing Less Delivers Results.
+
+243. What's a programmer's favorite board game? Monopoly, because they understand the concept of buying properties you can't afford.
+
+244. Why do programmers prefer tea over coffee? They don't. That's a lie. Coffee or death.
+
+245. What's a programmer's favorite magic trick? Making bugs disappear by closing the ticket.
+
+246. Why do programmers hate sand? It's coarse, rough, irritating, and gets in the keyboard.
+
+247. What's the programmer's guide to fitness? Stand up every two hours. Stretch. Regret life choices. Sit back down.
+
+248. Why do programmers hate Mondays? Because they deployed on Friday and the bugs are back.
+
+249. What's a programmer's last words? 'It compiles, ship it!'
+
+250. Why do programmers love pizza? Because it's the only thing that delivers faster than their CI/CD pipeline.
+
+251. What's a programmer's favorite historical period? The Renaissance. Because of the rebasing.
+
+252. Why did the programmer get divorced? Their relationship had too many dependencies and no rollback plan.
+
+253. Why do programmers hate meetings? Because async/await doesn't work in real life.
+
+254. What's the difference between a programmer and a fortune teller? Fortune tellers admit they're guessing.
+
+255. Why do programmers love mechanical pencils? Because they appreciate good pointers.
+
+256. What's a programmer's idea of spring cleaning? Deleting commented-out code from 2018.
+
+257. Why do programmers make terrible spies? They leave traces everywhere and can't clear their history.
+
+258. What's a programmer's favorite type of shoes? Sneakers. For sneaking past the QA team.
+
+259. Why do programmers hate social events? Too many threads and race conditions.
+
+260. What's the programmer's guide to parenting? If child.crying() then feed() else sleep(). It never works.
+
+261. Why do programmers love dark chocolate? It's bitter, like code reviews.
+
+262. What's a programmer's favorite type of bread? Batch files. Get it? Never mind.
+
+263. Why do programmers hate New Year's Eve? They're busy fixing Y2K bugs that never ended.
+
+264. What's a programmer's favorite pet? A python. Or a gopher. Or a rust crab.
+
+265. Why do programmers love hoodies? To hide from management and the sun.
+
+266. What's the difference between a programmer and a terrorist? You can negotiate with a terrorist. We already said this. Stack overflow in jokes.
+
+267. Why do programmers hate haircuts? Because they're used to cutting corners, not hair.
+
+268. What's a programmer's favorite childhood toy? Lego. Because building and debugging is basically the same.
+
+269. Why do programmers love winter? Fewer bugs. Cold kills bugs.
+
+270. What's a programmer's favorite TV show? The IT Crowd. Have you tried turning it off and on again?
+
+271. Why do programmers hate restaurants? The menu has no search function.
+
+272. What's the programmer's guide to fashion? Black hoodie, jeans, same shoes for 5 years.
+
+273. Why do programmers love cats? Because cats are independent, do their own thing, and ignore you. Just like good code.
+
+274. What's a programmer's favorite condiment? Sauce. Open source, of course.
+
+275. Why do programmers hate surprises? Because 'unexpected token' is traumatic enough.
+
+276. What's a programmer's favorite word? 'Works.' As in 'It finally works!'
+
+277. Why do programmers love sci-fi? Because it's the only genre where their social skills are normal.
+
+278. What's the programmer's guide to happiness? Lower your expectations. Way lower.
+
+279. Why do programmers make terrible comedians? Their timing is always off by one.
+
+280. What's the difference between a programmer and a philosopher? Programmers know their code doesn't work. Philosophers pretend they know.
+
+281. Why do programmers hate mornings? Because they're still living in yesterday's timezone.
+
+282. What's a programmer's favorite superhero? Batman. He's rich, has cool gadgets, and works at night.
+
+283. Why do programmers love coffee shops? Free WiFi and socially acceptable isolation.
+
+284. What's the programmer's motto? 'Move fast and break things.' Then spend 6 months fixing them.
+
+285. Why do Java developers wear glasses? Because they don’t C#.
+
+286. I would tell you a joke about Git… But you might not `merge` it well.
+
+287. Why did the programmer go broke? Because he used up all his cache.
+
+288. A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'
+
+289. Why was the function sad after a breakup? It lost its closure.
+
+290. A SQL query walks into a bar, walks up to two tables, and asks: "Can I join you?"
+
+291. Why did the programmer bring a ladder?  
    To reach the top of the stack.
 
-225. Why did Git break up with GitHub?  
+292. Why did Git break up with GitHub?  
    Too many conflicts.
 
-226. Why do programmers love version control?  
+293. Why do programmers love version control?  
    Because it keeps their mistakes documented.
 
-227. Why did the coder go broke at the restaurant?  
+294. Why did the coder go broke at the restaurant?  
    He forgot to close his table.
 
-228. Why was the programmer afraid of the stairs?  
+295. Why was the programmer afraid of the stairs?  
    He couldn’t handle recursion.
 
-229. How do you comfort a JavaScript bug?  
+296. How do you comfort a JavaScript bug?  
    Console it.
 
-230. Why do Python developers wear glasses?  
+297. Why do Python developers wear glasses?  
    They can’t C without them.
 
-231. Why did the function refuse to work?  
+298. Why did the function refuse to work?  
    It had too many dependencies.
 
-232. How do developers fix a broken website?  
+299. How do developers fix a broken website?  
    They Ctrl+Z their mistakes.
 
-233. Why was the code cold?  
+300. Why was the code cold?  
     Because it left its Windows open.

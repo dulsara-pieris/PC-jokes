@@ -322,56 +322,146 @@
 
 161. What's a programmer's favorite sport? Sprint planning.
 
-162. If at first you don’t succeed; call it version 1.0.
+162. Why did the programmer bring a sleeping bag to work? For the all-nighter debugging session that 'will only take 5 minutes.'
 
-163. Why did the programmer go broke? He lost all his cache.
+163. Why did the programmer get lost in the forest? They couldn't find the root directory.
 
-164. Programmers don’t die; they just get garbage collected.
+164. Why was the programmer always single? They kept waiting for the perfect match, but only got null.
 
-165. Why do programmers always mix up Christmas and Halloween? Because Oct 31 = Dec 25.
+165. Why do programmers prefer dogs over cats? Because dogs have better exception handling - they always come when called.
 
-166. Why did the programmer bring a ladder? Because he wanted to reach the top of the stack.
+166. Why did the programmer fail art class? They could only draw in pixels and vectors.
 
-167. How many programmers does it take to change a light bulb? None. That’s a hardware problem.
+167. What's a programmer's New Year's resolution? Write better code. Actual result: Write more code.
 
-168. To understand recursion, you must first understand recursion. 2. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
+168. Why did the programmer wear sunglasses? Their future was too bright. Also, dark mode at maximum brightness.
+
+169. What's a programmer's idea of a balanced diet? A laptop on each knee.
+
+170. Why did the boolean refuse to date? It was committed to being single (true).
+
+171. What's a programmer's favorite type of humor? Dry, sarcastic, with a hint of existential dread.
+
+172. Why did the programmer get kicked out of the casino? They kept trying to count cards in binary.
+
+173. What's a programmer's favorite card game? Poker, because they're good at reading stack traces.
+
+174. What's a programmer's favorite dance? The Debug Shuffle: Two steps forward, three steps back.
+
+175. Why did the programmer join a band? They wanted to improve their composition skills. They failed.
+
+176. Why did the recursion joke fail? See: Why did the recursion joke fail?
+
+177. What's a programmer's idea of time travel? Git checkout to a previous commit.
+
+178. What's a programmer's favorite season? Fall, because of all the stack dumps.
+
+179. Why did the while loop break up with the for loop? It needed more space and fewer constraints.
+
+180. Why did the programmer go to the psychiatrist? They had too many mental breakpoints.
+
+181. What's a programmer's favorite type of relationship? One with good interfaces and clear boundaries.
+
+182. What's a programmer's favorite childhood game? Hide and seek. They're still looking for that bug from 2015.
+
+183. Why did the exception get invited to every party? Because everyone wanted to handle it.
+
+184. Why did the programmer always win at poker? They knew when to fold, call, and raise exceptions.
+
+185. What's the programmer's prayer? 'Dear God, please let this work. I promise I'll add comments this time.'
+
+186. What's a programmer's favorite pickup line? 'Are you a compiler? Because you make my heart race with syntax errors.'
+
+187. What's a programmer's favorite breakfast cereal? Loops. Fruit Loops. Infinite Loops.
+
+188. Why did the developer wear two pairs of glasses? Because they wanted to C## better.
+
+189. Why did the programmer go to the beach? To test their code in a sandbox environment.
+
+190. What's a programmer's favorite movie genre? Suspense. Waiting for code to compile is thrilling.
+
+191. What's a programmer's favorite magic spell? Control + Z. The undo spell.
+
+192. Why did the programmer become a minimalist? Too many dependencies ruined their life.
+
+193. Why did the boolean go to law school? To argue true or false in court.
+
+194. What's a programmer's favorite yoga pose? The fetal position after a production deploy.
+
+195. What's a programmer's favorite instrument? The keyboard. The only instrument they can play.
+
+196. Why did the programmer fail the driving test? They kept trying to override the instructor.
+
+197. Why did the programmer become a chef? They wanted to work with better cookies.
+
+198. What's a programmer's favorite type of tree? An abstract syntax tree. The only tree that makes sense.
+
+199. What's a programmer's favorite holiday? Sysadmin Appreciation Day. Just kidding, they don't take holidays.
+
+200. Why did the programmer join a gym? To work on their core. Core dumps, specifically.
+
+201. Why did the programmer always carry a notebook? To write down bugs they couldn't reproduce.
+
+202. What's a programmer's favorite time? Compile time. Also the worst time.
+
+203. What's a programmer's favorite Shakespeare play? Much Ado About NULL Thing.
+
+204. Why did the programmer become a musician? They wanted to work with better arrays and better loops.
+
+205. Why did the programmer get kicked out of the library? They kept trying to import books instead of borrowing them.
+
+206. What's a programmer's favorite board game? Debug. Wait, that's not a game. It should be.
+
+207. If at first you don’t succeed; call it version 1.0.
+
+208. Why did the programmer go broke? He lost all his cache.
+
+209. Programmers don’t die; they just get garbage collected.
+
+210. Why do programmers always mix up Christmas and Halloween? Because Oct 31 = Dec 25.
+
+211. Why did the programmer bring a ladder? Because he wanted to reach the top of the stack.
+
+212. How many programmers does it take to change a light bulb? None. That’s a hardware problem.
+
+213. To understand recursion, you must first understand recursion. 2. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
    The Boolean replies, "True."
 
-169. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
+214. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
    The Boolean replies, "True."
 
-170. How many programmers does it take to change a light bulb?  
+215. How many programmers does it take to change a light bulb?  
    None. That’s a hardware problem.
 
-171. Why did the programmer get stuck in the shower?  
+216. Why did the programmer get stuck in the shower?  
    The instructions said: Lather, Rinse, Repeat.
 
-172. Why do programmers prefer dark mode?  
+217. Why do programmers prefer dark mode?  
    Because light attracts bugs.
 
-173. Why was the Boolean unhappy?  
+218. Why was the Boolean unhappy?  
    Because it always had to choose True or False.
 
-174. How many programmers does it take to change a light bulb?  
+219. How many programmers does it take to change a light bulb?  
    None, that’s a hardware problem.
 
-175. Why did the programmer quit his job?  
+220. Why did the programmer quit his job?  
    Because he didn’t get arrays.
 
-176. Why was the function always sad?  
+221. Why was the function always sad?  
    It had too many arguments.
 
-177. How do programmers celebrate success?  
+222. How do programmers celebrate success?  
    With a logical high-five.
 
-178. Why did the coder go to therapy?  
+223. Why did the coder go to therapy?  
    Too many unresolved exceptions.
 
-179. Why do programmers hate meetings?  
+224. Why do programmers hate meetings?  
    They prefer conditions without side effects.
 
-180. Why did the developer keep repeating himself?  
+225. Why did the developer keep repeating himself?  
    Recursion, of course.
 
-181. Why do programmers always mix up Christmas and Halloween?  
+226. Why do programmers always mix up Christmas and Halloween?  
     Because Oct 31 = Dec 25.
