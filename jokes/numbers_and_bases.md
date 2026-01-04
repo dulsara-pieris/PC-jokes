@@ -112,48 +112,90 @@
 
 56. Why was the memory chip so forgetful? It needed more cache.
 
-57. There are only 10 kinds of people: those who understand hexadecimal and those who don’t.
+57. Why did the nibble feel inferior? It was only half a byte.
 
-58. Why do programmers prefer dark mode? Because light attracts bugs.
+58. What's a computer's favorite snack at the movies? Micro-popcorn.
 
-59. Why was the function worried about its type? It didn’t want to lose its class.
+59. Why was the kilobyte jealous of the megabyte? Size matters in storage.
 
-60. Why are assembly programmers always soaking wet? They work below C-level.
+60. What do you call a computer that's always cold? A bit chilly.
 
-61. Why did the programmer write binary jokes? Because he wanted to be funny in ones and zeros.
+61. Why did the binary number go to the party alone? It couldn't find its complement.
 
-62. There are 10 types of people in the world: Those who understand binary, and those who don’t.
+62. What's a programmer's favorite type of sandwich? A sub-routine.
 
-63. Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25.
+63. Why was the terabyte so impressive? It had storage presence.
 
-64. Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!
+64. What do you call a number that's good at sports? An ath-byte.
 
-65. Why did the computer take a nap?  
+65. Why did the hex number feel special? It was 0xFF-icionado.
+
+66. What's a computer's favorite type of music? Heavy meta-data.
+
+67. Why was the unsigned integer always positive? It didn't know how to be negative.
+
+68. What do you call a computer's autobiography? A blog.
+
+69. Why did the clock cycle feel rushed? It only had nanoseconds.
+
+70. What's a programmer's favorite candy? Bit-O-Honey.
+
+71. Why was the parity bit so balanced? It kept everything even.
+
+72. What do you call a computer that loves to travel? A laptop on the go.
+
+73. Why did the floating point feel unstable? Precision issues.
+
+74. What's a computer's favorite game show? The Price is Float.
+
+75. Why was the signed integer so moody? It could be negative or positive.
+
+76. Why was the petabyte so expensive? Storage costs add up.
+
+77. What's a computer's favorite type of math? Algorithm-etic.
+
+78. There are only 10 kinds of people: those who understand hexadecimal and those who don’t.
+
+79. Why do programmers prefer dark mode? Because light attracts bugs.
+
+80. Why was the function worried about its type? It didn’t want to lose its class.
+
+81. Why are assembly programmers always soaking wet? They work below C-level.
+
+82. Why did the programmer write binary jokes? Because he wanted to be funny in ones and zeros.
+
+83. There are 10 types of people in the world: Those who understand binary, and those who don’t.
+
+84. Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25.
+
+85. Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!
+
+86. Why did the computer take a nap?  
    It had too many bytes.
 
-66. Why was the computer tired when it got home?  
+87. Why was the computer tired when it got home?  
    It had a hard drive.
 
-67. Why do programmers love binary?  
+88. Why do programmers love binary?  
    It’s as simple as 1, 0.
 
-68. Why did the integer break up with the float?  
+89. Why did the integer break up with the float?  
    Too many decimals.
 
-69. Why did the programmer go broke?  
+90. Why did the programmer go broke?  
    Because he lost his cache.
 
-70. Why are octal numbers afraid of decimal?  
+91. Why are octal numbers afraid of decimal?  
    They don’t want to be divided.
 
-71. Why was the array so sad?  
+92. Why was the array so sad?  
    Its indexes were all over the place.
 
-72. Why was 6 afraid of 7?  
+93. Why was 6 afraid of 7?  
    Because 7 8 9… in binary.
 
-73. Why do computers make terrible comedians?  
+94. Why do computers make terrible comedians?  
    They can’t handle negative feedback.
 
-74. Why did the coder get stuck in base 2?  
+95. Why did the coder get stuck in base 2?  
     He couldn’t find the decimal point.

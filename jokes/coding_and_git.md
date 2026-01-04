@@ -136,44 +136,94 @@
 
 68. What do you call a programmer at a wedding? The one debugging the photo booth.
 
-69. Why do Java developers wear glasses? Because they don’t C#.
+69. Why did the programmer become a chef? They loved working with cookies.
 
-70. I would tell you a joke about Git… But you might not `merge` it well.
+70. What's a developer's favorite type of humor? Dry wit with sarcastic comments.
 
-71. Why did the programmer go broke? Because he used up all his cache.
+71. Why was the README file so helpful? It documented everything.
 
-72. A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'
+72. What do you call a Git stash that's full? A hoarder's paradise.
 
-73. Why was the function sad after a breakup? It lost its closure.
+73. Why did the programmer love autumn? Perfect season for leaf nodes.
 
-74. A SQL query walks into a bar, walks up to two tables, and asks: "Can I join you?"
+74. What's a developer's favorite breakfast cereal? Syntax Crunch.
 
-75. Why did the programmer bring a ladder?  
+75. Why was the fork so independent? It went its own way.
+
+76. What do you call a commit message that's unclear? A mystery novel.
+
+77. Why did the programmer open a bakery? They were great at making cookies.
+
+78. What's a developer's favorite type of pet? A watchdog process.
+
+79. Why was the rebase so controversial? It rewrote history.
+
+80. What do you call a developer who loves gardening? Someone who prunes their Git tree.
+
+81. Why did the programmer join a band? They wanted to play with arrays.
+
+82. What's a developer's favorite Olympic sport? Synchronous swimming in async.
+
+83. Why was the package manager so organized? Everything in its right dependency.
+
+84. What do you call a developer who loves fishing? Someone who debugs streams.
+
+85. Why did the programmer become a detective? They loved to trace bugs.
+
+86. What's a developer's favorite card game? Pair programming.
+
+87. Why was the diff so dramatic? It highlighted every change.
+
+88. What do you call a programmer who never tests? Dangerously optimistic.
+
+89. Why did the programmer go to art school? To learn about color schemes.
+
+90. What's a developer's favorite instrument? The pipeline organ.
+
+91. Why was the hotfix so urgent? Production was on fire.
+
+92. What do you call a developer at the beach? Someone debugging in sandboxes.
+
+93. Why did the programmer love winter? Perfect time for frozen dependencies.
+
+94. Why do Java developers wear glasses? Because they don’t C#.
+
+95. I would tell you a joke about Git… But you might not `merge` it well.
+
+96. Why did the programmer go broke? Because he used up all his cache.
+
+97. A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'
+
+98. Why was the function sad after a breakup? It lost its closure.
+
+99. A SQL query walks into a bar, walks up to two tables, and asks: "Can I join you?"
+
+100. Why did the programmer bring a ladder?  
    To reach the top of the stack.
 
-76. Why did Git break up with GitHub?  
+101. Why did Git break up with GitHub?  
    Too many conflicts.
 
-77. Why do programmers love version control?  
+102. Why do programmers love version control?  
    Because it keeps their mistakes documented.
 
-78. Why did the coder go broke at the restaurant?  
+103. Why did the coder go broke at the restaurant?  
    He forgot to close his table.
 
-79. Why was the programmer afraid of the stairs?  
+104. Why was the programmer afraid of the stairs?  
    He couldn’t handle recursion.
 
-80. How do you comfort a JavaScript bug?  
+105. How do you comfort a JavaScript bug?  
    Console it.
 
-81. Why do Python developers wear glasses?  
+106. Why do Python developers wear glasses?  
    They can’t C without them.
 
-82. Why did the function refuse to work?  
+107. Why did the function refuse to work?  
    It had too many dependencies.
 
-83. How do developers fix a broken website?  
+108. How do developers fix a broken website?  
    They Ctrl+Z their mistakes.
 
-84. Why was the code cold?  
+109. Why was the code cold?  
     Because it left its Windows open.

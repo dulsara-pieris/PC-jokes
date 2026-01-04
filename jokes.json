@@ -1132,6 +1132,402 @@
     "joke": "What's a programmer's favorite magic spell? Abracadabra - turn coffee into code."
   },
   {
+    "category": "Numbers & Bases",
+    "joke": "Why did the nibble feel inferior? It was only half a byte."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a computer's favorite snack at the movies? Micro-popcorn."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the kilobyte jealous of the megabyte? Size matters in storage."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What do you call a computer that's always cold? A bit chilly."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the binary number go to the party alone? It couldn't find its complement."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a programmer's favorite type of sandwich? A sub-routine."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the terabyte so impressive? It had storage presence."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What do you call a number that's good at sports? An ath-byte."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the hex number feel special? It was 0xFF-icionado."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a computer's favorite type of music? Heavy meta-data."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the unsigned integer always positive? It didn't know how to be negative."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What do you call a computer's autobiography? A blog."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the clock cycle feel rushed? It only had nanoseconds."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a programmer's favorite candy? Bit-O-Honey."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the parity bit so balanced? It kept everything even."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What do you call a computer that loves to travel? A laptop on the go."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the floating point feel unstable? Precision issues."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a computer's favorite game show? The Price is Float."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the signed integer so moody? It could be negative or positive."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer meditate? To find inner peace in outer loops."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a Boolean's favorite movie? True Lies."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the conditional statement indecisive? It had too many else-ifs."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What do you call a loop that's always happy? A do-while smiling."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the nested loop feel claustrophobic? Too many layers."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite yoga pose? The infinite loop."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the AND gate so selective? Both conditions had to be true."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What do you call a logic gate that's always inclusive? OR-ganizer."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the NOT gate feel contrary? It flipped everything."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite bedtime? When the loops finally terminate."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the NAND gate so popular? It was universally useful."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What do you call a Boolean that can't decide? Null-ecisive."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the ternary operator feel efficient? It made quick decisions."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite type of logic puzzle? Debugging production."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the assertion so confident? It stated facts boldly."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What do you call a condition that's never met? Wishful thinking."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the variable feel unstable? It kept changing its value."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite paradox? This statement is false."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the constant so reliable? It never changed."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What do you call a function that always returns? Responsible."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer become a chef? They loved working with cookies."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a developer's favorite type of humor? Dry wit with sarcastic comments."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the README file so helpful? It documented everything."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a Git stash that's full? A hoarder's paradise."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer love autumn? Perfect season for leaf nodes."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a developer's favorite breakfast cereal? Syntax Crunch."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the fork so independent? It went its own way."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a commit message that's unclear? A mystery novel."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer open a bakery? They were great at making cookies."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a developer's favorite type of pet? A watchdog process."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the rebase so controversial? It rewrote history."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a developer who loves gardening? Someone who prunes their Git tree."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer join a band? They wanted to play with arrays."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a developer's favorite Olympic sport? Synchronous swimming in async."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the package manager so organized? Everything in its right dependency."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a developer who loves fishing? Someone who debugs streams."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer become a detective? They loved to trace bugs."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a developer's favorite card game? Pair programming."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the diff so dramatic? It highlighted every change."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a programmer who never tests? Dangerously optimistic."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the semaphore feel important? It controlled access."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a hacker's favorite type of coffee? Espresso with a side of exploit."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the load balancer so fair? It distributed evenly."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a containerized application? A Docker in a box."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the microservice feel small? It only did one thing well."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite type of poetry? Haiku comments in code."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the CDN so fast? It was always close to you."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a database transaction? A commit-ment issue."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the webhook feel reactive? It responded to every trigger."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite constellation? Orion's Belt... of tools."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the orchestration platform so bossy? It managed everything."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a developer who loves astronomy? A star schema designer."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the CI/CD pipeline feel accomplished? It delivered continuously."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite type of garden? A data greenhouse."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the sharding strategy so divisive? It split everything up."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call an index that never helps? Useless overhead."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the message queue feel patient? It waited for consumers."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite type of sandwich? A layered architecture."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the REST API so relaxed? It followed a stateless lifestyle."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a GraphQL query? A data wish list."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the stream processor feel overwhelmed? Too much data flowing."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite type of architecture? Micro-everything."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the event sourcing so nostalgic? It remembered everything."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a monorepo? A family that stays together."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the service mesh feel connected? It linked everything."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite type of therapy? Pair programming sessions."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the edge computing so trendy? It was on the cutting edge."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call a lambda function? A serverless wanderer."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the time series database feel historical? It stored the past."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a programmer's favorite type of relationship? Many-to-many with proper constraints."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer go to art school? To learn about color schemes."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a developer's favorite instrument? The pipeline organ."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the hotfix so urgent? Production was on fire."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What do you call a developer at the beach? Someone debugging in sandboxes."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer love winter? Perfect time for frozen dependencies."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite board game? Risk - it's all about calculating odds."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the short-circuit feel lazy? It stopped at the first false."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What do you call logic that makes no sense? A bug feature."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the petabyte so expensive? Storage costs add up."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a computer's favorite type of math? Algorithm-etic."
+  },
+  {
     "category": "Advanced Nerdy",
     "joke": "There are 3 kinds of people: Those who can count in ternary, those who can’t, and those who didn’t expect ternary."
   },
