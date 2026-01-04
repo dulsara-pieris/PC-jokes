@@ -6626,5 +6626,13 @@
   {
     "category": "Numbers & Bases",
     "joke": "Why did hexadecimal feel superior?  \nIt had more digits to play with."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did zero feel lonely?  \nNothing depended on it."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did IF feel stressed?  \nAll decisions relied on it."
   }
 ]

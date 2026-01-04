@@ -796,3 +796,6 @@ It only showed up when things failed.
 
 365. Why did FALSE feel embarrassed?  
 Nothing worked out.
+
+366. Why did IF feel stressed?  
+All decisions relied on it.

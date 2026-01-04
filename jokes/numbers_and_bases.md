@@ -601,3 +601,6 @@ It could multiply anything to nothing.
 
 267. Why did hexadecimal feel superior?  
 It had more digits to play with.
+
+268. Why did zero feel lonely?  
+Nothing depended on it.
