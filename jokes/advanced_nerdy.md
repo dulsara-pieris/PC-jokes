@@ -1132,3 +1132,30 @@ Everyone waited forever.
 
 534. Why did the algorithm feel superior?  
 It ran in linear time.
+
+535. Why did the stack feel pressured?  
+Too many calls piled up.
+
+536. Why did the scheduler panic?  
+All threads wanted attention at once.
+
+537. Why did the algorithm feel smart?  
+It ran in linear time.
+
+538. Why did the compiler sigh?  
+Too many warnings ignored.
+
+539. Debugging is like archaeology:  
+You discover ancient mistakes.
+
+540. Why did the heap feel chaotic?  
+Memory leaks everywhere.
+
+541. Why was Big-O intimidating?  
+Growth went out of control.
+
+542. Debugging is like detective work:  
+You’re guilty until proven innocent.
+
+543. Why was Big-O terrifying?  
+Growth spiraled out of control.

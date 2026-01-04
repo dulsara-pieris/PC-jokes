@@ -733,3 +733,48 @@ Nothing matched expectations.
 
 344. Why was the condition exhausted?  
 It was evaluated too often.
+
+345. Why was the AND gate stressed?  
+It had too many conditions to meet.
+
+346. Why did NOT feel guilty?  
+It always flipped the truth.
+
+347. Why did OR feel hopeful?  
+At least one condition worked.
+
+348. Why was the IF statement nervous?  
+Everything depended on its decision.
+
+349. Why did TRUE feel confident?  
+It always passed checks.
+
+350. Why did FALSE panic?  
+Nothing worked out.
+
+351. Why did ELSE feel ignored?  
+It was only needed when things failed.
+
+352. Why did XOR feel complicated?  
+It only worked when inputs differed.
+
+353. Why did AND feel responsible?  
+Everything depended on it.
+
+354. Why was NOT calm?  
+It kept flipping truths.
+
+355. Why did IF feel important?  
+All decisions relied on it.
+
+356. Why did the IF statement panic?  
+Too many conditions depended on it.
+
+357. Why did ELSE feel ignored?  
+It only showed up when everything failed.
+
+358. Why did TRUE feel proud?  
+It always passed.
+
+359. Why did FALSE feel ashamed?  
+Nothing ever worked out.

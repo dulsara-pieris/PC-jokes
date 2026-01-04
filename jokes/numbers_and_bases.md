@@ -520,3 +520,51 @@ It stood on solid ground.
 
 240. Why did the float feel insecure?  
 It kept rounding itself.
+
+241. Why did base 2 break up with base 10?  
+They couldn’t find common ground.
+
+242. Why did the number zero feel lonely?  
+Because no one counted on it.
+
+243. Why did base 16 get invited to every party?  
+It always brought color.
+
+244. Why did binary go to therapy?  
+Too many unresolved bits.
+
+245. Why did the integer go to school?  
+To become a little more positive.
+
+246. Why was the fraction afraid of decimals?  
+It felt incomplete.
+
+247. Why did the number overflow?  
+It couldn’t handle the pressure.
+
+248. Why did base 3 feel odd?  
+It was stuck in the middle of 2 and 4.
+
+249. Why did binary go to school?  
+It wanted to get a bit smarter.
+
+250. Why did the negative number feel depressed?  
+It couldn’t see the positive side.
+
+251. Why did the number line get a promotion?  
+It always went straight to the point.
+
+252. Why did decimal feel insecure?  
+It was never whole.
+
+253. Why did base 8 feel incomplete?  
+It couldn’t find 8 or 9.
+
+254. Why did hexadecimal get invited everywhere?  
+It always brought 0x flair.
+
+255. Why did zero feel left out?  
+Nothing depended on it.
+
+256. Why did the number line feel stretched?  
+Too many points to cover.

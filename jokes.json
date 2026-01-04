@@ -6326,5 +6326,205 @@
   {
     "category": "Advanced Nerdy",
     "joke": "Why did the algorithm feel superior?  \nIt ran in linear time."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did base 2 break up with base 10?  \nThey couldn’t find common ground."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the number zero feel lonely?  \nBecause no one counted on it."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did base 16 get invited to every party?  \nIt always brought color."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did binary go to therapy?  \nToo many unresolved bits."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the AND gate stressed?  \nIt had too many conditions to meet."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did NOT feel guilty?  \nIt always flipped the truth."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did OR feel hopeful?  \nAt least one condition worked."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did Git feel dangerous?  \nIt could rewrite history."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the integer go to school?  \nTo become a little more positive."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the fraction afraid of decimals?  \nIt felt incomplete."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the number overflow?  \nIt couldn’t handle the pressure."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did base 3 feel odd?  \nIt was stuck in the middle of 2 and 4."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the IF statement nervous?  \nEverything depended on its decision."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did TRUE feel confident?  \nIt always passed checks."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did FALSE panic?  \nNothing worked out."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did ELSE feel ignored?  \nIt was only needed when things failed."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the commit lie?  \nIt said ‘minor fix’."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the function quit?  \nIt had too many calls."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the code afraid of the debugger?  \nIt didn’t want to be exposed."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the stack feel pressured?  \nToo many calls piled up."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the scheduler panic?  \nAll threads wanted attention at once."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the algorithm feel smart?  \nIt ran in linear time."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the compiler sigh?  \nToo many warnings ignored."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did binary go to school?  \nIt wanted to get a bit smarter."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the negative number feel depressed?  \nIt couldn’t see the positive side."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the number line get a promotion?  \nIt always went straight to the point."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did decimal feel insecure?  \nIt was never whole."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did XOR feel complicated?  \nIt only worked when inputs differed."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did AND feel responsible?  \nEverything depended on it."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was NOT calm?  \nIt kept flipping truths."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did IF feel important?  \nAll decisions relied on it."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the loop feel endless?  \nIt had no break."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the function feel neglected?  \nNo one called it."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Debugging is like archaeology:  \nYou discover ancient mistakes."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the heap feel chaotic?  \nMemory leaks everywhere."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was Big-O intimidating?  \nGrowth went out of control."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did base 8 feel incomplete?  \nIt couldn’t find 8 or 9."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did hexadecimal get invited everywhere?  \nIt always brought 0x flair."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did zero feel left out?  \nNothing depended on it."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the number line feel stretched?  \nToo many points to cover."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the IF statement panic?  \nToo many conditions depended on it."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did ELSE feel ignored?  \nIt only showed up when everything failed."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did TRUE feel proud?  \nIt always passed."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did FALSE feel ashamed?  \nNothing ever worked out."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the loop feel endless?  \nIt forgot to break."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the variable feel exposed?  \nIt was global."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the function feel lonely?  \nNo one called it."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did Git feel rebellious?  \nIt could reset history."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Debugging is like detective work:  \nYou’re guilty until proven innocent."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was Big-O terrifying?  \nGrowth spiraled out of control."
   }
 ]

@@ -973,3 +973,33 @@ The message said ‘temporary fix’.
 
 464. Why did the code feel clean?  
 It passed the linter.
+
+465. Why did Git feel dangerous?  
+It could rewrite history.
+
+466. Why did the commit lie?  
+It said ‘minor fix’.
+
+467. Why did the function quit?  
+It had too many calls.
+
+468. Why was the code afraid of the debugger?  
+It didn’t want to be exposed.
+
+469. Why did the loop feel endless?  
+It had no break.
+
+470. Why did the function feel neglected?  
+No one called it.
+
+471. Why did the loop feel endless?  
+It forgot to break.
+
+472. Why did the variable feel exposed?  
+It was global.
+
+473. Why did the function feel lonely?  
+No one called it.
+
+474. Why did Git feel rebellious?  
+It could reset history.
