@@ -1168,3 +1168,9 @@ Too many cycles.
 
 546. Why did Big-O look scary?  
 Growth got out of control.
+
+547. Why did the heap feel messy?  
+Memory leaks everywhere.
+
+548. Why was Big-O terrifying?  
+Growth went out of control.

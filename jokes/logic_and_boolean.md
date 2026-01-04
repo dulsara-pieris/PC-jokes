@@ -787,3 +787,12 @@ It only worked when inputs differed.
 
 362. Why did TRUE feel confident?  
 It always passed tests.
+
+363. Why did the IF statement panic?  
+Everything depended on its decision.
+
+364. Why did ELSE feel ignored?  
+It only showed up when things failed.
+
+365. Why did FALSE feel embarrassed?  
+Nothing worked out.

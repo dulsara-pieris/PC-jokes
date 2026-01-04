@@ -580,3 +580,15 @@ It could multiply anything to nothing.
 
 260. Why did base 16 feel superior?  
 It had more digits to play with.
+
+261. Why did the integer go to therapy?  
+It couldn’t handle its negative side.
+
+262. Why did the fraction feel left out?  
+It wasn’t part of a whole.
+
+263. Why did binary feel misunderstood?  
+People only saw zeros and ones.
+
+264. Why did base 10 get tired?  
+Too many digits to keep track of.
