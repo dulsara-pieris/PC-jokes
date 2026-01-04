@@ -4646,5 +4646,61 @@
   {
     "category": "Advanced Nerdy",
     "joke": "Why do programmers hate nature?  \nToo many bugs."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the programmer hate base 8?  \nBecause it doesn’t include 8 or 9."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do hexadecimal numbers look cool?  \nBecause they start with 0x."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the AND gate fail the exam?  \nIt couldn’t think independently."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why do programmers love Boolean logic?  \nBecause everything is either right or wrong."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "A programmer’s favorite exercise?  \nBoolean squats."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer quit his job?  \nHe didn’t get arrays."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers prefer dark mode?  \nBecause light attracts bugs."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the commit afraid?  \nIt had no message."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the bug cross the road?  \nTo reproduce on the other side."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "A programmer’s wife says:  \n“Buy bread. If they have eggs, buy a dozen.”  \nHe returns with 12 breads."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do Java developers wear glasses?  \nBecause they don’t C#."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Schrödinger’s bug:  \nThe code both works and doesn’t until you run it."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the AI calm?  \nIt had no emotional dependencies."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "A SQL query walks into a bar and asks:  \n“Can I join you?”"
   }
 ]

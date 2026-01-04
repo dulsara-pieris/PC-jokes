@@ -682,3 +682,15 @@ Because they always bring up old issues.
 
 335. Why did Git break up with SVN?  
 It wanted more commitment.
+
+336. Why did the programmer quit his job?  
+He didn’t get arrays.
+
+337. Why do programmers prefer dark mode?  
+Because light attracts bugs.
+
+338. Why was the commit afraid?  
+It had no message.
+
+339. Why did the bug cross the road?  
+To reproduce on the other side.

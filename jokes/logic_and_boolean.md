@@ -518,3 +518,12 @@ Too many false inputs.
 
 251. Why did the AND gate fail the test?  
 It couldn’t think independently.
+
+252. Why did the AND gate fail the exam?  
+It couldn’t think independently.
+
+253. Why do programmers love Boolean logic?  
+Because everything is either right or wrong.
+
+254. A programmer’s favorite exercise?  
+Boolean squats.

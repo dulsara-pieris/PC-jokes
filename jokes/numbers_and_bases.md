@@ -370,3 +370,9 @@ He couldn’t find the decimal point.
 
 179. Why was the programmer confused at the bar?  
 He ordered base 10 but got base 2.
+
+180. Why did the programmer hate base 8?  
+Because it doesn’t include 8 or 9.
+
+181. Why do hexadecimal numbers look cool?  
+Because they start with 0x.

@@ -817,3 +817,19 @@ He comes back with 12 breads.
 
 397. Why do programmers hate nature?  
 Too many bugs.
+
+398. A programmer’s wife says:  
+“Buy bread. If they have eggs, buy a dozen.”  
+He returns with 12 breads.
+
+399. Why do Java developers wear glasses?  
+Because they don’t C#.
+
+400. Schrödinger’s bug:  
+The code both works and doesn’t until you run it.
+
+401. Why was the AI calm?  
+It had no emotional dependencies.
+
+402. A SQL query walks into a bar and asks:  
+“Can I join you?”
