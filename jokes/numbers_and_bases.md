@@ -448,3 +448,21 @@ It could handle all the digits.
 
 216. Why did the number feel lonely?  
 Because it was NULL.
+
+217. Why did base 10 envy base 2?  
+Because it was more efficient.
+
+218. Why don’t programmers like fractions?  
+They’re irrational sometimes.
+
+219. Why was 0 invited to every party?  
+It knew how to stay neutral.
+
+220. Why did base 16 get promoted?  
+It handled more cases.
+
+221. Why did the number overflow?  
+It crossed its limits.
+
+222. Why did the binary number feel special?  
+It was one of a kind.

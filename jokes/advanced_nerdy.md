@@ -1034,3 +1034,21 @@ Not everyone gets it.
 
 501. Premature optimization is the root of all evil.  
 — still ignored.
+
+502. Big-O notation is like fame:  
+Everyone ignores constants.
+
+503. Why did the kernel panic?  
+It lost control.
+
+504. Why was the compiler strict?  
+It hated ambiguity.
+
+505. Why did the garbage collector relax?  
+Everything was freed.
+
+506. Concurrency bugs are like ghosts:  
+They disappear when you look at them.
+
+507. Debugging is like quantum physics:  
+Observing the problem changes its behavior.

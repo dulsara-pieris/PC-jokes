@@ -664,3 +664,21 @@ It had too many conditions.
 
 321. Boolean logic is like life:  
 Sometimes true, mostly false.
+
+322. Why was the OR gate optimistic?  
+At least one thing worked.
+
+323. Why did NOT feel misunderstood?  
+People kept flipping it.
+
+324. Why was XOR lonely?  
+It never fit in.
+
+325. Why did the condition fail?  
+It wasn’t met.
+
+326. Boolean logic in real life?  
+If it works, it’s true.
+
+327. Why did the IF statement hesitate?  
+It wasn’t sure about the condition.

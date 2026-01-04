@@ -895,3 +895,21 @@ It had no message.
 
 438. Why was the code always calm?  
 It was well-indented.
+
+439. Why did the loop break up?  
+It needed a break.
+
+440. Why did the function feel used?  
+Everyone kept calling it.
+
+441. Why did GitHub feel crowded?  
+Too many forks.
+
+442. Why was the variable embarrassed?  
+It wasn’t initialized.
+
+443. Why did the code sleep well?  
+No runtime errors.
+
+444. Why did the repo feel safe?  
+It had a good backup branch.

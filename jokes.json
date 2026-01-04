@@ -5902,5 +5902,101 @@
   {
     "category": "Numbers & Bases",
     "joke": "Why did the number feel lonely?  \nBecause it was NULL."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did base 10 envy base 2?  \nBecause it was more efficient."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why don’t programmers like fractions?  \nThey’re irrational sometimes."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was 0 invited to every party?  \nIt knew how to stay neutral."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did base 16 get promoted?  \nIt handled more cases."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the number overflow?  \nIt crossed its limits."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the OR gate optimistic?  \nAt least one thing worked."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did NOT feel misunderstood?  \nPeople kept flipping it."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was XOR lonely?  \nIt never fit in."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the condition fail?  \nIt wasn’t met."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Boolean logic in real life?  \nIf it works, it’s true."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the loop break up?  \nIt needed a break."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the function feel used?  \nEveryone kept calling it."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did GitHub feel crowded?  \nToo many forks."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the variable embarrassed?  \nIt wasn’t initialized."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the code sleep well?  \nNo runtime errors."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Big-O notation is like fame:  \nEveryone ignores constants."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the kernel panic?  \nIt lost control."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the compiler strict?  \nIt hated ambiguity."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the garbage collector relax?  \nEverything was freed."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Concurrency bugs are like ghosts:  \nThey disappear when you look at them."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the binary number feel special?  \nIt was one of a kind."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the IF statement hesitate?  \nIt wasn’t sure about the condition."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the repo feel safe?  \nIt had a good backup branch."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Debugging is like quantum physics:  \nObserving the problem changes its behavior."
   }
 ]
