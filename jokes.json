@@ -4598,5 +4598,53 @@
   {
     "category": "Numbers & Bases",
     "joke": "Why did the coder get stuck in base 2?  \n    He couldn’t find the decimal point."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do programmers prefer binary?  \nBecause there are only 10 kinds of people."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the coder get stuck in base 2?  \nHe couldn’t find the decimal point."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the programmer confused at the bar?  \nHe ordered base 10 but got base 2."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the boolean break up with the integer?  \nIt needed space: true or false."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the logic gate depressed?  \nToo many false inputs."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the AND gate fail the test?  \nIt couldn’t think independently."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the developer go broke?  \nBecause he used up all his cache."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers hate merge conflicts?  \nBecause they always bring up old issues."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did Git break up with SVN?  \nIt wanted more commitment."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "There are 3 kinds of people:  \nThose who understand recursion, and those who don’t."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "A programmer’s wife says:  \n“Go to the store and buy bread. If they have eggs, buy a dozen.”  \nHe comes back with 12 breads."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers hate nature?  \nToo many bugs."
   }
 ]

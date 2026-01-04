@@ -673,3 +673,12 @@
 
 332. Why was the code cold?  
     Because it left its Windows open.
+
+333. Why did the developer go broke?  
+Because he used up all his cache.
+
+334. Why do programmers hate merge conflicts?  
+Because they always bring up old issues.
+
+335. Why did Git break up with SVN?  
+It wanted more commitment.

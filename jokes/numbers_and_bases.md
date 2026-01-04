@@ -361,3 +361,12 @@
 
 176. Why did the coder get stuck in base 2?  
     He couldn’t find the decimal point.
+
+177. Why do programmers prefer binary?  
+Because there are only 10 kinds of people.
+
+178. Why did the coder get stuck in base 2?  
+He couldn’t find the decimal point.
+
+179. Why was the programmer confused at the bar?  
+He ordered base 10 but got base 2.

@@ -807,3 +807,13 @@
 
 394. There are 3 kinds of people:  
     Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+
+395. There are 3 kinds of people:  
+Those who understand recursion, and those who don’t.
+
+396. A programmer’s wife says:  
+“Go to the store and buy bread. If they have eggs, buy a dozen.”  
+He comes back with 12 breads.
+
+397. Why do programmers hate nature?  
+Too many bugs.

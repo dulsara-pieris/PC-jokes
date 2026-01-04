@@ -509,3 +509,12 @@
 
 248. Why do programmers always mix up Christmas and Halloween?  
     Because Oct 31 = Dec 25.
+
+249. Why did the boolean break up with the integer?  
+It needed space: true or false.
+
+250. Why was the logic gate depressed?  
+Too many false inputs.
+
+251. Why did the AND gate fail the test?  
+It couldn’t think independently.
