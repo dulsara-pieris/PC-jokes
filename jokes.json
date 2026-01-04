@@ -6615,4 +6615,37 @@
     "category": "Advanced Nerdy",
     "joke": "Why was Big-O terrifying?  \nGrowth went out of control."
   }
+  ,
+{ "category": "Numbers & Bases", "joke": "Why did the number line feel stretched?  \nToo many points to cover." }
+,
+{ "category": "Numbers & Bases", "joke": "Why did base 3 feel odd?  \nIt was always caught between 2 and 4." }
+,
+{ "category": "Numbers & Bases", "joke": "Why did zero feel powerful?  \nIt could multiply anything to nothing." }
+,
+{ "category": "Numbers & Bases", "joke": "Why did hexadecimal feel superior?  \nIt had more digits to play with." }
+,
+{ "category": "Logic & Boolean", "joke": "Why did AND feel stressed?  \nAll conditions depended on it." }
+,
+{ "category": "Logic & Boolean", "joke": "Why did XOR feel dramatic?  \nIt only worked when inputs differed." }
+,
+{ "category": "Logic & Boolean", "joke": "Why did NOT feel guilty?  \nIt always flipped the truth." }
+,
+{ "category": "Logic & Boolean", "joke": "Why did TRUE feel confident?  \nIt always passed tests." }
+,
+{ "category": "Coding & Git", "joke": "Why did the loop feel trapped?  \nIt forgot to break." }
+,
+{ "category": "Coding & Git", "joke": "Why did the variable feel shy?  \nIt was declared private." }
+,
+{ "category": "Coding & Git", "joke": "Why did the function feel lonely?  \nNo one ever called it." }
+,
+{ "category": "Coding & Git", "joke": "Why did Git feel rebellious?  \nIt could rewrite history." }
+,
+{ "category": "Advanced Nerdy", "joke": "Debugging is like archaeology:  \nYou dig through layers of past mistakes." }
+,
+{ "category": "Advanced Nerdy", "joke": "Why did the CPU feel tired?  \nToo many cycles." }
+,
+{ "category": "Advanced Nerdy", "joke": "Why did the stack feel pressured?  \nToo many calls piled up." }
+,
+{ "category": "Advanced Nerdy", "joke": "Why did Big-O look scary?  \nGrowth got out of control." }
+
 ]
