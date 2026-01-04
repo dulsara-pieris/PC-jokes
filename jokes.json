@@ -6634,5 +6634,29 @@
   {
     "category": "Logic & Boolean",
     "joke": "Why did IF feel stressed?  \nAll decisions relied on it."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the number zero feel left out?  \nIt had nothing to contribute."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did base 2 feel lonely?  \nIt only had 0 and 1 as friends."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the fraction feel incomplete?  \nIt couldn’t be a whole number."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did decimal feel insecure?  \nIt always got rounded."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did XOR feel complicated?  \nIt only worked when things were different."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did TRUE feel confident?  \nIt passed every test."
   }
 ]

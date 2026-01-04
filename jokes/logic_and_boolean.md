@@ -799,3 +799,9 @@ Nothing worked out.
 
 366. Why did IF feel stressed?  
 All decisions relied on it.
+
+367. Why did XOR feel complicated?  
+It only worked when things were different.
+
+368. Why did TRUE feel confident?  
+It passed every test.

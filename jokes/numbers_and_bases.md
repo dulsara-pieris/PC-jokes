@@ -604,3 +604,15 @@ It had more digits to play with.
 
 268. Why did zero feel lonely?  
 Nothing depended on it.
+
+269. Why did the number zero feel left out?  
+It had nothing to contribute.
+
+270. Why did base 2 feel lonely?  
+It only had 0 and 1 as friends.
+
+271. Why did the fraction feel incomplete?  
+It couldn’t be a whole number.
+
+272. Why did decimal feel insecure?  
+It always got rounded.
