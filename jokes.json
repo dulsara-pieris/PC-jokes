@@ -9,7 +9,7 @@
   },
   {
     "category": "Numbers & Bases",
-    "joke": "There are only 10 kinds of people: those who understand hexadecimal and those who don’t."
+    "joke": "There are only 10 kinds of people: those who understand hexadecimal and those who don\u2019t."
   },
   {
     "category": "Numbers & Bases",
@@ -21,7 +21,7 @@
   },
   {
     "category": "Numbers & Bases",
-    "joke": "Why was the function worried about its type? It didn’t want to lose its class."
+    "joke": "Why was the function worried about its type? It didn\u2019t want to lose its class."
   },
   {
     "category": "Numbers & Bases",
@@ -39,10 +39,9 @@
     "category": "Numbers & Bases",
     "joke": "There are 10 types of people: those who understand binary and those who don't."
   },
-
   {
     "category": "Logic & Boolean",
-    "joke": "If at first you don’t succeed; call it version 1.0."
+    "joke": "If at first you don\u2019t succeed; call it version 1.0."
   },
   {
     "category": "Logic & Boolean",
@@ -70,7 +69,7 @@
   },
   {
     "category": "Logic & Boolean",
-    "joke": "Programmers don’t die; they just get garbage collected."
+    "joke": "Programmers don\u2019t die; they just get garbage collected."
   },
   {
     "category": "Logic & Boolean",
@@ -80,7 +79,6 @@
     "category": "Logic & Boolean",
     "joke": "Why did the programmer bring a ladder? Because he wanted to reach the top of the stack."
   },
-
   {
     "category": "Coding & Git",
     "joke": "I told my Git to merge, but it still conflicts with my feelings."
@@ -95,7 +93,7 @@
   },
   {
     "category": "Coding & Git",
-    "joke": "Why do Java developers wear glasses? Because they don’t C#."
+    "joke": "Why do Java developers wear glasses? Because they don\u2019t C#."
   },
   {
     "category": "Coding & Git",
@@ -121,7 +119,6 @@
     "category": "Coding & Git",
     "joke": "Why did the developer go broke at the restaurant? He forgot to close his table."
   },
-
   {
     "category": "Advanced Nerdy",
     "joke": "Why do programmers hate nature? Too many bugs."
@@ -136,7 +133,7 @@
   },
   {
     "category": "Advanced Nerdy",
-    "joke": "There are 3 kinds of people: Those who can count in ternary, those who can’t, and those who didn’t expect ternary."
+    "joke": "There are 3 kinds of people: Those who can count in ternary, those who can\u2019t, and those who didn\u2019t expect ternary."
   },
   {
     "category": "Advanced Nerdy",
@@ -144,7 +141,7 @@
   },
   {
     "category": "Advanced Nerdy",
-    "joke": "Why did the Python programmer go hungry? Because he didn’t import food."
+    "joke": "Why did the Python programmer go hungry? Because he didn\u2019t import food."
   },
   {
     "category": "Advanced Nerdy",
@@ -156,15 +153,15 @@
   },
   {
     "category": "Advanced Nerdy",
-    "joke": "Why was the developer afraid of elevators? Because he couldn’t handle the stack trace."
+    "joke": "Why was the developer afraid of elevators? Because he couldn\u2019t handle the stack trace."
   },
   {
     "category": "Advanced Nerdy",
-    "joke": "A programmer’s wife asks him to take out the trash; he gives her a Boolean answer."
+    "joke": "A programmer\u2019s wife asks him to take out the trash; he gives her a Boolean answer."
   },
   {
     "category": "Advanced Nerdy",
-    "joke": "Why did the coder get lost? He couldn’t find the main() function."
+    "joke": "Why did the coder get lost? He couldn\u2019t find the main() function."
   },
   {
     "category": "Advanced Nerdy",
@@ -176,7 +173,7 @@
   },
   {
     "category": "Advanced Nerdy",
-    "joke": "Why did the coder stay calm during a fire? He used try…catch."
+    "joke": "Why did the coder stay calm during a fire? He used try\u2026catch."
   },
   {
     "category": "Advanced Nerdy",
@@ -192,7 +189,7 @@
   },
   {
     "category": "Advanced Nerdy",
-    "joke": "Why did the programmer quit his job? He didn’t get arrays."
+    "joke": "Why did the programmer quit his job? He didn\u2019t get arrays."
   },
   {
     "category": "Advanced Nerdy",
@@ -241,5 +238,85 @@
   {
     "category": "Advanced Nerdy",
     "joke": "Why do programmers love pizza? Because it has all the right slices."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the coder get kicked out of school? Because he kept breaking class rules."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers hate nature? It has too many bugs."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "There are 3 kinds of people in the world: Those who can count in ternary, those who can\u2019t, and those who didn\u2019t expect ternary."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "I would tell you a joke about Git\u2026 But you might not `merge` it well."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer go broke? Because he used up all his cache."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'"
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the function sad after a breakup? It lost its closure."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "A SQL query walks into a bar, walks up to two tables, and asks: \"Can I join you?\""
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "To understand recursion, you must first understand recursion."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "A Boolean walks into a bar. The bartender asks, 'Do you want a drink?' The Boolean replies, 'True.'"
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "How many programmers does it take to change a light bulb? None. That\u2019s a hardware problem."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer get stuck in the shower? The instructions said: Lather, Rinse, Repeat."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "To understand recursion, you must first understand recursion. 2. A Boolean walks into a bar. The bartender asks, \"Do you want a drink?\"  \n   The Boolean replies, \"True.\""
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "A Boolean walks into a bar. The bartender asks, \"Do you want a drink?\"  \n   The Boolean replies, \"True.\""
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "How many programmers does it take to change a light bulb?  \n   None. That\u2019s a hardware problem."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer get stuck in the shower?  \n   The instructions said: Lather, Rinse, Repeat."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "There are 10 types of people in the world: Those who understand binary, and those who don\u2019t."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "How do programmers count cows? 1, 10, 11\u2026 (binary counting)"
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do hexadecimal numbers make bad roommates? Because they\u2019re always high-fiving (0xF)!"
   }
 ]
