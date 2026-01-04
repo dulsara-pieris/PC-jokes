@@ -625,3 +625,9 @@ It could multiply everything to nothing.
 
 275. Why did binary get confused?  
 Too many 1s and 0s to keep track of.
+
+276. Why did base 2 feel lonely?  
+It had only two friends: 0 and 1.
+
+277. Why did zero feel invisible?  
+Nothing depended on it.
