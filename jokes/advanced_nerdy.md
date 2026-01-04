@@ -654,90 +654,156 @@
 
 327. Why did the edge function feel anxious? It was always on the edge.
 
-328. There are 3 kinds of people: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+328. Why did the programmer become a bartender? They were good at handling exceptions and serving requests.
 
-329. Why do programmers prefer dark mode? Because light attracts bugs.
+329. What's the difference between a senior engineer and a staff engineer? Staff engineers attend more meetings and write less code.
 
-330. Why did the Python programmer go hungry? Because he didn’t import food.
+330. What's a microservice's worst fear? Being called for something it wasn't designed to do.
 
-331. Why did the developer go to therapy? Too many unresolved exceptions.
+331. What's the difference between DevOps and SRE? About $20k and the word 'reliability.'
 
-332. Why do Java developers wear glasses? Because they can't C#.
+332. Why was the message queue so patient? It knew good things come to those who wait in line.
 
-333. Why was the developer afraid of elevators? Because he couldn’t handle the stack trace.
+333. Why did the Kubernetes pod feel lonely? All its replicas were in different namespaces.
 
-334. A programmer’s wife asks him to take out the trash; he gives her a Boolean answer.
+334. Why was the load balancer always fair? It treated every request equally. Until one service went down.
 
-335. Why did the coder get lost? He couldn’t find the main() function.
+335. What's a distributed system's favorite phrase? 'It's not my fault, it's eventual consistency.'
 
-336. Why did the coder go broke? He ran out of cache.
+336. What's the difference between a bug and a race condition? A race condition is a bug that only happens sometimes.
 
-337. Why did the programmer quit his job? He didn’t get arrays.
+337. What's a programmer's favorite type of cloud? The one that doesn't rain on their parade. Or go down.
 
-338. Why did the programmer cross the road? Because he needed to get to the other IDE.
+338. Why was the encryption key so secretive? Because that's literally its job.
 
-339. Why did the coder get kicked out of school? Because he kept breaking class rules.
+339. Why did the circuit breaker feel protective? It prevented cascading failures by failing first.
 
-340. Why do programmers hate nature? It has too many bugs.
+340. Why was the API so well-documented? Just kidding, it wasn't.
 
-341. There are 3 kinds of people in the world: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+341. What's the difference between a monolith and microservices? One big problem vs. many small problems.
 
-342. Why do programmers love keyboards?  
+342. What's a container registry's job? To store images that will eventually be forgotten and take up space.
+
+343. What's the difference between a tech lead and an architect? Tech leads write code. Architects draw pictures.
+
+344. Why was the reverse proxy so confused? It didn't know if it was coming or going.
+
+345. Why did the webhook feel reactive? Because it only responded when triggered.
+
+346. Why was the service mesh so complicated? Because simple solutions don't justify the complexity.
+
+347. What's the difference between staging and production? Staging is where bugs hide. Production is where they thrive.
+
+348. What's a traffic manager's job? To route requests and blame the backend when things fail.
+
+349. What's the difference between horizontal scaling and wishful thinking? About the same budget.
+
+350. Why was the SSL certificate so expensive? Because security is priceless. And also $50/year.
+
+351. Why did the cache invalidation fail? Because it's one of the two hard problems in computer science.
+
+352. Why was the CDN so fast? It cached everything and forgot nothing. Like a programmer's mistakes.
+
+353. What's the difference between a framework and a library? You call a library. A framework calls you.
+
+354. What's a service worker's favorite hobby? Working in the background without recognition.
+
+355. What's the difference between a junior and senior engineer? Juniors ask 'How?' Seniors ask 'Why?' Both end up doing it anyway.
+
+356. Why was the rate limiter so strict? Because 429 Too Many Requests is the nicest way to say 'slow down.'
+
+357. Why did the distributed system feel stressed? Because consistency is hard when everyone's far apart.
+
+358. Why was the lambda function so minimal? Because it only did one thing and did it anonymously.
+
+359. What's the difference between a tech conference and a networking event? At conferences, you pretend to understand the talks. At networking events, you pretend to like people.
+
+360. What's a secrets manager's worst nightmare? Being stored in plain text in a Git repository.
+
+361. There are 3 kinds of people: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+
+362. Why do programmers prefer dark mode? Because light attracts bugs.
+
+363. Why did the Python programmer go hungry? Because he didn’t import food.
+
+364. Why did the developer go to therapy? Too many unresolved exceptions.
+
+365. Why do Java developers wear glasses? Because they can't C#.
+
+366. Why was the developer afraid of elevators? Because he couldn’t handle the stack trace.
+
+367. A programmer’s wife asks him to take out the trash; he gives her a Boolean answer.
+
+368. Why did the coder get lost? He couldn’t find the main() function.
+
+369. Why did the coder go broke? He ran out of cache.
+
+370. Why did the programmer quit his job? He didn’t get arrays.
+
+371. Why did the programmer cross the road? Because he needed to get to the other IDE.
+
+372. Why did the coder get kicked out of school? Because he kept breaking class rules.
+
+373. Why do programmers hate nature? It has too many bugs.
+
+374. There are 3 kinds of people in the world: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+
+375. Why do programmers love keyboards?  
    Because they have all the keys to success.
 
-343. Why did the coder go to the beach?  
+376. Why did the coder go to the beach?  
    To surf the web.
 
-344. Why did the database admin go broke?  
+377. Why did the database admin go broke?  
    Too many bad relationships.
 
-345. Why did the programmer stay calm during a fire?  
+378. Why did the programmer stay calm during a fire?  
    He used try…catch.
 
-346. Why did the coder break up with JavaScript?  
+379. Why did the coder break up with JavaScript?  
    Too many callbacks.
 
-347. Why do programmers love pizza?  
+380. Why do programmers love pizza?  
    Because it has all the right slices.
 
-348. Why did the developer get lost?  
+381. Why did the developer get lost?  
    He couldn’t find the main() function.
 
-349. Why was the coder stressed?  
+382. Why was the coder stressed?  
    Too many threads to manage.
 
-350. How do programmers cheer each other up?  
+383. How do programmers cheer each other up?  
    They console.log their feelings.
 
-351. Why did the programmer cross the road?  
+384. Why did the programmer cross the road?  
     To get to the other IDE.
 
-352. Why did the Python programmer go hungry?  
+385. Why did the Python programmer go hungry?  
     Because he didn’t import food.
 
-353. Why did the coder love Linux?  
+386. Why did the coder love Linux?  
     Because he loved the terminal.
 
-354. Why was the database sad?  
+387. Why was the database sad?  
     Too many tables with bad relationships.
 
-355. Why do programmers hate bugs?  
+388. Why do programmers hate bugs?  
     They always crash the party.
 
-356. Why did the programmer bring a ladder to work?  
+389. Why did the programmer bring a ladder to work?  
     To reach the top of the stack.
 
-357. Why did the developer always carry a notebook?  
+390. Why did the developer always carry a notebook?  
     To keep track of his stack.
 
-358. Why did the computer go to art school?  
+391. Why did the computer go to art school?  
     To improve its graphics.
 
-359. Why did the coder get kicked out of school?  
+392. Why did the coder get kicked out of school?  
     He kept breaking class rules.
 
-360. What do you call 8 hobbits?  
+393. What do you call 8 hobbits?  
     A hobbyte.
 
-361. There are 3 kinds of people:  
+394. There are 3 kinds of people:  
     Those who can count in ternary, those who can’t, and those who didn’t expect ternary.

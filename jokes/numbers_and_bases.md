@@ -294,48 +294,70 @@
 
 147. What's a programmer's favorite number system? Whatever system has the fewest bugs.
 
-148. There are only 10 kinds of people: those who understand hexadecimal and those who don’t.
+148. Why is 42 the answer to everything? Because programmers said so and nobody questioned it.
 
-149. Why do programmers prefer dark mode? Because light attracts bugs.
+149. What's a programmer's favorite shape? A square. Because everything is a box model.
 
-150. Why was the function worried about its type? It didn’t want to lose its class.
+150. Why did the programmer prefer base 16? Because F is the highest grade they could get.
 
-151. Why are assembly programmers always soaking wet? They work below C-level.
+151. What's a programmer's favorite letter? C. Or C++. Or C#. Definitely not JavaScript.
 
-152. Why did the programmer write binary jokes? Because he wanted to be funny in ones and zeros.
+152. Why is 1 the loneliest number? Because it's the only positive integer that's neither prime nor composite.
 
-153. There are 10 types of people in the world: Those who understand binary, and those who don’t.
+153. What's a programmer's favorite Olympic event? The 100-meter dash. To the coffee machine.
 
-154. Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25.
+154. Why did the programmer love the number 80? Because it's the HTTP port for success.
 
-155. Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!
+155. What's a programmer's favorite time of day? 13:37. Leet o'clock.
 
-156. Why did the computer take a nap?  
+156. Why is 404 the saddest number? Because it means something is lost and will never be found.
+
+157. What's a programmer's favorite prime number? 31. Because OCT 31 = DEC 25. Yes, again.
+
+158. Why is 128 a nice number? Because it's 2^7 and fits in a signed byte. Sort of.
+
+159. There are only 10 kinds of people: those who understand hexadecimal and those who don’t.
+
+160. Why do programmers prefer dark mode? Because light attracts bugs.
+
+161. Why was the function worried about its type? It didn’t want to lose its class.
+
+162. Why are assembly programmers always soaking wet? They work below C-level.
+
+163. Why did the programmer write binary jokes? Because he wanted to be funny in ones and zeros.
+
+164. There are 10 types of people in the world: Those who understand binary, and those who don’t.
+
+165. Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25.
+
+166. Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!
+
+167. Why did the computer take a nap?  
    It had too many bytes.
 
-157. Why was the computer tired when it got home?  
+168. Why was the computer tired when it got home?  
    It had a hard drive.
 
-158. Why do programmers love binary?  
+169. Why do programmers love binary?  
    It’s as simple as 1, 0.
 
-159. Why did the integer break up with the float?  
+170. Why did the integer break up with the float?  
    Too many decimals.
 
-160. Why did the programmer go broke?  
+171. Why did the programmer go broke?  
    Because he lost his cache.
 
-161. Why are octal numbers afraid of decimal?  
+172. Why are octal numbers afraid of decimal?  
    They don’t want to be divided.
 
-162. Why was the array so sad?  
+173. Why was the array so sad?  
    Its indexes were all over the place.
 
-163. Why was 6 afraid of 7?  
+174. Why was 6 afraid of 7?  
    Because 7 8 9… in binary.
 
-164. Why do computers make terrible comedians?  
+175. Why do computers make terrible comedians?  
    They can’t handle negative feedback.
 
-165. Why did the coder get stuck in base 2?  
+176. Why did the coder get stuck in base 2?  
     He couldn’t find the decimal point.

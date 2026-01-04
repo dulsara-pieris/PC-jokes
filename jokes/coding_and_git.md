@@ -568,44 +568,108 @@
 
 284. What's the programmer's motto? 'Move fast and break things.' Then spend 6 months fixing them.
 
-285. Why do Java developers wear glasses? Because they don’t C#.
+285. Why do programmers hate small talk? There's no API documentation for human interaction.
 
-286. I would tell you a joke about Git… But you might not `merge` it well.
+286. What's a programmer's favorite type of joke? Self-referential ones. Like this one.
 
-287. Why did the programmer go broke? Because he used up all his cache.
+287. Why do programmers love rubber ducks? Because they listen without interrupting. Rubber duck debugging is real.
 
-288. A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'
+288. What's a programmer's favorite dessert? Cookies. Session cookies, authentication cookies, all the cookies.
 
-289. Why was the function sad after a breakup? It lost its closure.
+289. Why do programmers make terrible poets? They can't think outside the box. Everything is inside a container.
 
-290. A SQL query walks into a bar, walks up to two tables, and asks: "Can I join you?"
+290. What's the difference between a junior and senior developer's Git history? Seniors use rebase. Juniors use 'git commit -m fix'.
 
-291. Why did the programmer bring a ladder?  
+291. Why do programmers hate grocery shopping? No version control for their cart.
+
+292. What's a programmer's favorite pickup line? 'Is your name Wi-Fi? Because I'm feeling a connection.'
+
+293. Why do programmers love hoodies? Built-in debugging mode - hood up means do not disturb.
+
+294. What's a programmer's guide to time management? Spend 8 hours fixing a 5-minute problem.
+
+295. Why do programmers hate phone interviews? Can't Google the answers in real-time.
+
+296. What's the programmer's guide to work-life balance? Work is life. Life is work.
+
+297. Why do programmers love mechanical keyboards? The loud clicks announce their productivity.
+
+298. What's a programmer's favorite social media? GitHub. The only platform where their contributions matter.
+
+299. Why do programmers prefer dogs over cats? Dogs have better error handling - they always come when called.
+
+300. What's a programmer's favorite type of music at work? Silence. Or lo-fi beats. Never colleagues talking.
+
+301. Why do programmers hate elevators? Waiting is like watching code compile, but in real life.
+
+302. What's the programmer's guide to fashion? If it works, don't change it. Same shirt for a week.
+
+303. Why do programmers love winter? Fewer outdoor activities means more coding time.
+
+304. What's a programmer's favorite type of comedy? Dark comedy. Like their IDE theme.
+
+305. Why do programmers hate surprises? Because 'unexpected behavior' is already their daily reality.
+
+306. What's a programmer's favorite type of puzzle? Debugging production at 3 AM. Wait, that's not fun.
+
+307. Why do programmers love acronyms? Because TL;DR: They save time.
+
+308. What's the programmer's guide to cooking? Order takeout and call it 'API integration.'
+
+309. Why do programmers hate surprises? Because production should be boring, not exciting.
+
+310. What's a programmer's favorite type of movie? One they can pause to check their phone for alerts.
+
+311. Why do programmers love coffee? Because sleep is just a delay function.
+
+312. What's a programmer's favorite type of shoes? Comfortable ones. They'll be wearing them for 16 hours.
+
+313. Why do programmers hate traffic? Because it's like a poorly optimized algorithm with O(n²) complexity.
+
+314. What's the programmer's guide to relationships? If (partner.happy()) { continue; } else { debug(); }
+
+315. Why do programmers hate small fonts? Because they can't C clearly.
+
+316. What's a programmer's favorite type of weather? Overcast. Perfect screen visibility.
+
+317. Why do Java developers wear glasses? Because they don’t C#.
+
+318. I would tell you a joke about Git… But you might not `merge` it well.
+
+319. Why did the programmer go broke? Because he used up all his cache.
+
+320. A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'
+
+321. Why was the function sad after a breakup? It lost its closure.
+
+322. A SQL query walks into a bar, walks up to two tables, and asks: "Can I join you?"
+
+323. Why did the programmer bring a ladder?  
    To reach the top of the stack.
 
-292. Why did Git break up with GitHub?  
+324. Why did Git break up with GitHub?  
    Too many conflicts.
 
-293. Why do programmers love version control?  
+325. Why do programmers love version control?  
    Because it keeps their mistakes documented.
 
-294. Why did the coder go broke at the restaurant?  
+326. Why did the coder go broke at the restaurant?  
    He forgot to close his table.
 
-295. Why was the programmer afraid of the stairs?  
+327. Why was the programmer afraid of the stairs?  
    He couldn’t handle recursion.
 
-296. How do you comfort a JavaScript bug?  
+328. How do you comfort a JavaScript bug?  
    Console it.
 
-297. Why do Python developers wear glasses?  
+329. Why do Python developers wear glasses?  
    They can’t C without them.
 
-298. Why did the function refuse to work?  
+330. Why did the function refuse to work?  
    It had too many dependencies.
 
-299. How do developers fix a broken website?  
+331. How do developers fix a broken website?  
    They Ctrl+Z their mistakes.
 
-300. Why was the code cold?  
+332. Why was the code cold?  
     Because it left its Windows open.
