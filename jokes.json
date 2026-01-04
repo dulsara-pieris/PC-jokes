@@ -5094,5 +5094,49 @@
   {
     "category": "Numbers & Bases",
     "joke": "Why do hexadecimal numbers look cool?  \nBecause they start with 0x."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was base 16 always calm?  \nIt could handle all the digits."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the number feel lonely?  \nBecause it was NULL."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why do programmers love Boolean logic?  \nBecause everything is black or white."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the IF statement stressed?  \nIt had too many conditions."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Boolean logic is like life:  \nSometimes true, mostly false."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers hate merge conflicts?  \nBecause they bring up old issues."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the commit scared?  \nIt had no message."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the code always calm?  \nIt was well-indented."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "A SQL query walks into a bar and asks:  \n“Can I JOIN you?”"
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Programmer humor is like UDP:  \nNot everyone gets it."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Premature optimization is the root of all evil.  \n— still ignored."
   }
 ]

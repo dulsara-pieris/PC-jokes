@@ -398,3 +398,9 @@ Because it doesn’t include 8 or 9.
 
 192. Why do hexadecimal numbers look cool?  
 Because they start with 0x.
+
+193. Why was base 16 always calm?  
+It could handle all the digits.
+
+194. Why did the number feel lonely?  
+Because it was NULL.

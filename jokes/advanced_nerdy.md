@@ -897,3 +897,12 @@ It had no emotional dependencies.
 
 434. A SQL query walks into a bar and asks:  
 “Can I join you?”
+
+435. A SQL query walks into a bar and asks:  
+“Can I JOIN you?”
+
+436. Programmer humor is like UDP:  
+Not everyone gets it.
+
+437. Premature optimization is the root of all evil.  
+— still ignored.

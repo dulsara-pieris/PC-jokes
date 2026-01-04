@@ -760,3 +760,12 @@ It had no message.
 
 372. Why did the bug cross the road?  
 To reproduce on the other side.
+
+373. Why do programmers hate merge conflicts?  
+Because they bring up old issues.
+
+374. Why was the commit scared?  
+It had no message.
+
+375. Why was the code always calm?  
+It was well-indented.

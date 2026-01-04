@@ -571,3 +571,12 @@ Because everything is either right or wrong.
 
 276. A programmer’s favorite exercise?  
 Boolean squats.
+
+277. Why do programmers love Boolean logic?  
+Because everything is black or white.
+
+278. Why was the IF statement stressed?  
+It had too many conditions.
+
+279. Boolean logic is like life:  
+Sometimes true, mostly false.
