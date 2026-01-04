@@ -682,3 +682,33 @@ If it works, it’s true.
 
 327. Why did the IF statement hesitate?  
 It wasn’t sure about the condition.
+
+328. Why did the condition return false?  
+Because expectations were too high.
+
+329. Why was TRUE jealous of FALSE?  
+FALSE got more attention.
+
+330. Why was the IF statement nervous?  
+Too many outcomes depended on it.
+
+331. Why did ELSE feel ignored?  
+It was always the backup plan.
+
+332. Why was XOR confused?  
+It only worked when things were different.
+
+333. Why did NOT get blamed?  
+It flipped the truth.
+
+334. Why was the condition always late?  
+It took time to evaluate.
+
+335. Why did TRUE feel confident?  
+It passed every check.
+
+336. Why did FALSE fail the interview?  
+Too many failed conditions.
+
+337. Why was Boolean logic relaxing?  
+Only two choices.

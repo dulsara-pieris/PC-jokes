@@ -5998,5 +5998,189 @@
   {
     "category": "Advanced Nerdy",
     "joke": "Debugging is like quantum physics:  \nObserving the problem changes its behavior."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the binary file feel misunderstood?  \nEveryone thought it was just zeros and ones."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why don’t programmers like base 10?  \nIt’s too mainstream."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the condition return false?  \nBecause expectations were too high."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was TRUE jealous of FALSE?  \nFALSE got more attention."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the function refuse to work?  \nIt wasn’t in the scope."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the repo go to therapy?  \nToo many unresolved issues."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Debugging is like archaeology:  \nYou dig through layers to find ancient mistakes."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "The code didn’t fail.  \nIt just successfully demonstrated an unexpected feature."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did base 2 look so simple?  \nIt had only two sides."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did base 10 feel superior?  \nBecause it had more digits to show off."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was base 16 always invited?  \nIt brought more color."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the number overflow panic?  \nIt exceeded expectations."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did zero stay calm?  \nNothing affected it."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the negative number feel down?  \nIt was less than zero."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why don’t programmers trust percentages?  \nThey’re always relative."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did binary break up with decimal?  \nThey couldn’t agree on a point."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the IF statement nervous?  \nToo many outcomes depended on it."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did ELSE feel ignored?  \nIt was always the backup plan."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was XOR confused?  \nIt only worked when things were different."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did NOT get blamed?  \nIt flipped the truth."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the condition always late?  \nIt took time to evaluate."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did TRUE feel confident?  \nIt passed every check."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did FALSE fail the interview?  \nToo many failed conditions."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was Boolean logic relaxing?  \nOnly two choices."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the loop quit?  \nIt was going nowhere."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the variable blush?  \nIt was exposed globally."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the array feel crowded?  \nToo many elements."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the function feel important?  \nEveryone depended on it."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the program crash?  \nReality didn’t match assumptions."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the commit lie?  \nThe message said ‘minor fix’."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did Git feel powerful?  \nIt could rewrite history."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the branch feel lonely?  \nNo one merged it."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the code review hurt?  \nToo many comments."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Debugging is like being a detective in a crime movie where you’re also the murderer."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "A computer once beat me at chess.  \nBut it was no match for me at kickboxing."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers confuse Halloween and Christmas?  \nBecause Oct 31 == Dec 25."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the CPU get tired?  \nToo many cycles."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the RAM stressed?  \nEverything depended on it."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the stack feel attacked?  \nSomeone kept popping questions."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the heap feel messy?  \nNo clear structure."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the algorithm feel smart?  \nIt scaled well."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was Big-O scary?  \nGrowth got out of control."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the compiler argue?  \nIt took things too literally."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the kernel serious?  \nIt handled core issues."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did multithreading fail?  \nToo many arguments at once."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the deadlock feel awkward?  \nEveryone was waiting."
   }
 ]

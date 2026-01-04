@@ -913,3 +913,36 @@ No runtime errors.
 
 444. Why did the repo feel safe?  
 It had a good backup branch.
+
+445. Why did the function refuse to work?  
+It wasn’t in the scope.
+
+446. Why did the repo go to therapy?  
+Too many unresolved issues.
+
+447. Why did the loop quit?  
+It was going nowhere.
+
+448. Why did the variable blush?  
+It was exposed globally.
+
+449. Why did the array feel crowded?  
+Too many elements.
+
+450. Why did the function feel important?  
+Everyone depended on it.
+
+451. Why did the program crash?  
+Reality didn’t match assumptions.
+
+452. Why did the commit lie?  
+The message said ‘minor fix’.
+
+453. Why did Git feel powerful?  
+It could rewrite history.
+
+454. Why did the branch feel lonely?  
+No one merged it.
+
+455. Why did the code review hurt?  
+Too many comments.

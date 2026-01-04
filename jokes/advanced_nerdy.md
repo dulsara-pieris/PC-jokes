@@ -1052,3 +1052,47 @@ They disappear when you look at them.
 
 507. Debugging is like quantum physics:  
 Observing the problem changes its behavior.
+
+508. Debugging is like archaeology:  
+You dig through layers to find ancient mistakes.
+
+509. The code didn’t fail.  
+It just successfully demonstrated an unexpected feature.
+
+510. Debugging is like being a detective in a crime movie where you’re also the murderer.
+
+511. A computer once beat me at chess.  
+But it was no match for me at kickboxing.
+
+512. Why do programmers confuse Halloween and Christmas?  
+Because Oct 31 == Dec 25.
+
+513. Why did the CPU get tired?  
+Too many cycles.
+
+514. Why was the RAM stressed?  
+Everything depended on it.
+
+515. Why did the stack feel attacked?  
+Someone kept popping questions.
+
+516. Why did the heap feel messy?  
+No clear structure.
+
+517. Why did the algorithm feel smart?  
+It scaled well.
+
+518. Why was Big-O scary?  
+Growth got out of control.
+
+519. Why did the compiler argue?  
+It took things too literally.
+
+520. Why was the kernel serious?  
+It handled core issues.
+
+521. Why did multithreading fail?  
+Too many arguments at once.
+
+522. Why did the deadlock feel awkward?  
+Everyone was waiting.

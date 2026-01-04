@@ -466,3 +466,33 @@ It crossed its limits.
 
 222. Why did the binary number feel special?  
 It was one of a kind.
+
+223. Why did the binary file feel misunderstood?  
+Everyone thought it was just zeros and ones.
+
+224. Why don’t programmers like base 10?  
+It’s too mainstream.
+
+225. Why did base 2 look so simple?  
+It had only two sides.
+
+226. Why did base 10 feel superior?  
+Because it had more digits to show off.
+
+227. Why was base 16 always invited?  
+It brought more color.
+
+228. Why did the number overflow panic?  
+It exceeded expectations.
+
+229. Why did zero stay calm?  
+Nothing affected it.
+
+230. Why did the negative number feel down?  
+It was less than zero.
+
+231. Why don’t programmers trust percentages?  
+They’re always relative.
+
+232. Why did binary break up with decimal?  
+They couldn’t agree on a point.
