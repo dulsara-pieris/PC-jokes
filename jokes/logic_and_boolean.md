@@ -164,56 +164,102 @@
 
 82. What do you call logic that makes no sense? A bug feature.
 
-83. If at first you don’t succeed; call it version 1.0.
+83. Why did the programmer practice mindfulness? To debug their thoughts.
 
-84. Why did the programmer go broke? He lost all his cache.
+84. What's a Boolean's favorite restaurant? True Food Kitchen.
 
-85. Programmers don’t die; they just get garbage collected.
+85. Why was the else-if ladder so long? Too many conditions to check.
 
-86. Why do programmers always mix up Christmas and Halloween? Because Oct 31 = Dec 25.
+86. What do you call a loop that never ends? A forever friend.
 
-87. Why did the programmer bring a ladder? Because he wanted to reach the top of the stack.
+87. Why did the NAND gate feel versatile? It could build anything.
 
-88. How many programmers does it take to change a light bulb? None. That’s a hardware problem.
+88. What's a programmer's favorite sport? Logic-ball.
 
-89. To understand recursion, you must first understand recursion. 2. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
+89. Why was the XOR gate so exclusive? Only one could be true.
+
+90. What do you call a conditional that's always taken? The main path.
+
+91. Why did the do-while loop feel optimistic? It tried at least once.
+
+92. What's a programmer's favorite fruit? Logic-berries.
+
+93. Why was the foreach loop so friendly? It visited everyone.
+
+94. What do you call a function with side effects? Unpredictable.
+
+95. Why did the pure function feel proud? No side effects ever.
+
+96. What's a programmer's favorite movie genre? Conditional drama.
+
+97. Why was the goto statement considered bad? It jumped to conclusions.
+
+98. What do you call a variable that never changes? Constantly consistent.
+
+99. Why did the tail recursion feel efficient? No stack overflow worries.
+
+100. What's a programmer's favorite type of joke? One with perfect timing.
+
+101. Why was the lazy evaluation so relaxed? It waited until needed.
+
+102. What do you call a predicate that's always false? A pessimist.
+
+103. What's a programmer's favorite game console? The Logic Station.
+
+104. Why did the short-circuit evaluation feel smart? It saved time.
+
+105. What do you call an operator with no operands? Lonely.
+
+106. If at first you don’t succeed; call it version 1.0.
+
+107. Why did the programmer go broke? He lost all his cache.
+
+108. Programmers don’t die; they just get garbage collected.
+
+109. Why do programmers always mix up Christmas and Halloween? Because Oct 31 = Dec 25.
+
+110. Why did the programmer bring a ladder? Because he wanted to reach the top of the stack.
+
+111. How many programmers does it take to change a light bulb? None. That’s a hardware problem.
+
+112. To understand recursion, you must first understand recursion. 2. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
    The Boolean replies, "True."
 
-90. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
+113. A Boolean walks into a bar. The bartender asks, "Do you want a drink?"  
    The Boolean replies, "True."
 
-91. How many programmers does it take to change a light bulb?  
+114. How many programmers does it take to change a light bulb?  
    None. That’s a hardware problem.
 
-92. Why did the programmer get stuck in the shower?  
+115. Why did the programmer get stuck in the shower?  
    The instructions said: Lather, Rinse, Repeat.
 
-93. Why do programmers prefer dark mode?  
+116. Why do programmers prefer dark mode?  
    Because light attracts bugs.
 
-94. Why was the Boolean unhappy?  
+117. Why was the Boolean unhappy?  
    Because it always had to choose True or False.
 
-95. How many programmers does it take to change a light bulb?  
+118. How many programmers does it take to change a light bulb?  
    None, that’s a hardware problem.
 
-96. Why did the programmer quit his job?  
+119. Why did the programmer quit his job?  
    Because he didn’t get arrays.
 
-97. Why was the function always sad?  
+120. Why was the function always sad?  
    It had too many arguments.
 
-98. How do programmers celebrate success?  
+121. How do programmers celebrate success?  
    With a logical high-five.
 
-99. Why did the coder go to therapy?  
+122. Why did the coder go to therapy?  
    Too many unresolved exceptions.
 
-100. Why do programmers hate meetings?  
+123. Why do programmers hate meetings?  
    They prefer conditions without side effects.
 
-101. Why did the developer keep repeating himself?  
+124. Why did the developer keep repeating himself?  
    Recursion, of course.
 
-102. Why do programmers always mix up Christmas and Halloween?  
+125. Why do programmers always mix up Christmas and Halloween?  
     Because Oct 31 = Dec 25.

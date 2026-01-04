@@ -186,44 +186,94 @@
 
 93. Why did the programmer love winter? Perfect time for frozen dependencies.
 
-94. Why do Java developers wear glasses? Because they don’t C#.
+94. Why did the programmer become a musician? They loved to compose functions.
 
-95. I would tell you a joke about Git… But you might not `merge` it well.
+95. What's a developer's favorite pizza? Deep dish with extra layers.
 
-96. Why did the programmer go broke? Because he used up all his cache.
+96. Why was the changelog so detailed? It documented every journey.
 
-97. A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'
+97. What do you call a Git branch strategy? A tree of life.
 
-98. Why was the function sad after a breakup? It lost its closure.
+98. Why did the programmer love spring? Time for spring cleaning the codebase.
 
-99. A SQL query walks into a bar, walks up to two tables, and asks: "Can I join you?"
+99. What's a developer's favorite type of tea? Chai-thon.
 
-100. Why did the programmer bring a ladder?  
+100. Why was the refactor so satisfying? Everything became cleaner.
+
+101. What do you call a codebase with good tests? Well-covered.
+
+102. Why did the programmer become a writer? They loved to script.
+
+103. What's a developer's favorite holiday? Thanksgiving - time to deprecate old code.
+
+104. Why was the squash commit so tidy? It cleaned up the mess.
+
+105. What do you call a developer who loves hiking? Someone who explores the tech stack.
+
+106. Why did the programmer join the circus? They were great at juggling dependencies.
+
+107. What's a developer's favorite dance? The merge waltz.
+
+108. Why was the blame command so accusatory? It pointed fingers.
+
+109. What do you call a developer who loves cooking? A recipe scripter.
+
+110. Why did the programmer become a pilot? They wanted to navigate through clouds.
+
+111. What's a developer's favorite type of cheese? String cheese.
+
+112. Why was the bisect so helpful? It found the culprit commit.
+
+113. What do you call a programmer who never commits? Commitment-phobic.
+
+114. Why did the programmer become a therapist? They were great at handling callbacks.
+
+115. What's a developer's favorite pasta? Spaghetti code - unfortunately.
+
+116. Why was the clean code so admired? Everyone could read it.
+
+117. What do you call a developer at a zoo? Someone watching Python in action.
+
+118. Why did the programmer love puzzles? Debugging was just harder puzzles.
+
+119. Why do Java developers wear glasses? Because they don’t C#.
+
+120. I would tell you a joke about Git… But you might not `merge` it well.
+
+121. Why did the programmer go broke? Because he used up all his cache.
+
+122. A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'
+
+123. Why was the function sad after a breakup? It lost its closure.
+
+124. A SQL query walks into a bar, walks up to two tables, and asks: "Can I join you?"
+
+125. Why did the programmer bring a ladder?  
    To reach the top of the stack.
 
-101. Why did Git break up with GitHub?  
+126. Why did Git break up with GitHub?  
    Too many conflicts.
 
-102. Why do programmers love version control?  
+127. Why do programmers love version control?  
    Because it keeps their mistakes documented.
 
-103. Why did the coder go broke at the restaurant?  
+128. Why did the coder go broke at the restaurant?  
    He forgot to close his table.
 
-104. Why was the programmer afraid of the stairs?  
+129. Why was the programmer afraid of the stairs?  
    He couldn’t handle recursion.
 
-105. How do you comfort a JavaScript bug?  
+130. How do you comfort a JavaScript bug?  
    Console it.
 
-106. Why do Python developers wear glasses?  
+131. Why do Python developers wear glasses?  
    They can’t C without them.
 
-107. Why did the function refuse to work?  
+132. Why did the function refuse to work?  
    It had too many dependencies.
 
-108. How do developers fix a broken website?  
+133. How do developers fix a broken website?  
    They Ctrl+Z their mistakes.
 
-109. Why was the code cold?  
+134. Why was the code cold?  
     Because it left its Windows open.

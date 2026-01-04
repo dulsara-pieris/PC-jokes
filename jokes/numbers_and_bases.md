@@ -154,48 +154,90 @@
 
 77. What's a computer's favorite type of math? Algorithm-etic.
 
-78. There are only 10 kinds of people: those who understand hexadecimal and those who don’t.
+78. Why did the bit feel lonely? It was just a single unit.
 
-79. Why do programmers prefer dark mode? Because light attracts bugs.
+79. What's a programmer's favorite vegetable? Micro-greens in the cloud garden.
 
-80. Why was the function worried about its type? It didn’t want to lose its class.
+80. Why was the exabyte so rare? Not many could afford it.
 
-81. Why are assembly programmers always soaking wet? They work below C-level.
+81. What do you call a computer that loves math? A calculator's big brother.
 
-82. Why did the programmer write binary jokes? Because he wanted to be funny in ones and zeros.
+82. Why did the ASCII character feel limited? Only 128 possibilities.
 
-83. There are 10 types of people in the world: Those who understand binary, and those who don’t.
+83. What's a programmer's favorite fruit? Apple with Windows.
 
-84. Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25.
+84. Why was the Unicode so inclusive? It represented everyone.
 
-85. Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!
+85. What do you call a number system that's always partying? Base 16 - it's hex-static!
 
-86. Why did the computer take a nap?  
+86. Why did the checksum feel responsible? It verified everything.
+
+87. What's a computer's favorite sport? Bit-minton.
+
+88. Why was the little-endian so backwards? It started from the end.
+
+89. What do you call a byte that's always happy? Opti-bit-stic.
+
+90. Why did the big-endian feel superior? It put the most significant first.
+
+91. What's a programmer's favorite vacation spot? Silicon Valley Beach.
+
+92. Why was the CRC so protective? It caught errors.
+
+93. What do you call a computer that loves to dance? A disc-o drive.
+
+94. Why did the zettabyte feel massive? It was truly huge.
+
+95. What's a programmer's favorite drink? Root beer - for the root directory.
+
+96. Why was the mantissa so precise? It handled the decimal part.
+
+97. Why was the yottabyte so legendary? Almost mythical in size.
+
+98. What's a computer's favorite exercise? Bit-crunches.
+
+99. There are only 10 kinds of people: those who understand hexadecimal and those who don’t.
+
+100. Why do programmers prefer dark mode? Because light attracts bugs.
+
+101. Why was the function worried about its type? It didn’t want to lose its class.
+
+102. Why are assembly programmers always soaking wet? They work below C-level.
+
+103. Why did the programmer write binary jokes? Because he wanted to be funny in ones and zeros.
+
+104. There are 10 types of people in the world: Those who understand binary, and those who don’t.
+
+105. Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25.
+
+106. Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!
+
+107. Why did the computer take a nap?  
    It had too many bytes.
 
-87. Why was the computer tired when it got home?  
+108. Why was the computer tired when it got home?  
    It had a hard drive.
 
-88. Why do programmers love binary?  
+109. Why do programmers love binary?  
    It’s as simple as 1, 0.
 
-89. Why did the integer break up with the float?  
+110. Why did the integer break up with the float?  
    Too many decimals.
 
-90. Why did the programmer go broke?  
+111. Why did the programmer go broke?  
    Because he lost his cache.
 
-91. Why are octal numbers afraid of decimal?  
+112. Why are octal numbers afraid of decimal?  
    They don’t want to be divided.
 
-92. Why was the array so sad?  
+113. Why was the array so sad?  
    Its indexes were all over the place.
 
-93. Why was 6 afraid of 7?  
+114. Why was 6 afraid of 7?  
    Because 7 8 9… in binary.
 
-94. Why do computers make terrible comedians?  
+115. Why do computers make terrible comedians?  
    They can’t handle negative feedback.
 
-95. Why did the coder get stuck in base 2?  
+116. Why did the coder get stuck in base 2?  
     He couldn’t find the decimal point.

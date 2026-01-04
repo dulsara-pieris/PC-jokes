@@ -260,90 +260,156 @@
 
 130. What's a programmer's favorite type of relationship? Many-to-many with proper constraints.
 
-131. There are 3 kinds of people: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+131. Why did the consensus algorithm feel democratic? Everyone had to agree.
 
-132. Why do programmers prefer dark mode? Because light attracts bugs.
+132. What's a hacker's favorite meal? Phishing and chips.
 
-133. Why did the Python programmer go hungry? Because he didn’t import food.
+133. Why was the replica set so reliable? Redundancy for safety.
 
-134. Why did the developer go to therapy? Too many unresolved exceptions.
+134. What do you call a container orchestrator? The conductor of chaos.
 
-135. Why do Java developers wear glasses? Because they can't C#.
+135. Why did the saga pattern feel epic? It told a distributed story.
 
-136. Why was the developer afraid of elevators? Because he couldn’t handle the stack trace.
+136. What's a programmer's favorite Shakespeare play? As You Await It.
 
-137. A programmer’s wife asks him to take out the trash; he gives her a Boolean answer.
+137. Why was the circuit breaker so protective? It prevented cascading failures.
 
-138. Why did the coder get lost? He couldn’t find the main() function.
+138. What do you call a distributed transaction? A coordinated effort.
 
-139. Why did the coder go broke? He ran out of cache.
+139. Why did the rate limiter feel controlling? It throttled everything.
 
-140. Why did the programmer quit his job? He didn’t get arrays.
+140. What's a programmer's favorite planet? Mars - the god of WAR files.
 
-141. Why did the programmer cross the road? Because he needed to get to the other IDE.
+141. Why was the WAL so persistent? It logged everything first.
 
-142. Why did the coder get kicked out of school? Because he kept breaking class rules.
+142. What do you call a developer who loves space? A cosmic coder.
 
-143. Why do programmers hate nature? It has too many bugs.
+143. Why did the eventual consistency feel patient? It knew things would align.
 
-144. There are 3 kinds of people in the world: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+144. What's a programmer's favorite season? Spring - for Spring Boot.
 
-145. Why do programmers love keyboards?  
+145. Why was the CQRS pattern so organized? Reads and writes separated.
+
+146. What do you call a perfect hash function? A dream come true.
+
+147. Why did the pub-sub pattern feel social? Everyone subscribed.
+
+148. What's a programmer's favorite type of bird? A Java sparrow.
+
+149. Why was the idempotent operation so safe? You could retry it.
+
+150. What do you call a bloom filter? An optimistic gatekeeper.
+
+151. Why did the CAP theorem feel limiting? You can't have it all.
+
+152. What's a programmer's favorite type of coffee? Java with a shot of Espresso.
+
+153. Why was the vector clock so confusing? Time became partial.
+
+154. What do you call a consistent hash ring? A balanced circle.
+
+155. Why did the gossip protocol spread rumors? That's how it worked.
+
+156. What's a programmer's favorite type of tree? A trie - it's so efficient.
+
+157. Why was the two-phase commit so careful? It asked twice.
+
+158. What do you call a skip list? A probabilistic ladder.
+
+159. Why did the Merkle tree feel secure? Its roots were cryptographic.
+
+160. What's a programmer's favorite card game? Distributed Poker.
+
+161. Why did the Raft consensus feel stable? It had a strong leader.
+
+162. What do you call a perfect distributed system? Theoretical.
+
+163. Why was the eventual consistency so zen? It accepted uncertainty.
+
+164. There are 3 kinds of people: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+
+165. Why do programmers prefer dark mode? Because light attracts bugs.
+
+166. Why did the Python programmer go hungry? Because he didn’t import food.
+
+167. Why did the developer go to therapy? Too many unresolved exceptions.
+
+168. Why do Java developers wear glasses? Because they can't C#.
+
+169. Why was the developer afraid of elevators? Because he couldn’t handle the stack trace.
+
+170. A programmer’s wife asks him to take out the trash; he gives her a Boolean answer.
+
+171. Why did the coder get lost? He couldn’t find the main() function.
+
+172. Why did the coder go broke? He ran out of cache.
+
+173. Why did the programmer quit his job? He didn’t get arrays.
+
+174. Why did the programmer cross the road? Because he needed to get to the other IDE.
+
+175. Why did the coder get kicked out of school? Because he kept breaking class rules.
+
+176. Why do programmers hate nature? It has too many bugs.
+
+177. There are 3 kinds of people in the world: Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
+
+178. Why do programmers love keyboards?  
    Because they have all the keys to success.
 
-146. Why did the coder go to the beach?  
+179. Why did the coder go to the beach?  
    To surf the web.
 
-147. Why did the database admin go broke?  
+180. Why did the database admin go broke?  
    Too many bad relationships.
 
-148. Why did the programmer stay calm during a fire?  
+181. Why did the programmer stay calm during a fire?  
    He used try…catch.
 
-149. Why did the coder break up with JavaScript?  
+182. Why did the coder break up with JavaScript?  
    Too many callbacks.
 
-150. Why do programmers love pizza?  
+183. Why do programmers love pizza?  
    Because it has all the right slices.
 
-151. Why did the developer get lost?  
+184. Why did the developer get lost?  
    He couldn’t find the main() function.
 
-152. Why was the coder stressed?  
+185. Why was the coder stressed?  
    Too many threads to manage.
 
-153. How do programmers cheer each other up?  
+186. How do programmers cheer each other up?  
    They console.log their feelings.
 
-154. Why did the programmer cross the road?  
+187. Why did the programmer cross the road?  
     To get to the other IDE.
 
-155. Why did the Python programmer go hungry?  
+188. Why did the Python programmer go hungry?  
     Because he didn’t import food.
 
-156. Why did the coder love Linux?  
+189. Why did the coder love Linux?  
     Because he loved the terminal.
 
-157. Why was the database sad?  
+190. Why was the database sad?  
     Too many tables with bad relationships.
 
-158. Why do programmers hate bugs?  
+191. Why do programmers hate bugs?  
     They always crash the party.
 
-159. Why did the programmer bring a ladder to work?  
+192. Why did the programmer bring a ladder to work?  
     To reach the top of the stack.
 
-160. Why did the developer always carry a notebook?  
+193. Why did the developer always carry a notebook?  
     To keep track of his stack.
 
-161. Why did the computer go to art school?  
+194. Why did the computer go to art school?  
     To improve its graphics.
 
-162. Why did the coder get kicked out of school?  
+195. Why did the coder get kicked out of school?  
     He kept breaking class rules.
 
-163. What do you call 8 hobbits?  
+196. What do you call 8 hobbits?  
     A hobbyte.
 
-164. There are 3 kinds of people:  
+197. There are 3 kinds of people:  
     Those who can count in ternary, those who can’t, and those who didn’t expect ternary.
