@@ -6579,4 +6579,37 @@
     "category": "Advanced Nerdy",
     "joke": "Why did Big-O look scary?  \nGrowth got out of control."
   }
+  ,
+{ "category": "Numbers & Bases", "joke": "Why did the integer go to therapy?  \nIt couldn’t handle its negative side." }
+,
+{ "category": "Numbers & Bases", "joke": "Why did the fraction feel left out?  \nIt wasn’t part of a whole." }
+,
+{ "category": "Numbers & Bases", "joke": "Why did binary feel misunderstood?  \nPeople only saw zeros and ones." }
+,
+{ "category": "Numbers & Bases", "joke": "Why did base 10 get tired?  \nToo many digits to keep track of." }
+,
+{ "category": "Logic & Boolean", "joke": "Why did the IF statement panic?  \nEverything depended on its decision." }
+,
+{ "category": "Logic & Boolean", "joke": "Why did ELSE feel ignored?  \nIt only showed up when things failed." }
+,
+{ "category": "Logic & Boolean", "joke": "Why did TRUE feel confident?  \nIt always passed tests." }
+,
+{ "category": "Logic & Boolean", "joke": "Why did FALSE feel embarrassed?  \nNothing worked out." }
+,
+{ "category": "Coding & Git", "joke": "Why did the loop feel endless?  \nIt forgot to break." }
+,
+{ "category": "Coding & Git", "joke": "Why did the variable blush?  \nIt was exposed globally." }
+,
+{ "category": "Coding & Git", "joke": "Why did the function feel lonely?  \nNo one ever called it." }
+,
+{ "category": "Coding & Git", "joke": "Why did Git feel powerful?  \nIt could rewrite history." }
+,
+{ "category": "Advanced Nerdy", "joke": "Debugging is like being a detective in a crime movie where you’re also the murderer." }
+,
+{ "category": "Advanced Nerdy", "joke": "Why did the CPU feel dizzy?  \nToo many context switches." }
+,
+{ "category": "Advanced Nerdy", "joke": "Why did the heap feel messy?  \nMemory leaks everywhere." }
+,
+{ "category": "Advanced Nerdy", "joke": "Why was Big-O terrifying?  \nGrowth went out of control." }
+
 ]
