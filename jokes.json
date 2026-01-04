@@ -4641,6 +4641,386 @@
   },
   {
     "category": "Advanced Nerdy",
+    "joke": "Why did the blockchain developer feel immutable? Because once they made a decision, they couldn't change it."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite type of cookie? Session cookies. They're temporary, like their motivation."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers hate birthdays? Because age++ is a constant reminder of time passing."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a Kubernetes cluster's favorite song? 'We Are Family' by Sister Sledge. All my pods and me."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why is 13 unlucky for programmers? Because arrays start at 0 and 13 means you're off by one."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite type of joke timing? Asynchronous. The punchline comes later."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer become a monk? To achieve inner null and outer peace."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's the difference between a data warehouse and a data lake? One is organized chaos, the other is just chaos."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers love pizza? Because it's O(1) to eat and O(n) to share."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a rate limiter's favorite phrase? 'Slow down, you're going too fast.'"
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer hate mirrors? Too much reflection and self-referencing."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite type of exercise? Running migrations. It's the only running they do."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the eventual consistency so zen? Because it knew everything would be okay... eventually."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a programmer's favorite hexadecimal digit? F. Because that's what they got in math class."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers hate shopping? No undo button for impulse purchases."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite type of door? One with proper access control and authentication."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the garbage collector feel unappreciated? Because everyone only notices when it's NOT working."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's the programmer's guide to romance? If (love) { while(true) { commit(); } }"
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the API gateway so tired? Because it stood at the entrance checking everyone's credentials."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite type of restaurant? One with a good API... wait, that's not how restaurants work."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers love cats? Because cats are independent, ignore you, and do their own thing. Perfect pets."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a distributed trace's job? To follow the breadcrumbs through the microservice forest."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why is 0.1 + 0.2 not equal to 0.3? Because JavaScript said so. Don't question it."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite type of comedy? Observability. Wait, no, that's not funny."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer refuse to go to the gym? Too many reps and not enough REST."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a service mesh's favorite hobby? Connecting services that could have just talked directly."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers love mechanical keyboards? The clicking sound masks the sound of their stress."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's the difference between a container and a VM? About 500MB and a lot of technical arguments."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the boolean go to anger management? Because it was always flipping out."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite pickup line? 'Are you a commit? Because I want to push you to production.'"
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the health check endpoint so anxious? Because everyone kept asking if it was okay."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a programmer's favorite Roman numeral? None. They don't have zero. Useless."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers hate fashion? Too many layers and no clear stack trace."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite type of car? One with cruise control. Like their automated tests."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the dead letter queue feel depressed? Because it was where failed messages went to die."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's the programmer's guide to productivity? Procrastinate with side projects instead of main project."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the cache hit ratio so proud? Because it succeeded more than it failed. Unlike the developer."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite type of music video? One with good buffering."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers love hoodies with zippers? Easy on, easy off, just like their production deploys."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a circuit breaker's favorite movie? The Fault in Our Services."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why is 65535 a special number? Because it's the maximum for unsigned 16-bit. Also, Christmas lights."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite type of tree? A decision tree. The only tree with clear logic."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer hate riddles? Not enough type safety and too much ambiguity."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's the difference between a senior engineer and a principal engineer? Principals have 'opinions' instead of 'suggestions.'"
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers love noise-canceling headphones? To cancel out reality."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a blue-green deployment's worst fear? Forgetting which one is production."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer become a vegan? Too many memory leaks from eating meat. Wait, that doesn't make sense."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite type of map? A hash map. It's fast and efficient."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the feature flag so indecisive? Because it could be on OR off. Classic boolean behavior."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a programmer's favorite fraction? 1/0. Because it's infinitely interesting. And crashes."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers hate clocks? Because time is a social construct and deadlines are violence."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite type of fish? A beta fish. Alpha is too risky."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the canary deployment feel nervous? Because it was sent in first to test the waters."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's the programmer's guide to fashion? Comfortable over stylish. Function over form."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the ingress controller so bossy? Because it controlled who got in."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite type of joke structure? Setup, execution, return punchline."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers love socks? Because they come in pairs, like programming."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a sidecar pattern's favorite saying? 'I'm not the main character, but I'm essential.'"
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why is 1024 better than 1000? Because 2^10 is more satisfying than 10^3."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite season? Fall. Because of falling back to standard time and falling tests."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer refuse to play poker? Too much bluffing, not enough boolean logic."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a request timeout's favorite phrase? 'Sorry, I gave up waiting for you.'"
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers love winter? Fewer bugs. Cold weather kills them."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's the difference between stateful and stateless? About 100GB of session data."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer hate philosophy? Too many undefined terms and no compilation errors."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite type of magic? The kind that makes code work. Still looking for it."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the retry logic so persistent? Because at first you don't succeed, retry, retry again."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a programmer's favorite multiplication? 8 * 8 = 64. Perfectly byte-ful."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers love coffee? Because sleep is for the weak and the unemployed."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite type of bird? A Java sparrow. Or a Python snake. Wait, that's not a bird."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the rate limiting algorithm feel guilty? Because it kept rejecting requests."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's the programmer's guide to health? Don't die. Ship code. Repeat."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the connection pool so exclusive? Limited slots, high demand."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite type of exercise? Exception handling. It's a mental workout."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers hate traffic lights? Too much waiting and not enough threading."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a saga orchestrator's job? To coordinate chaos across distributed systems."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why is 512 a nice number? Because it's 2^9 and half a kilobyte. Perfect."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite type of cheese? String cheese. Obviously."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer become a pilot? To navigate through cloud infrastructure."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a backpressure mechanism's motto? 'Slow down or I'll drop you.'"
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers love standing desks? So they can quickly run when production breaks."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's the difference between a hotfix and a patch? Hotfix is urgent. Patch is 'we'll get to it eventually.'"
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the boolean refuse to attend therapy? It was either going or not going. No middle ground."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's a programmer's favorite type of tea? Java. Wait, that's coffee."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the idempotency key so reliable? Because doing it twice was the same as doing it once."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "What's a programmer's favorite power of 2? All of them. They're all beautiful."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers hate surprises? Because production surprises are never good."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite type of flower? A binary tree. Wait, that's not a flower."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the graceful shutdown feel polite? Because it cleaned up before leaving."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "What's the programmer's guide to vacation? Bring laptop. Check Slack. Not really a vacation."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the circuit breaking so dramatic? Because it literally cut connections."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "What's a programmer's favorite type of salad? Word salad. From bad documentation."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers love blankets? Because they're wrapped in comfort, like error handling."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What's a chaos monkey's favorite pastime? Breaking things randomly to prove a point."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why is 2048 satisfying? Because it's 2^11 and also a great game. Perfect procrastination."
+  },
+  {
+    "category": "Advanced Nerdy",
     "joke": "There are 3 kinds of people: Those who can count in ternary, those who can’t, and those who didn’t expect ternary."
   },
   {
@@ -4808,6 +5188,18 @@
     "joke": "A SQL query walks into a bar and asks:  \n“Can I join you?”"
   },
   {
+    "category": "Advanced Nerdy",
+    "joke": "A SQL query walks into a bar and asks:  \n“Can I JOIN you?”"
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Programmer humor is like UDP:  \nNot everyone gets it."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Premature optimization is the root of all evil.  \n— still ignored."
+  },
+  {
     "category": "Coding & Git",
     "joke": "Why do Java developers wear glasses? Because they don’t C#."
   },
@@ -4898,6 +5290,18 @@
   {
     "category": "Coding & Git",
     "joke": "Why did the bug cross the road?  \nTo reproduce on the other side."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers hate merge conflicts?  \nBecause they bring up old issues."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the commit scared?  \nIt had no message."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the code always calm?  \nIt was well-indented."
   },
   {
     "category": "Logic & Boolean",
@@ -5004,6 +5408,18 @@
     "joke": "A programmer’s favorite exercise?  \nBoolean squats."
   },
   {
+    "category": "Logic & Boolean",
+    "joke": "Why do programmers love Boolean logic?  \nBecause everything is black or white."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the IF statement stressed?  \nIt had too many conditions."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Boolean logic is like life:  \nSometimes true, mostly false."
+  },
+  {
     "category": "Numbers & Bases",
     "joke": "There are only 10 kinds of people: those who understand hexadecimal and those who don’t."
   },
@@ -5102,41 +5518,5 @@
   {
     "category": "Numbers & Bases",
     "joke": "Why did the number feel lonely?  \nBecause it was NULL."
-  },
-  {
-    "category": "Logic & Boolean",
-    "joke": "Why do programmers love Boolean logic?  \nBecause everything is black or white."
-  },
-  {
-    "category": "Logic & Boolean",
-    "joke": "Why was the IF statement stressed?  \nIt had too many conditions."
-  },
-  {
-    "category": "Logic & Boolean",
-    "joke": "Boolean logic is like life:  \nSometimes true, mostly false."
-  },
-  {
-    "category": "Coding & Git",
-    "joke": "Why do programmers hate merge conflicts?  \nBecause they bring up old issues."
-  },
-  {
-    "category": "Coding & Git",
-    "joke": "Why was the commit scared?  \nIt had no message."
-  },
-  {
-    "category": "Coding & Git",
-    "joke": "Why was the code always calm?  \nIt was well-indented."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "A SQL query walks into a bar and asks:  \n“Can I JOIN you?”"
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "Programmer humor is like UDP:  \nNot everyone gets it."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "Premature optimization is the root of all evil.  \n— still ignored."
   }
 ]
