@@ -1,63 +1,134 @@
 [
   {
     "category": "Numbers & Bases",
-    "joke": "There are 10 types of people in the world: Those who understand binary, and those who don\u2019t."
+    "joke": "Binary is like a language only computers understand; humans just get lost."
   },
   {
     "category": "Numbers & Bases",
-    "joke": "Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25."
+    "joke": "Why was the computer cold? It left its Windows open."
   },
   {
     "category": "Numbers & Bases",
-    "joke": "How do programmers count cows? 1, 10, 11\u2026 (binary counting)"
+    "joke": "There are only 10 kinds of people: those who understand hexadecimal and those who don’t."
   },
   {
     "category": "Numbers & Bases",
-    "joke": "Why do hexadecimal numbers make bad roommates? Because they\u2019re always high-fiving (0xF)!"
+    "joke": "Why did the programmer confuse Christmas and Halloween? Because DEC 25 = OCT 31."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do programmers prefer dark mode? Because light attracts bugs."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why was the function worried about its type? It didn’t want to lose its class."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why are assembly programmers always soaking wet? They work below C-level."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the programmer write binary jokes? Because he wanted to be funny in ones and zeros."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why did the decimal cross the road? To get to base 2."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "There are 10 types of people: those who understand binary and those who don't."
+  },
+
+  {
+    "category": "Logic & Boolean",
+    "joke": "If at first you don’t succeed; call it version 1.0."
   },
   {
     "category": "Logic & Boolean",
-    "joke": "To understand recursion, you must first understand recursion."
+    "joke": "Why do programmers hate spaces? Because they prefer tabs."
   },
   {
     "category": "Logic & Boolean",
-    "joke": "A Boolean walks into a bar. The bartender asks, 'Do you want a drink?' The Boolean replies, 'True.'"
+    "joke": "A Boolean walks into a bar and says nothing, because it's false."
   },
   {
     "category": "Logic & Boolean",
-    "joke": "How many programmers does it take to change a light bulb? None. That\u2019s a hardware problem."
+    "joke": "Why do programmers love logic gates? Because they know how to 'and' and 'or'."
   },
   {
     "category": "Logic & Boolean",
-    "joke": "Why did the programmer get stuck in the shower? The instructions said: Lather, Rinse, Repeat."
+    "joke": "Why did the programmer go broke? He lost all his cache."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Recursion is when a function calls itself, but only after reading the documentation."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why was the Boolean sad? Because it was always false."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Programmers don’t die; they just get garbage collected."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why do programmers always mix up Christmas and Halloween? Because Oct 31 = Dec 25."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer bring a ladder? Because he wanted to reach the top of the stack."
+  },
+
+  {
+    "category": "Coding & Git",
+    "joke": "I told my Git to merge, but it still conflicts with my feelings."
   },
   {
     "category": "Coding & Git",
-    "joke": "I would tell you a joke about Git\u2026 But you might not `merge` it well."
+    "joke": "Why did the developer go broke? Because he used all his cache."
   },
   {
     "category": "Coding & Git",
-    "joke": "Why do Java developers wear glasses? Because they don\u2019t C#."
+    "joke": "Git commit -m 'fixes everything' never works, yet we try it anyway."
   },
   {
     "category": "Coding & Git",
-    "joke": "Why did the programmer go broke? Because he used up all his cache."
+    "joke": "Why do Java developers wear glasses? Because they don’t C#."
   },
   {
     "category": "Coding & Git",
-    "joke": "A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'"
+    "joke": "I would tell you a joke about Git, but you might not 'merge' it well."
   },
   {
     "category": "Coding & Git",
-    "joke": "Why was the function sad after a breakup? It lost its closure."
+    "joke": "A SQL query walks into a bar, walks up to two tables and asks: 'Can I join you?'"
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the function sad? It lost its closure."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the coder get stuck in the shower? He was caught in an infinite loop of shampooing."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do programmers prefer iOS development? Because Swift makes them fast."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the developer go broke at the restaurant? He forgot to close his table."
+  },
+
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers hate nature? Too many bugs."
   },
   {
     "category": "Advanced Nerdy",
-    "joke": "Why did the coder get kicked out of school? Because he kept breaking class rules."
-  },
-  {
-    "category": "Advanced Nerdy",
-    "joke": "Why do programmers hate nature? It has too many bugs."
+    "joke": "Why did the coder get kicked out of school? He kept breaking class rules."
   },
   {
     "category": "Advanced Nerdy",
@@ -65,26 +136,110 @@
   },
   {
     "category": "Advanced Nerdy",
-    "joke": "There are 3 kinds of people in the world: Those who can count in ternary, those who can\u2019t, and those who didn\u2019t expect ternary."
+    "joke": "There are 3 kinds of people: Those who can count in ternary, those who can’t, and those who didn’t expect ternary."
   },
   {
-    "category": "Coding & Git",
-    "joke": "A SQL query walks into a bar, walks up to two tables, and asks: \"Can I join you?\""
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers prefer dark mode? Because light attracts bugs."
   },
   {
-    "category": "Logic & Boolean",
-    "joke": "To understand recursion, you must first understand recursion. 2. A Boolean walks into a bar. The bartender asks, \"Do you want a drink?\"  \n   The Boolean replies, \"True.\""
+    "category": "Advanced Nerdy",
+    "joke": "Why did the Python programmer go hungry? Because he didn’t import food."
   },
   {
-    "category": "Logic & Boolean",
-    "joke": "A Boolean walks into a bar. The bartender asks, \"Do you want a drink?\"  \n   The Boolean replies, \"True.\""
+    "category": "Advanced Nerdy",
+    "joke": "Why did the developer go to therapy? Too many unresolved exceptions."
   },
   {
-    "category": "Logic & Boolean",
-    "joke": "How many programmers does it take to change a light bulb?  \n   None. That\u2019s a hardware problem."
+    "category": "Advanced Nerdy",
+    "joke": "Why do Java developers wear glasses? Because they can't C#."
   },
   {
-    "category": "Logic & Boolean",
-    "joke": "Why did the programmer get stuck in the shower?  \n   The instructions said: Lather, Rinse, Repeat."
+    "category": "Advanced Nerdy",
+    "joke": "Why was the developer afraid of elevators? Because he couldn’t handle the stack trace."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "A programmer’s wife asks him to take out the trash; he gives her a Boolean answer."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the coder get lost? He couldn’t find the main() function."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the programmer always carry a map? To avoid infinite loops."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "How do programmers cheer each other up? They console.log their feelings."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the coder stay calm during a fire? He used try…catch."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do developers love cookies? Because they always clear them."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the computer go to art school? To improve its graphics."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the coder go broke? He ran out of cache."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the programmer quit his job? He didn’t get arrays."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the programmer like Linux? Because he loved the terminal."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers love keyboards? Because they have all the keys to success."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers hate nature? Too many bugs."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the coder stressed? He had too many threads to manage."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the programmer bring a ladder to work? To reach the top of the stack."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the programmer cross the road? Because he needed to get to the other IDE."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the coder break up with JavaScript? Too many callbacks."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers hate bugs? Because they always crash the party."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the developer always carry a notebook? To keep track of his stack."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why was the database administrator sad? Too many relationships ended badly."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the coder go to the beach? To surf the web."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers love pizza? Because it has all the right slices."
   }
 ]
