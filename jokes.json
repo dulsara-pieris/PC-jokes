@@ -1,22 +1,90 @@
 [
-  {"category": "Numbers & Bases", "joke": "There are 10 types of people in the world: Those who understand binary, and those who don’t."},
-  {"category": "Numbers & Bases", "joke": "Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25."},
-  {"category": "Numbers & Bases", "joke": "How do programmers count cows? 1, 10, 11… (binary counting)"},
-  {"category": "Numbers & Bases", "joke": "Why do hexadecimal numbers make bad roommates? Because they’re always high-fiving (0xF)!"},
-
-  {"category": "Logic & Boolean", "joke": "To understand recursion, you must first understand recursion."},
-  {"category": "Logic & Boolean", "joke": "A Boolean walks into a bar. The bartender asks, 'Do you want a drink?' The Boolean replies, 'True.'"},
-  {"category": "Logic & Boolean", "joke": "How many programmers does it take to change a light bulb? None. That’s a hardware problem."},
-  {"category": "Logic & Boolean", "joke": "Why did the programmer get stuck in the shower? The instructions said: Lather, Rinse, Repeat."},
-
-  {"category": "Coding & Git", "joke": "I would tell you a joke about Git… But you might not `merge` it well."},
-  {"category": "Coding & Git", "joke": "Why do Java developers wear glasses? Because they don’t C#."},
-  {"category": "Coding & Git", "joke": "Why did the programmer go broke? Because he used up all his cache."},
-  {"category": "Coding & Git", "joke": "A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'"},
-  {"category": "Coding & Git", "joke": "Why was the function sad after a breakup? It lost its closure."},
-
-  {"category": "Advanced Nerdy", "joke": "Why did the coder get kicked out of school? Because he kept breaking class rules."},
-  {"category": "Advanced Nerdy", "joke": "Why do programmers hate nature? It has too many bugs."},
-  {"category": "Advanced Nerdy", "joke": "What do you call 8 hobbits? A hobbyte."},
-  {"category": "Advanced Nerdy", "joke": "There are 3 kinds of people in the world: Those who can count in ternary, those who can’t, and those who didn’t expect ternary."}
+  {
+    "category": "Numbers & Bases",
+    "joke": "There are 10 types of people in the world: Those who understand binary, and those who don\u2019t."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do programmers always mix up Halloween and Christmas? Because Oct 31 = Dec 25."
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "How do programmers count cows? 1, 10, 11\u2026 (binary counting)"
+  },
+  {
+    "category": "Numbers & Bases",
+    "joke": "Why do hexadecimal numbers make bad roommates? Because they\u2019re always high-fiving (0xF)!"
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "To understand recursion, you must first understand recursion."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "A Boolean walks into a bar. The bartender asks, 'Do you want a drink?' The Boolean replies, 'True.'"
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "How many programmers does it take to change a light bulb? None. That\u2019s a hardware problem."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer get stuck in the shower? The instructions said: Lather, Rinse, Repeat."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "I would tell you a joke about Git\u2026 But you might not `merge` it well."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why do Java developers wear glasses? Because they don\u2019t C#."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why did the programmer go broke? Because he used up all his cache."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "A SQL query walks into a bar, walks up to two tables, and asks: 'Can I join you?'"
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "Why was the function sad after a breakup? It lost its closure."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why did the coder get kicked out of school? Because he kept breaking class rules."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "Why do programmers hate nature? It has too many bugs."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "What do you call 8 hobbits? A hobbyte."
+  },
+  {
+    "category": "Advanced Nerdy",
+    "joke": "There are 3 kinds of people in the world: Those who can count in ternary, those who can\u2019t, and those who didn\u2019t expect ternary."
+  },
+  {
+    "category": "Coding & Git",
+    "joke": "A SQL query walks into a bar, walks up to two tables, and asks: \"Can I join you?\""
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "To understand recursion, you must first understand recursion. 2. A Boolean walks into a bar. The bartender asks, \"Do you want a drink?\"  \n   The Boolean replies, \"True.\""
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "A Boolean walks into a bar. The bartender asks, \"Do you want a drink?\"  \n   The Boolean replies, \"True.\""
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "How many programmers does it take to change a light bulb?  \n   None. That\u2019s a hardware problem."
+  },
+  {
+    "category": "Logic & Boolean",
+    "joke": "Why did the programmer get stuck in the shower?  \n   The instructions said: Lather, Rinse, Repeat."
+  }
 ]
